@@ -1,0 +1,398 @@
+<?php
+require_once 'config.php';
+
+// دالة لتنسيق عنوان اللعبة ليكون مناسبًا للروابط
+function formatTitleForUrl($title) {
+    if (empty($title)) return '';
+    $title = strtolower(trim($title));
+    $title = preg_replace('/[^a-z0-9\s\-]/u', '', $title);
+    $title = preg_replace('/[\s-]+/', '-', $title);
+    return trim($title, '-');
+}
+
+// ✨ دالة تنسيق عدد التحميلات ✨
+function formatDownloads($count) {
+    if ($count >= 1000000) {
+        return round($count / 1000000, 1) . 'M';
+    } elseif ($count >= 1000) {
+        return round($count / 1000, 1) . 'K';
+    }
+    return $count;
+}
+
+// تعريف المتغيرات الأساسية
+ $pageTitle = "تحميل ألعاب PS4 مجاناً بالعربي | PSPKG-arabic";
+ $currentPage = "ps4-games";
+
+// تحميل بيانات الألعاب
+function loadGamesData() {
+    $jsonFile = 'data/ps4-games.json';
+    
+    if (file_exists($jsonFile)) {
+        $jsonContent = file_get_contents($jsonFile);
+        return json_decode($jsonContent, true);
+    }
+    
+    return [];
+}
+
+// الحصول على الألعاب
+ $games = loadGamesData();
+
+// فرز جميع ألعاب PS4 تنازليًا حسب المعرف
+usort($games, function($a, $b) {
+    $idA = isset($a['id']) ? $a['id'] : 0;
+    $idB = isset($b['id']) ? $b['id'] : 0;
+    return $idB <=> $idA;
+});
+
+// تحديد الصفحة الحالية للترقيم
+ $currentPage = isset($_GET['page']) ? (int)$_GET['page'] : 1;
+ $gamesPerPage = 24;
+
+// تحديد الفئة النشطة
+ $activeCategory = isset($_GET['category']) ? $_GET['category'] : 'all';
+
+// تصفية الألعاب حسب الفئة
+if ($activeCategory !== 'all') {
+    $filteredGames = array_filter($games, function($game) use ($activeCategory) {
+        return isset($game['genre']) && in_array($activeCategory, $game['genre']);
+    });
+    $filteredGames = array_values($filteredGames);
+    $totalGames = count($filteredGames);
+    $totalPages = ceil($totalGames / $gamesPerPage);
+    $startIndex = ($currentPage - 1) * $gamesPerPage;
+    $gamesToShow = array_slice($filteredGames, $startIndex, $gamesPerPage);
+} else {
+    $totalGames = count($games);
+    $totalPages = ceil($totalGames / $gamesPerPage);
+    $startIndex = ($currentPage - 1) * $gamesPerPage;
+    $gamesToShow = array_slice($games, $startIndex, $gamesPerPage);
+}
+
+// تعريف الفئات
+ $categories = [
+    'all' => 'الكل',
+    'action' => 'أكشن',
+    'rpg' => 'RPG',
+    'racing' => 'سباق',
+    'sports' => 'رياضة',
+    'adventure' => 'مغامرة',
+    'horror' => 'رعب',
+    'simulation' => 'محاكاة',
+    'souls' => 'سولز',
+    'arabic' => 'بالعربية',
+    'hack-and-slash' => 'هاكسلاش',
+    'survival' => 'بقاء',
+    'stealth' => 'تسلل',
+    'puzzle' => 'ألغاز',
+    'shooter' => 'إطلاق نار',
+    'fighting' => 'قتال',
+    'metroidvania' => 'ميترويدفانيا',
+    'open-world' => 'عالم مفتوح'
+];
+
+// حساب عدد الألعاب في كل فئة
+ $categoryCounts = [];
+foreach ($categories as $categoryId => $categoryName) {
+    if ($categoryId === 'all') {
+        $categoryCounts[$categoryId] = count($games);
+    } else {
+        $categoryCounts[$categoryId] = count(array_filter($games, function($game) use ($categoryId) {
+            return isset($game['genre']) && in_array($categoryId, $game['genre']);
+        }));
+    }
+}
+
+// آخر 8 ألعاب للسلايدر
+ $sliderGames = array_slice($games, 0, 8);
+?>
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" >
+    <title><?php echo $pageTitle; ?></title>
+    <meta name="description" content="أفضل موقع لتحميل ألعاب بلايستيشن PS4 مجاناً. ألعاب معربة كاملة بصيغة PKG جاهزة للتثبيت.">
+    <meta name="keywords" content="ألعاب PS4, تحميل ألعاب بلايستيشن, العاب معربة, PKG, PSPKG">
+    <link rel="canonical" href="https://pspkg-arabic.com/ps4-games.php">
+    
+    <meta property="og:title" content="<?php echo $pageTitle; ?>">
+    <meta property="og:description" content="أفضل موقع لتحميل ألعاب بلايستيشن PS4 مجاناً. ألعاب معربة كاملة بصيغة PKG جاهزة للتثبيت.">
+    <meta property="og:image" content="https://pspkg-arabic.com/images/og-image.jpg">
+    <meta property="og:url" content="https://pspkg-arabic.com/ps4-games.php">
+    <meta property="og:type" content="website">
+    <meta property="og:locale" content="ar_AR">
+    
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="<?php echo $pageTitle; ?>">
+    <meta name="twitter:description" content="أفضل موقع لتحميل ألعاب بلايستيشن PS4 مجاناً. ألعاب معربة كاملة بصيغة PKG جاهزة للتثبيت.">
+    <meta name="twitter:image" content="https://pspkg-arabic.com/images/twitter-image.jpg">
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&family=Cairo:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="assets/css/ps4-games.css">
+</head>
+
+<body>
+    <button class="scroll-to-top" id="scrollToTop">
+        <i class="fas fa-arrow-up"></i>
+    </button>
+
+    <div class="page-wrapper">
+    <?php require_once 'includes/header.php'; ?>
+
+    <main class="container">
+        <!-- ===== SLIDER SECTION ===== -->
+        <section class="slider-section">
+            <div class="slider-container" id="slider">
+                <?php foreach ($sliderGames as $index => $game): ?>
+                    <?php
+                    $game_id = htmlspecialchars($game['id'] ?? '');
+                    $formatted_title = formatTitleForUrl($game['title'] ?? '');
+                    $download_link = "download.php?id={$game_id}&title={$formatted_title}";
+                    ?>
+                    <a href="<?php echo $download_link; ?>" class="slide-link">
+                        <div class="slide <?php echo $index === 0 ? 'active' : ''; ?>" style="background-image: url('<?php echo isset($game['sliderImage']) ? $game['sliderImage'] : $game['image']; ?>')">
+                            <div class="slide-content">
+                                <h2><?php echo $game['title']; ?></h2>
+                                <p><?php echo isset($game['story']) ? substr($game['story'], 0, 100) . '...' : 'استمتع بتجربة gaming فريدة مع PS4'; ?></p>
+                            </div>
+                        </div>
+                    </a>
+                <?php endforeach; ?>
+            </div>
+            <button class="slider-nav slider-prev" id="prevBtn"><i class="fas fa-chevron-right"></i></button>
+            <button class="slider-nav slider-next" id="nextBtn"><i class="fas fa-chevron-left"></i></button>
+            <div class="slider-dots" id="dotsContainer">
+                <?php foreach ($sliderGames as $index => $game): ?>
+                    <span class="dot <?php echo $index === 0 ? 'active' : ''; ?>" data-slide="<?php echo $index; ?>"></span>
+                <?php endforeach; ?>
+            </div>
+        </section>
+
+        <!-- ===== CATEGORIES SECTION ===== -->
+        <section class="categories-section">
+            <div class="categories-header">
+                <h1 class="categories-title">GAMES PS4</h1>
+            </div>
+            <div class="categories-grid" id="categoriesGrid">
+                <div class="category-card <?php echo $activeCategory === 'all' ? 'active' : ''; ?>">
+                    <div class="category-icon"><i class="fas fa-th"></i></div>
+                    <div class="category-name">الكل</div>
+                    <div class="category-count"><?php echo $categoryCounts['all']; ?> لعبة</div>
+                </div>
+                
+                <?php foreach ($categories as $categoryId => $categoryName): ?>
+                    <?php if ($categoryId !== 'all'): ?>
+                        <div class="category-card <?php echo $categoryId; ?> <?php echo $activeCategory === $categoryId ? 'active' : ''; ?>" data-category="<?php echo $categoryId; ?>">
+                            <div class="category-icon">
+                                <?php
+                                $iconMap = [
+                                    'action' => 'fa-bolt',
+                                    'rpg' => 'fa-dragon',
+                                    'racing' => 'fa-flag-checkered',
+                                    'sports' => 'fa-football-ball',
+                                    'adventure' => 'fa-compass',
+                                    'horror' => 'fa-ghost',
+                                    'simulation' => 'fa-plane',
+                                    'souls' => 'fa-skull-crossbones',
+                                    'arabic' => 'fa-language',
+                                    'hack-and-slash' => 'fa-hammer',
+                                    'survival' => 'fa-campground',
+                                    'stealth' => 'fa-user-ninja',
+                                    'puzzle' => 'fa-puzzle-piece',
+                                    'shooter' => 'fa-crosshairs',
+                                    'fighting' => 'fa-fist-raised',
+                                    'metroidvania' => 'fa-map',
+                                    'open-world' => 'fa-globe'
+                                ];
+                                $icon = isset($iconMap[$categoryId]) ? $iconMap[$categoryId] : 'fa-gamepad';
+                                ?>
+                                <i class="fas <?php echo $icon; ?>"></i>
+                            </div>
+                            <div class="category-name"><?php echo $categoryName; ?></div>
+                            <div class="category-count"><?php echo $categoryCounts[$categoryId]; ?> لعبة</div>
+                        </div>
+                    <?php endif; ?>
+                <?php endforeach; ?>
+            </div>
+        </section>
+
+        <!-- ===== PS4 SECTION ===== -->
+        <section class="platform-section" id="ps4-section">
+            <div class="platform-header ps4">
+                <div class="platform-info">
+                    <div class="platform-icon ps4">
+                        <i class="fab fa-playstation"></i>
+                    </div>
+                    <div class="platform-details">
+                        <h2>PlayStation 4</h2>
+                        <p>تحميل العاب PS4 بالعربية والإنجليزية</p>
+                    </div>
+                </div>
+                <div class="platform-stats">
+                    <div class="stat-item">
+                        <div class="stat-number"><?php echo count($games); ?></div>
+                        <div class="stat-label">لعبة</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-number">2013</div>
+                        <div class="stat-label">سنة الإصدار</div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="games-grid" id="ps4-games">
+                <?php if (empty($gamesToShow)): ?>
+                    <p style="grid-column: 1/-1; text-align: center;">لا توجد ألعاب متاحة حالياً لهذا النوع.</p>
+                <?php else: ?>
+                    <?php foreach ($gamesToShow as $game): ?>
+                        <div class="game-card ps4" data-id="<?php echo $game['id']; ?>">
+                            <img src="<?php echo $game['image']; ?>" alt="<?php echo $game['title']; ?>" class="game-card-image" loading="lazy">
+                            <div class="game-card-info">
+                                <h3 class="game-card-title"><?php echo $game['title']; ?></h3>
+                                
+                                <div class="game-card-meta">
+                                    <span class="platform-badge ps4"><?php echo strtoupper($game['platform']); ?></span>
+                                    <span><?php echo isset($game['genre']) && is_array($game['genre']) ? implode(' • ', array_map('strtoupper', $game['genre'])) : 'غير محدد'; ?></span>
+                                </div>
+                                
+                                <div class="game-card-details">
+                                    <div class="game-code">
+                                        <i class="fas fa-barcode"></i> 
+                                        <?php echo isset($game['gameCode']) ? $game['gameCode'] : 'N/A'; ?>
+                                    </div>
+                                    <div class="game-languages">
+                                        <i class="fas fa-language"></i> 
+                                        <?php 
+                                        if (isset($game['languages']) && is_array($game['languages'])) {
+                                            $languages = array_map(function($lang) {
+                                                return is_array($lang) ? $lang['name'] : $lang;
+                                            }, $game['languages']);
+                                            echo implode(' • ', $languages);
+                                        } else {
+                                            echo 'غير محدد';
+                                        }
+                                        ?>
+                                    </div>
+                                    
+                                    <!-- ✨ الإحصائيات ✨ -->
+                                    <div class="game-stats">
+                                        <div class="game-stat">
+                                            <i class="fas fa-hdd"></i>
+                                            <span><?php echo isset($game['size']) ? $game['size'] : 'N/A'; ?></span>
+                                        </div>
+                                        <div class="game-stat">
+                                            <i class="fas fa-sync-alt"></i>
+                                            <span>v<?php echo isset($game['version']) ? $game['version'] : '1.00'; ?></span>
+                                        </div>
+                                        <div class="game-stat">
+                                            <i class="fas fa-download"></i>
+                                            <span><?php echo isset($game['downloads']) ? formatDownloads($game['downloads']) : '0'; ?></span>
+                                        </div>
+                                    </div>
+                                    <!-- ✨ نهاية الإحصائيات ✨ -->
+                                    
+                                </div>
+                            </div>
+                        </div>
+                    <?php endforeach; ?>
+                <?php endif; ?>
+            </div>
+        </section>
+        
+        <!-- ===== PAGINATION ===== -->
+        <?php if ($totalPages > 1): ?>
+            <div class="pagination-container" id="pagination-container">
+                <button class="pagination-btn ps4" id="prev-page" <?php echo $currentPage <= 1 ? 'disabled' : ''; ?>>
+                    <i class="fas fa-chevron-right"></i>
+                </button>
+
+                <div id="page-numbers">
+                    <?php
+                    $startPage = max(1, $currentPage - 2);
+                    $endPage = min($totalPages, $startPage + 4);
+                    
+                    if ($endPage - $startPage < 4) {
+                        $startPage = max(1, $endPage - 4);
+                    }
+                    
+                    if ($startPage > 1) {
+                        echo '<a href="?page=1" class="pagination-btn">1</a>';
+                        if ($startPage > 2) {
+                            echo '<span class="pagination-dots">...</span>';
+                        }
+                    }
+                    
+                    for ($i = $startPage; $i <= $endPage; $i++) {
+                        echo '<a href="?page=' . $i . '" class="pagination-btn ' . ($i === $currentPage ? 'active' : '') . '">' . $i . '</a>';
+                    }
+                    
+                    if ($endPage < $totalPages) {
+                        if ($endPage < $totalPages - 1) {
+                            echo '<span class="pagination-dots">...</span>';
+                        }
+                        echo '<a href="?page=' . $totalPages . '" class="pagination-btn">' . $totalPages . '</a>';
+                    }
+                    ?>
+                </div>
+
+                <button class="pagination-btn ps4" id="next-page" <?php echo $currentPage >= $totalPages ? 'disabled' : ''; ?>>
+                    <i class="fas fa-chevron-left"></i>
+                </button>
+            </div>
+        <?php endif; ?>
+    </main>
+
+    <?php require_once 'includes/footer.php'; ?>
+    </div>
+
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "PSPKG-arabic",
+        "url": "https://pspkg-arabic.com",
+        "logo": "https://pspkg-arabic.com/assets/images/logo.png",
+        "description": "أفضل موقع لتحميل العاب بلايستيشن PS4, PS5, PS3 مجاناً بالعربي والإنجليزية",
+        "sameAs": [
+            "https://www.youtube.com/pspkg-arabic",
+            "https://www.facebook.com/pspkg-arabic",
+            "https://t.me/PSPKG-arabic"
+        ],
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "contactType": "customer service",
+            "availableLanguage": "Arabic"
+        }
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "PSPKG-arabic",
+        "url": "https://pspkg-arabic.com",
+        "description": "أفضل موقع لتحميل العاب بلايستيشن PS4, PS5, PS3 مجاناً بالعربي والإنجليزية",
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://pspkg-arabic.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+    </script>
+
+    <script>
+        const gamesData = <?php echo json_encode($games); ?>;
+        const currentPage = <?php echo $currentPage; ?>;
+        const totalPages = <?php echo $totalPages; ?>;
+        const activeCategory = "<?php echo $activeCategory; ?>";
+    </script>
+
+    <script src="assets/js/ps4-games.js"></script>
+</body>
+</html>

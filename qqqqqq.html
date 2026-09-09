@@ -1,0 +1,445 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>متجر الألعاب الرقمي - Digital Game Store</title>
+    
+    <!-- Google Fonts (El Messiri - a font that feels good for UI) -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=El+Messiri:wght@400;500;600;700&display=swap" rel="stylesheet">
+    
+    <!-- Font Awesome for Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+    <style>
+        /* --- Global Styles & Variables --- */
+        :root {
+            --bg-primary: #1b2838;
+            --bg-secondary: #16202d;
+            --bg-card: #1e2328;
+            --text-primary: #c7d5e0;
+            --text-secondary: #8b98a5;
+            --accent-blue: #66c0f4;
+            --accent-green: #4c7c3f;
+            --accent-green-light: #8bc534;
+            --border-color: #2a3f5f;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'El Messiri', sans-serif;
+            background-color: var(--bg-primary);
+            color: var(--text-primary);
+            line-height: 1.5;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+
+        /* --- Header --- */
+        .main-header {
+            background-color: var(--bg-secondary);
+            padding: 10px 0;
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+            border-bottom: 1px solid var(--border-color);
+        }
+        .header-content {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .logo {
+            font-size: 1.8rem;
+            font-weight: 700;
+            color: var(--accent-blue);
+        }
+        .store-nav {
+            display: flex;
+            gap: 30px;
+        }
+        .store-nav a {
+            color: var(--text-secondary);
+            font-weight: 500;
+            transition: color 0.3s;
+        }
+        .store-nav a:hover {
+            color: var(--text-primary);
+        }
+        .search-bar {
+            display: flex;
+            align-items: center;
+            background-color: var(--bg-card);
+            border-radius: 3px;
+            border: 1px solid var(--border-color);
+        }
+        .search-bar input {
+            background: none;
+            border: none;
+            color: var(--text-primary);
+            padding: 8px 12px;
+            width: 250px;
+            outline: none;
+        }
+        .search-bar button {
+            background: none;
+            border: none;
+            color: var(--text-secondary);
+            padding: 8px 12px;
+            cursor: pointer;
+        }
+
+        /* --- Main Layout --- */
+        .main-layout {
+            display: flex;
+            gap: 20px;
+            margin-top: 20px;
+        }
+        .sidebar-filters {
+            flex: 1;
+            min-width: 250px;
+        }
+        .content-area {
+            flex: 4;
+        }
+
+        /* --- Featured Carousel --- */
+        .featured-carousel {
+            background-color: var(--bg-secondary);
+            border-radius: 4px;
+            height: 400px;
+            margin-bottom: 30px;
+            background-image: url('https://via.placeholder.com/1200x400.png/66c0f4/000000?text=Featured+Game+Banner');
+            background-size: cover;
+            background-position: center;
+            display: flex;
+            align-items: flex-end;
+            padding: 30px;
+            position: relative;
+            overflow: hidden;
+        }
+        .featured-carousel::before {
+            content: '';
+            position: absolute;
+            top: 0; left: 0; right: 0; bottom: 0;
+            background: linear-gradient(to top, rgba(27, 40, 56, 0.9) 20%, transparent 100%);
+        }
+        .featured-content {
+            position: relative;
+            z-index: 2;
+        }
+        .featured-content h1 {
+            font-size: 2.5rem;
+            font-weight: 700;
+            margin-bottom: 10px;
+        }
+        .featured-content .tag {
+            color: var(--accent-green-light);
+            font-weight: 600;
+        }
+
+        /* --- View Toggle & Sorting --- */
+        .content-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+            padding: 10px;
+            background-color: var(--bg-secondary);
+            border-radius: 4px;
+        }
+        .view-toggle {
+            display: flex;
+            gap: 5px;
+        }
+        .view-toggle button {
+            background: var(--bg-card);
+            border: 1px solid var(--border-color);
+            color: var(--text-secondary);
+            padding: 8px 12px;
+            cursor: pointer;
+        }
+        .view-toggle button.active {
+            background-color: var(--accent-blue);
+            color: white;
+            border-color: var(--accent-blue);
+        }
+        .sort-dropdown {
+            background: var(--bg-card);
+            border: 1px solid var(--border-color);
+            color: var(--text-primary);
+            padding: 8px 12px;
+            border-radius: 4px;
+        }
+
+        /* --- Game List View --- */
+        .game-list {
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+        }
+        .game-list-item {
+            display: flex;
+            background-color: var(--bg-secondary);
+            border-radius: 4px;
+            overflow: hidden;
+            transition: transform 0.2s;
+        }
+        .game-list-item:hover {
+            transform: translateX(5px);
+        }
+        .game-list-item img {
+            width: 184px;
+            height: 69px;
+            object-fit: cover;
+        }
+        .game-list-details {
+            padding: 10px 15px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            width: 100%;
+        }
+        .game-list-details h3 {
+            font-size: 1.1rem;
+            font-weight: 600;
+        }
+        .game-list-details .tags {
+            color: var(--text-secondary);
+            font-size: 0.9rem;
+        }
+        .game-list-actions {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+        }
+        .price {
+            font-size: 1.2rem;
+            font-weight: 700;
+            color: var(--accent-green-light);
+        }
+        .btn-download {
+            background-color: var(--accent-green);
+            color: white;
+            border: none;
+            padding: 8px 15px;
+            border-radius: 3px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+        .btn-download:hover {
+            background-color: var(--accent-green-light);
+        }
+
+        /* --- Sidebar Filters --- */
+        .filter-widget {
+            background-color: var(--bg-secondary);
+            border-radius: 4px;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        .filter-widget h3 {
+            font-size: 1.1rem;
+            margin-bottom: 15px;
+            border-bottom: 1px solid var(--border-color);
+            padding-bottom: 10px;
+        }
+        .filter-widget ul {
+            list-style: none;
+        }
+        .filter-widget li {
+            margin-bottom: 10px;
+        }
+        .filter-widget label {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            cursor: pointer;
+            color: var(--text-secondary);
+        }
+        .filter-widget input[type="checkbox"] {
+            accent-color: var(--accent-blue);
+        }
+
+        /* --- Responsive --- */
+        @media (max-width: 992px) {
+            .main-layout {
+                flex-direction: column;
+            }
+            .sidebar-filters {
+                width: 100%;
+            }
+        }
+        @media (max-width: 768px) {
+            .header-content {
+                flex-direction: column;
+                gap: 15px;
+            }
+            .game-list-item {
+                flex-direction: column;
+            }
+            .game-list-item img {
+                width: 100%;
+                height: 150px;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <!-- ===== Header ===== -->
+    <header class="main-header">
+        <div class="container header-content">
+            <div class="logo">متجر الألعاب</div>
+            <nav class="store-nav">
+                <a href="#">المتجر</a>
+                <a href="#">المكتبة</a>
+                <a href="#">المجتمع</a>
+            </nav>
+            <div class="search-bar">
+                <input type="text" placeholder="بحث في المتجر">
+                <button><i class="fas fa-search"></i></button>
+            </div>
+        </div>
+    </header>
+
+    <div class="container">
+        <div class="main-layout">
+            
+            <!-- Sidebar Filters -->
+            <aside class="sidebar-filters">
+                <div class="filter-widget">
+                    <h3>المنصة</h3>
+                    <ul>
+                        <li><label><input type="checkbox" checked> PlayStation 5</label></li>
+                        <li><label><input type="checkbox" checked> PlayStation 4</label></li>
+                        <li><label><input type="checkbox" checked> PlayStation 3</label></li>
+                    </ul>
+                </div>
+                <div class="filter-widget">
+                    <h3>النوع</h3>
+                    <ul>
+                        <li><label><input type="checkbox"> أكشن</label></li>
+                        <li><label><input type="checkbox"> مغامرة</label></li>
+                        <li><label><input type="checkbox"> استراتيجية</label></li>
+                        <li><label><input type="checkbox"> رياضة</label></li>
+                        <li><label><input type="checkbox"> سباق</label></li>
+                    </ul>
+                </div>
+                <div class="filter-widget">
+                    <h3>المميزات</h3>
+                    <ul>
+                        <li><label><input type="checkbox"> لاعب واحد</label></li>
+                        <li><label><input type="checkbox"> متعدد اللاعبين</label></li>
+                        <li><label><input type="checkbox"> تعاوني</label></li>
+                    </ul>
+                </div>
+            </aside>
+
+            <!-- Main Content Area -->
+            <main class="content-area">
+                
+                <!-- Featured Carousel -->
+                <section class="featured-carousel">
+                    <div class="featured-content">
+                        <h1>God of War Ragnarök</h1>
+                        <p class="tag">لعبة حصرية</p>
+                    </div>
+                </section>
+
+                <!-- Content Header with View Toggle -->
+                <div class="content-header">
+                    <div class="view-toggle">
+                        <button class="active" onclick="showView('list')"><i class="fas fa-list"></i></button>
+                        <button onclick="showView('grid')"><i class="fas fa-th"></i></button>
+                    </div>
+                    <select class="sort-dropdown">
+                        <option>الترتيب حسب: الاسم</option>
+                        <option>الترتيب حسب: التاريخ</option>
+                        <option>الترتيب حسب: الشعبية</option>
+                    </select>
+                </div>
+
+                <!-- Games List -->
+                <div id="game-list" class="game-list">
+                    <div class="game-list-item">
+                        <img src="https://ps4-gamer-arabe.zya.me/images/the_crew_2.jpg" alt="Game Cover">
+                        <div class="game-list-details">
+                            <div>
+                                <h3>Marvel's Spider-Man 2</h3>
+                                <p class="tags">أكشن, مغامرة, عالم مفتوح</p>
+                            </div>
+                            <div class="game-list-actions">
+                                <span class="price">مجاني</span>
+                                <button class="btn-download">تحميل الآن</button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="game-list-item">
+                        <img src="https://ps4-gamer-arabe.zya.me/images/gowragnarok.jpg" alt="Game Cover">
+                        <div class="game-list-details">
+                            <div>
+                                <h3>Horizon Forbidden West</h3>
+                                <p class="tags">أكشن, أداء لعب الأدوار</p>
+                            </div>
+                            <div class="game-list-actions">
+                                <span class="price">مجاني</span>
+                                <button class="btn-download">تحميل الآن</button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="game-list-item">
+                        <img src="https://via.placeholder.com/184x69.png/8b98a5/000000?text=Game+Cover" alt="Game Cover">
+                        <div class="game-list-details">
+                            <div>
+                                <h3>The Last of Us Part I</h3>
+                                <p class="tags">بقاء, رعب, مغامرة</p>
+                            </div>
+                            <div class="game-list-actions">
+                                <span class="price">مجاني</span>
+                                <button class="btn-download">تحميل الآن</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </main>
+        </div>
+    </div>
+
+    <script>
+        function showView(viewType) {
+            const list = document.getElementById('game-list');
+            const buttons = document.querySelectorAll('.view-toggle button');
+            
+            // Toggle active button
+            buttons.forEach(btn => btn.classList.remove('active'));
+            event.target.closest('button').classList.add('active');
+
+            // In a real application, this would change the layout.
+            // For this demo, we'll just show an alert.
+            if (viewType === 'grid') {
+                // list.classList.remove('game-list');
+                // list.classList.add('game-grid');
+                alert('عرض الشبكة (Grid View) سيتم تطبيقه هنا. في موقع حقيقي، ستتغير البطاقات إلى شبكة.');
+            } else {
+                // list.classList.remove('game-grid');
+                // list.classList.add('game-list');
+                console.log('تم التبديل إلى عرض القائمة.');
+            }
+        }
+    </script>
+
+</body>
+</html>

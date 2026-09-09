@@ -1,0 +1,50 @@
+# تفعيل إعادة كتابة الروابط
+RewriteEngine On
+
+# تعيين مجموعة الأحرف الافتراضية
+AddDefaultCharset UTF-8
+
+# ضغط الملفات
+<IfModule mod_deflate.c>
+    AddOutputFilterByType DEFLATE text/plain
+    AddOutputFilterByType DEFLATE text/html
+    AddOutputFilterByType DEFLATE text/xml
+    AddOutputFilterByType DEFLATE text/css
+    AddOutputFilterByType DEFLATE application/xml
+    AddOutputFilterByType DEFLATE application/xhtml+xml
+    AddOutputFilterByType DEFLATE application/rss+xml
+    AddOutputFilterByType DEFLATE application/javascript
+    AddOutputFilterByType DEFLATE application/x-javascript
+</IfModule>
+
+# التحكم في التخزين المؤقت
+<IfModule mod_expires.c>
+    ExpiresActive On
+    ExpiresByType image/jpg "access plus 1 month"
+    ExpiresByType image/jpeg "access plus 1 month"
+    ExpiresByType image/gif "access plus 1 month"
+    ExpiresByType image/png "access plus 1 month"
+    ExpiresByType text/css "access plus 1 month"
+    ExpiresByType application/pdf "access plus 1 month"
+    ExpiresByType text/javascript "access plus 1 month"
+    ExpiresByType application/javascript "access plus 1 month"
+    ExpiresByType application/x-shockwave-flash "access plus 1 month"
+    ExpiresByType image/x-icon "access plus 1 year"
+    ExpiresDefault "access plus 2 days"
+</IfModule>
+
+# إعدادات الأمان
+<Files ".ht*">
+    Require all denied
+</Files>
+
+# منع الوصول إلى الملفات الحساسة
+<FilesMatch "^(config|functions)\.php$">
+    Require all denied
+</FilesMatch>
+
+# صفحات الخطأ المخصصة
+ErrorDocument 404 /404.php
+
+# تعيين الصفحة الرئيسية الافتراضية
+DirectoryIndex index.php index.html

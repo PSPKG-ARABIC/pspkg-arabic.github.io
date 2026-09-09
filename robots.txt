@@ -1,0 +1,15 @@
+# robots.txt
+User-agent: *
+Allow: /
+
+# السماح بالوصول إلى مجلدات معينة
+Allow: /assets/css/
+Allow: /assets/js/
+Allow: /assets/images/
+
+# منع الوصول إلى مجلدات البيانات
+Disallow: /data/
+Disallow: /config.php
+
+# تحديد موقع sitemap
+Sitemap: https://pspkg-arabic.com/sitemap.php
