@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>تعديل حجم الصور وتحميلها</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f5f5f5;
+            padding: 20px;
+        }
+        input, button, select {
+            margin: 10px;
+            padding: 10px;
+            font-size: 16px;
+        }
+        .image-container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 20px;
+            margin-top: 20px;
+        }
+        .image-box {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            border: 2px solid #333;
+            padding: 10px;
+            background: white;
+        }
+        canvas {
+            border: 1px solid #ccc;
+            margin-top: 5px;
+        }
+        .name-input {
+            margin-top: 5px;
+            padding: 5px;
+            font-size: 14px;
+            text-align: center;
+            width: 80%;
+        }
+    </style>
+</head>
+<body>
+
+    <h2>🖼️ تعديل حجم الصور وتحميلها</h2>
+
+    <input type="file" id="upload" accept="image/*" multiple>
+    <br>
+    <label>📏 العرض:</label>
+    <input type="number" id="width" placeholder="العرض" min="10">
+    
+    <label>📐 الطول:</label>
+    <input type="number" id="height" placeholder="الطول" min="10">
+    
+    <br>
+    <label>📁 اختر التنسيق:</label>
+    <select id="format">
+        <option value="jpg">جي بي جي (JPG)</option>
+        <option value="png">بي إن جي (PNG)</option>
+        <option value="svg">إس في جي (SVG)</option>
+        <option value="webp">ويب بي (WEBP)</option>
+    </select>
+    
+    <br>
+    <button onclick="resizeAllImages()">🔄 تعديل الحجم</button>
+    <button onclick="chooseDownloadFolder()">📂 اختيار مجلد التحميل</button>
+    <button onclick="downloadAllImages()">📥 تحميل جميع الصور</button>
+
+    <br>
+    <div class="image-container" id="imageContainer"></div>
+
+    <script>
+        let imagesData = [];
+        let imageCounter = 1;
+        let downloadFolderHandle = null;
+
+        document.getElementById('upload').addEventListener('change', function (event) {
+            let files = event.target.files;
+            let container = document.getElementById('imageContainer');
+            container.innerHTML = "";
+            imagesData = [];
+
+            Array.from(files).forEach(file => {
+                let reader = new FileReader();
+                reader.onload = function (e) {
+                    let img = new Image();
+                    img.onload = function () {
+                        let canvas = document.createElement('canvas');
+                        let ctx = canvas.getContext('2d');
+
+                        canvas.width = img.width;
+                        canvas.height = img.height;
+                        ctx.drawImage(img, 0, 0, img.width, img.height);
+
+                        let defaultName = `image_${imageCounter++}`;
+
+                        let input = document.createElement("input");
+                        input.type = "text";
+                        input.classList.add("name-input");
+                        input.value = defaultName;
+
+                        imagesData.push({
+                            originalImage: img,
+                            inputElement: input,
+                            canvas: canvas
+                        });
+
+                        let imageBox = document.createElement('div');
+                        imageBox.classList.add('image-box');
+                        imageBox.appendChild(canvas);
+                        imageBox.appendChild(input);
+
+                        container.appendChild(imageBox);
+                    };
+                    img.src = e.target.result;
+                };
+                reader.readAsDataURL(file);
+            });
+        });
+
+        function resizeAllImages() {
+            let width = parseInt(document.getElementById('width').value);
+            let height = parseInt(document.getElementById('height').value);
+
+            if (isNaN(width) || isNaN(height) || width <= 0 || height <= 0) {
+                alert("يرجى تحديد أبعاد صحيحة!");
+                return;
+            }
+
+            imagesData.forEach(data => {
+                let ctx = data.canvas.getContext('2d');
+                let img = data.originalImage;
+
+                data.canvas.width = width;
+                data.canvas.height = height;
+                ctx.drawImage(img, 0, 0, width, height);
+            });
+
+            alert("✅ تم تعديل جميع الصور بنجاح!");
+        }
+
+        async function chooseDownloadFolder() {
+            try {
+                const folderHandle = await window.showDirectoryPicker();
+                downloadFolderHandle = folderHandle;
+                alert("📂 تم اختيار مجلد الحفظ بنجاح!");
+            } catch (error) {
+                console.error("❌ فشل اختيار المجلد:", error);
+                alert("⚠️ لم يتم تحديد مجلد الحفظ.");
+            }
+        }
+
+        async function downloadAllImages() {
+            if (!downloadFolderHandle) {
+                alert("⚠️ يرجى اختيار مجلد الحفظ أولًا!");
+                return;
+            }
+
+            let format = document.getElementById("format").value;
+
+            for (const data of imagesData) {
+                let imageName = data.inputElement.value.trim().replace(/\s+/g, '_') + "." + format;
+                let mimeType = format === "jpg" ? "image/jpeg" :
+                              format === "png" ? "image/png" :
+                              format === "webp" ? "image/webp" :
+                              "image/svg+xml";
+
+                let imageBlob = await new Promise(resolve => data.canvas.toBlob(resolve, mimeType, 0.9));
+
+                try {
+                    const fileHandle = await downloadFolderHandle.getFileHandle(imageName, { create: true });
+                    const writable = await fileHandle.createWritable();
+                    await writable.write(imageBlob);
+                    await writable.close();
+                } catch (error) {
+                    console.error("❌ خطأ أثناء الحفظ:", error);
+                    alert("⚠️ حدث خطأ أثناء حفظ بعض الصور!");
+                }
+            }
+
+            alert("📥 تم تحميل جميع الصور بنجاح في المجلد المحدد!");
+        }
+    </script>
+
+</body>
+</html>
