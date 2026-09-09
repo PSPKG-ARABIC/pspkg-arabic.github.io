@@ -1,0 +1,66 @@
+[
+    {
+        "id": "69374c4cc235d",
+        "game_id": 122,
+        "name": "fff",
+        "comment": "fff",
+        "date": "2025-12-08 23:08:12",
+        "approved": false
+    },
+    {
+        "id": "69374c77636eb",
+        "game_id": 122,
+        "name": "zz",
+        "comment": "zz",
+        "date": "2025-12-08 23:08:55",
+        "approved": false
+    },
+    {
+        "id": "69374d2e8bbfb",
+        "game_id": 122,
+        "name": "ff",
+        "comment": "cc",
+        "date": "2025-12-08 23:11:58",
+        "approved": false
+    },
+    {
+        "id": "69374dbb7cdf9",
+        "game_id": 122,
+        "name": "dd",
+        "comment": "ddd",
+        "date": "2025-12-08 23:14:19",
+        "approved": false
+    },
+    {
+        "id": "69374f67d2cf6",
+        "game_id": 122,
+        "name": "rr",
+        "comment": "ff",
+        "date": "2025-12-08 23:21:27",
+        "approved": true
+    },
+    {
+        "id": "69375ce672bdf",
+        "game_id": 122,
+        "name": "rrr",
+        "comment": "cccc",
+        "date": "2025-12-09 00:19:02",
+        "approved": false
+    },
+    {
+        "id": "69376117a4a7d",
+        "game_id": 122,
+        "name": "dd",
+        "comment": "ddd",
+        "date": "2025-12-09 00:36:55",
+        "approved": false
+    },
+    {
+        "id": "69376439bbb27",
+        "game_id": 122,
+        "name": "ss",
+        "comment": "vvv",
+        "date": "2025-12-09 00:50:17",
+        "approved": false
+    }
+]

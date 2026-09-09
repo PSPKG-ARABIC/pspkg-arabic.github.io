@@ -1,0 +1,4377 @@
+[
+    {
+        "id": 500,
+        "title": "God of War Ragnarök",
+        "platform": "ps5",
+        "genre": [
+            "action",
+            "adventure",
+            "hack-and-slash",
+            "arabic"
+        ],
+        "size": "100 GB",
+        "image": "..\/assets\/images\/God_of_War_Ragnarök.webp",
+        "sliderImage": "..\/assets\/images\/God_of_War_Ragnarök2.webp",
+        "headerImage": "..\/assets\/images\/God_of_War_Ragnarök2.webp",
+        "systemVersion": "5.xx and higher",
+        "version": "v05.005",
+        "gameCode": "PPSA08329 – USA",
+        "story": "God of War Ragnarök هي خاتمة ملحمة كرايوس وأتريوس في عالم الأساطير الإسكندنافية. انطلق في رحلة ملحمية عبر العوالم التسعة واجه الآلهة الوحشية والوحوش الأسطورية في معركة الفجار. اللعبة تقدم قصة مؤثرة، قتال استراتيجي، وعوالم شاسعة للاستكشاف.",
+        "developer": "Santa Monica Studio",
+        "publisher": "Sony Interactive Entertainment",
+        "releaseDate": "9 نوفمبر 2022",
+        "rating": 9.699999999999999289457264239899814128875732421875,
+        "password": "SuperPSX",
+        "languages": [
+            {
+                "name": "العربية",
+                "code": "arabic",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": false
+                }
+            },
+            {
+                "name": "الإنجليزية",
+                "code": "english",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": true
+                }
+            }
+        ],
+        "downloadParts": [],
+        "updateParts": [],
+        "dlcParts": [],
+        "features": [],
+        "downloadUrl": "https:\/\/www.rootz.so\/d\/2CdIh6",
+        "hasDownloadUrl": true,
+        "hasUpdate": true,
+        "updateSize": "Fix 4.xx (@BADERLINK) ⇛",
+        "updateUrl": "https:\/\/www.rootz.so\/d\/zx3zs",
+        "hasUpdate-fix": false,
+        "hasDLC": false,
+        "hasDownloadParts": false,
+        "hasUpdateParts": false,
+        "hasDLCParts": false,
+        "hasFeatures": false
+    },
+    {
+        "id": 501,
+        "title": "Horizon Forbidden West",
+        "platform": "ps5",
+        "genre": [
+            "action",
+            "adventure",
+            "arabic"
+        ],
+        "size": "98 GB",
+        "image": "https:\/\/i.postimg.cc\/jSJf2Bx8\/Horizon-Forbidden-West.jpg",
+        "sliderImage": "https:\/\/i.postimg.cc\/13NFXbmd\/horizon-forbidden-west-complete.jpg",
+        "headerImage": "https:\/\/i.postimg.cc\/13NFXbmd\/horizon-forbidden-west-complete.jpg",
+        "systemVersion": "5.05\/11.00",
+        "version": "1.18",
+        "gameCode": "CUSA24705 – EUR",
+        "story": "انضم إلى ألويل في رحلتها إلى الغرب المحرم، أرض غامضة مليئة بالتهديدات الجديدة. استكشف مناظر طبيعية خلابة من الغابات المطيرة إلى الصحاري القاحلة. واجه آلات ضخمة وقبائل متنوعة. اللعبة تقدم عالمًا مفتوحًا رائعًا، قتال استراتيجيًا، وقصة غامضة.",
+        "developer": "Guerrilla Games",
+        "publisher": "Sony Interactive Entertainment",
+        "releaseDate": "18 فبراير 2022",
+        "rating": 9.0999999999999996447286321199499070644378662109375,
+        "password": "SuperPSX",
+        "languages": [
+            {
+                "name": "العربية",
+                "code": "arabic",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": true
+                }
+            }
+        ],
+        "downloadParts": [],
+        "updateParts": [],
+        "dlcParts": [],
+        "features": [],
+        "downloadUrl": "https:\/\/akirabox.com\/N2p3DZx5dGMa\/file",
+        "hasDownloadUrl": true,
+        "hasUpdate": true,
+        "updateSize": " (9.00+) ",
+        "updateUrl": "https:\/\/akirabox.com\/LK0G14bZz917\/file",
+        "hasUpdate-fix": true,
+        "update-fixSize": " (Fix 6.72\/7.xx) ",
+        "update-fixUrl": "https:\/\/akirabox.com\/2bJG8Jb63OBE\/file",
+        "hasDLC": true,
+        "dlcCount": 1,
+        "dlcName": "",
+        "dlcUrl": "https:\/\/akirabox.com\/qPez4a49GOYn\/file",
+        "hasDLC2": false,
+        "hasDownloadParts": false,
+        "hasUpdateParts": false,
+        "hasDLCParts": false,
+        "hasFeatures": false,
+        "downloads": 0
+    },
+    {
+        "id": 502,
+        "title": "Uncharted 4",
+        "platform": "ps5",
+        "genre": [
+            "action",
+            "adventure",
+            "platformer",
+            "arabic"
+        ],
+        "size": "60 GB",
+        "image": "https:\/\/i.postimg.cc\/NjcPC48h\/Uncharted-4-1.jpg",
+        "sliderImage": "https:\/\/i.postimg.cc\/vZH3scYM\/uncharted4slider.jpg",
+        "headerImage": "https:\/\/i.postimg.cc\/vZH3scYM\/uncharted4slider.jpg",
+        "systemVersion": "5.05\/11.00",
+        "version": "1.32",
+        "gameCode": "CUSA00918 – EUR ",
+        "story": "بعد سنوات من تقاعده، يعود ناثان دريك إلى عالم المغامرات من أجل إنقاذ شقيقه سام. انطلق في رحلة حول العالم للعثور على كنز هنري أفيري الأسطوري. اللعبة تقدم رسوميات مذهلة، لعب سينمائي، وقصة عاطفية تختتم مغامرات دريك بشكل رائع.",
+        "developer": "Naughty Dog",
+        "publisher": "Sony Interactive Entertainment",
+        "releaseDate": "10 مايو 2016",
+        "rating": 9.300000000000000710542735760100185871124267578125,
+        "password": "llepo",
+        "languages": [
+            {
+                "name": "العربية",
+                "code": "arabic",
+                "support": {
+                    "menu": false,
+                    "subtitles": false,
+                    "dubbed": true
+                }
+            },
+            {
+                "name": "الإنجليزية",
+                "code": "english",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": true
+                }
+            }
+        ],
+        "downloadParts": [
+            {
+                "name": "اللعبة",
+                "size": "59.12 GB",
+                "url": "https:\/\/vik1ngfile.site\/f\/bed2MUzsHa"
+            }
+        ],
+        "updateParts": [],
+        "dlcParts": [
+            {
+                "name": "ALLDLC_FXD",
+                "size": "79.73 kB",
+                "url": "https:\/\/vik1ngfile.site\/f\/SZs1vqeIJt"
+            }
+        ],
+        "features": [],
+        "downloadUrl": "https:\/\/akirabox.to\/dZxG5g0193Vj\/file",
+        "hasDownloadUrl": true,
+        "hasUpdate": false,
+        "hasDLC": true,
+        "dlcCount": 1,
+        "dlcName": "ALLDLC",
+        "dlcUrl": "https:\/\/akirabox.to\/jJD3VwZ0za5Q\/file",
+        "hasDLC2": false,
+        "hasDownloadParts": true,
+        "hasUpdateParts": false,
+        "hasDLCParts": true,
+        "hasFeatures": false,
+        "downloads": 3
+    },
+    {
+        "id": 503,
+        "title": "Red Dead Redemption 2",
+        "platform": "ps5",
+        "genre": [
+            "action",
+            "adventure",
+            "open-world",
+            "arabic"
+        ],
+        "size": "105 GB",
+        "image": "https:\/\/i.postimg.cc\/XJG3y4Pt\/Red_Dead_Redemption_2_50.webp",
+        "sliderImage": "https:\/\/i.postimg.cc\/Wzrd8CYX\/reddead-Reds2.jpg",
+        "headerImage": "https:\/\/i.postimg.cc\/Wzrd8CYX\/reddead-Reds2.jpg",
+        "systemVersion": "5.05\/11.00",
+        "version": "1.32",
+        "gameCode": "CUSA08519 – EUR",
+        "story": "عش حياة خارج القانون في أمريكا عام 1899. أنت آرثر مورغان، عضو في عصابة فان دير ليند. استكشف عالمًا مفتوحًا ضخمًا، قم بمهام متنوعة، واتخذ قرارات مصيرية ستؤثر على مصير العصابة. اللعبة تقدم قصة ملحمية، شخصيات معقدة، وعالم يعج بالحياة.",
+        "developer": "Rockstar Studios",
+        "publisher": "Rockstar Games",
+        "releaseDate": "26 أكتوبر 2018",
+        "rating": 9.5999999999999996447286321199499070644378662109375,
+        "password": "DLPSGAME.COM",
+        "languages": [
+            {
+                "name": "العربية",
+                "code": "arabic",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": false
+                }
+            }
+        ],
+        "downloadParts": [
+            {
+                "name": "8",
+                "size": "79GB",
+                "url": "https:\/\/pastelink.net\/lctmqrrv"
+            }
+        ],
+        "updateParts": [
+            {
+                "name": "2 جزئين (6.72+)",
+                "size": "19GB",
+                "url": "https:\/\/pastelink.net\/o1vl68ty"
+            }
+        ],
+        "dlcParts": [
+            {
+                "name": "جزء 1",
+                "size": "3.34 MB",
+                "url": "https:\/\/pastelink.net\/2tf7h2wg"
+            }
+        ],
+        "features": [],
+        "downloadUrl": "https:\/\/akirabox.com\/l76mZVwpZman\/file",
+        "hasDownloadUrl": true,
+        "hasUpdate": true,
+        "updateSize": " (6.72+) ",
+        "updateUrl": "https:\/\/akirabox.com\/gXeGOr56zAa7\/file",
+        "hasUpdate-fix": true,
+        "update-fixSize": " (Fix 5.05)",
+        "update-fixUrl": "https:\/\/akirabox.com\/qLQ36xQwG19j\/file",
+        "hasDLC": true,
+        "dlcCount": 1,
+        "dlcName": "",
+        "dlcUrl": "https:\/\/akirabox.com\/dkD3Yl657mLQ\/folder",
+        "hasDLC2": false,
+        "hasDownloadParts": true,
+        "hasUpdateParts": true,
+        "hasDLCParts": true,
+        "hasFeatures": false
+    },
+    {
+        "id": 504,
+        "title": "The Witcher 3 Wild Hunt",
+        "platform": "ps5",
+        "genre": [
+            "action",
+            "adventure",
+            "open-world",
+            "hack-and-slash",
+            "arabic"
+        ],
+        "size": "55 GB",
+        "image": "https:\/\/i.postimg.cc\/dtM9mxF9\/The-Witcher-3-Wild-Hunt.webp",
+        "sliderImage": "https:\/\/i.postimg.cc\/8kXh6tNS\/The-Witcher3.jpg",
+        "headerImage": "https:\/\/i.postimg.cc\/8kXh6tNS\/The-Witcher3.jpg",
+        "systemVersion": "5.05\/11.00",
+        "version": "1.62",
+        "gameCode": "CUSA05574 – EUR",
+        "story": "انطلق في رحلة جيرالت من ريفيا للعثور على ابنته بالتزامن مع الغزو الوحشي للعالم. استكشف عالمًا فسيحًا، قاتل وحوشًا أسطورية وتخذ قرارات صعبة ليس لها إجابات صحيحة أو خاطئة. اللعبة تقدم قصة غنية، عالم مفتوح مفصل، وآلاف الساعات من اللعب.",
+        "developer": "CD Projekt Red",
+        "publisher": "CD Projekt Red",
+        "releaseDate": "19 مايو 2015",
+        "rating": 10,
+        "password": "4GAMER",
+        "languages": [
+            {
+                "name": "العربية",
+                "code": "arabic",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": false
+                }
+            }
+        ],
+        "downloadParts": [],
+        "updateParts": [],
+        "dlcParts": [],
+        "features": [],
+        "downloadUrl": "https:\/\/akirabox.com\/2bJG8B9D3OBE\/file#4GAMER\/T.ME\/C9_91",
+        "hasDownloadUrl": true,
+        "hasUpdate": true,
+        "updateSize": "135.19 MB",
+        "updateUrl": "https:\/\/akirabox.com\/l76mZWpn3anY\/file#4GAMER\/T.ME\/C9_91",
+        "hasUpdate-fix": false,
+        "hasDLC": false,
+        "hasDownloadParts": false,
+        "hasUpdateParts": false,
+        "hasDLCParts": false,
+        "hasFeatures": false
+    },
+    {
+        "id": 505,
+        "title": " (GOTY)Bloodborne",
+        "platform": "ps5",
+        "genre": [
+            "action",
+            "adventure",
+            "rpg",
+            "hack-and-slash",
+            "souls",
+            "arabic"
+        ],
+        "size": "33GB",
+        "image": "https:\/\/i.postimg.cc\/jdNFh977\/Bloodborne-1.jpg",
+        "sliderImage": "https:\/\/i.postimg.cc\/1XDBBF9F\/bloodborne.jpg",
+        "headerImage": "https:\/\/i.postimg.cc\/1XDBBF9F\/bloodborne.jpg",
+        "systemVersion": "5.05\/11.00",
+        "version": "1.09",
+        "gameCode": "CUSA03173 – EUR",
+        "story": "في مدينة يهارنام الموبوءة، ابحث عن مصدر الداء الذي يحول السكان إلى وحوش. استخدم أسلحتك السريعة وقوة الدم في مواجهة أعداء لا يرحمون. اللعبة تقدم تحديًا هائلاً، تصميم فني فريد، وقصة غامضة يمكنك اكتشافها.",
+        "developer": "FromSoftware",
+        "publisher": "Sony Computer Entertainment",
+        "releaseDate": "24 مارس 2015",
+        "rating": 9.199999999999999289457264239899814128875732421875,
+        "password": "PSPKG-ARABIC",
+        "languages": [
+            {
+                "name": "العربية",
+                "code": "arabic",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": false
+                }
+            }
+        ],
+        "downloadParts": [],
+        "updateParts": [],
+        "dlcParts": [],
+        "features": [],
+        "downloadUrl": "https:\/\/akirabox.to\/b5OzdJb5ymB8\/file",
+        "hasDownloadUrl": true,
+        "hasUpdate": true,
+        "updateSize": "180.15MB",
+        "updateUrl": "https:\/\/www.mediafire.com\/file\/wg45rxh27smr4xz\/BLOODBORNE-AR60fps.rar\/file",
+        "hasUpdate-fix": false,
+        "hasDLC": true,
+        "dlcCount": 1,
+        "dlcName": "",
+        "dlcUrl": "https:\/\/akirabox.com\/Zvqzlo4Q63aD\/file",
+        "hasDLC2": false,
+        "hasDownloadParts": false,
+        "hasUpdateParts": false,
+        "hasDLCParts": false,
+        "hasFeatures": false
+    },
+    {
+        "id": 506,
+        "title": "Final Fantasy VII Remake",
+        "platform": "ps5",
+        "genre": [
+            "action",
+            "adventure",
+            "open-world"
+        ],
+        "size": "87GB",
+        "image": "https:\/\/i.postimg.cc\/3RDV0YvW\/Final-Fantasy-VII-Remake-ps4.jpg",
+        "sliderImage": "https:\/\/i.postimg.cc\/QtWwKhTQ\/final-fantasy7.png",
+        "headerImage": "https:\/\/i.postimg.cc\/QtWwKhTQ\/final-fantasy7.png",
+        "systemVersion": "5.05\/11.00",
+        "version": "1.02",
+        "gameCode": "CUSA07211 – USA",
+        "story": "أعد إحياء القصة الأسطورية لـ Final Fantasy VII في هذه الإعادة البنائية الشاملة. انضم إلى كلود سترايف ومجموعة AVALANCHE في نضالهم ضد شركة Shinra. اللعبة تقدم قتالًا استراتيجيًا في الوقت الفعلي، شخصيات محبوبة، وقصة عميقة ومؤثرة.",
+        "developer": "Square Enix",
+        "publisher": "Square Enix",
+        "releaseDate": "10 أبريل 2020",
+        "rating": 8.9000000000000003552713678800500929355621337890625,
+        "password": "DLPSGAME.COM",
+        "languages": [
+            {
+                "name": "الإنجليزية",
+                "code": "english",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": true
+                }
+            }
+        ],
+        "downloadParts": [],
+        "updateParts": [],
+        "dlcParts": [],
+        "features": [],
+        "downloadUrl": "https:\/\/akirabox.com\/rk9zKDBvG0lY\/file#4GAMER\/T.ME\/C9_91",
+        "hasDownloadUrl": true,
+        "hasUpdate": true,
+        "updateSize": "209.94 MB",
+        "updateUrl": "https:\/\/akirabox.com\/Y2xm0ZW9zRO1\/file#4GAMER\/T.ME\/C9_91",
+        "hasUpdate-fix": false,
+        "hasDLC": false,
+        "hasDownloadParts": false,
+        "hasUpdateParts": false,
+        "hasDLCParts": false,
+        "hasFeatures": false
+    },
+    {
+        "id": 507,
+        "title": "God of  War 2018 ",
+        "platform": "ps5",
+        "genre": [
+            "action",
+            "adventure",
+            "hack-and-slash"
+        ],
+        "size": "44GB",
+        "image": "..\/assets\/images\/God_of_War_2018.webp",
+        "sliderImage": "..\/assets\/images\/God_of_War_4.webp",
+        "headerImage": "..\/assets\/images\/God_of_War_4.webp",
+        "systemVersion": " 3.xx – 7.xx",
+        "version": "1.36",
+        "gameCode": "CUSA07410",
+        "story": " تمثل بداية جديدة لرحلة كراتوس بعد ابتعاده عن عالم الآلهة الإغريقية. يعيش الآن في أراضٍ مستوحاة من الأساطير الإسكندنافية، حيث يسعى مع ابنه أتريوس لتحقيق وصية زوجته الراحلة ونثر رمادها في أعلى قمة من العوالم التسعة. اللعبة تمزج بين القتال الوحشي والعاطفة الأبوية، مقدمة تجربة ملحمية مليئة بالغموض، التحدي، والدراما الإنسانية العميقة.\n",
+        "developer": "Santa Monica Studio",
+        "publisher": "Sony Interactive Entertainment",
+        "releaseDate": "2018",
+        "rating": 8,
+        "password": "DLPSGAME.COM",
+        "languages": [
+            {
+                "name": "الإنجليزية",
+                "code": "english",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": true
+                }
+            }
+        ],
+        "downloadParts": [],
+        "updateParts": [],
+        "dlcParts": [],
+        "features": [
+            "All DLC",
+            "60 FPS",
+            "No TAA",
+            "Sharpness Disabled",
+            "Fixed for PS5 7.xx",
+            "Note : Need kstuff paused for great result"
+        ],
+        "downloadUrl": "https:\/\/akirabox.to\/qLQ36oZ7Yz19\/file",
+        "hasDownloadUrl": true,
+        "hasUpdate": true,
+        "updateSize": "7.45GB \/Update 1.36 + All DLC + 60Fps + No taa + No sharpness ",
+        "updateUrl": "https:\/\/akirabox.to\/M2BGw6Mapzj4\/file",
+        "hasUpdate-fix": false,
+        "hasDLC": false,
+        "hasDownloadParts": false,
+        "hasUpdateParts": false,
+        "hasDLCParts": false,
+        "hasFeatures": true
+    },
+    {
+        "id": 508,
+        "title": "God of War 3 Remastered",
+        "platform": "ps5",
+        "genre": [
+            "action",
+            "adventure",
+            "hack-and-slash",
+            "arabic"
+        ],
+        "size": "36.78GB",
+        "image": "https:\/\/i.postimg.cc\/1tj5WS9C\/God-of-War-3-Remastered.webp",
+        "sliderImage": "https:\/\/i.postimg.cc\/kXRb81nj\/God-of-War-3-Remastered-10.webp",
+        "headerImage": "https:\/\/i.postimg.cc\/kXRb81nj\/God-of-War-3-Remastered-10.webp",
+        "systemVersion": "5.05\/11.00",
+        "version": "1.01",
+        "gameCode": "CUSA01623 – USA",
+        "story": "God of War III تمثل ذروة ملحمة كراتوس وانتقامه الأخير من آلهة الأولمب. بعد خيانة زيوس له، يشن كراتوس حربًا مدمّرة على جبل الأولمب مستخدمًا قوة الفوضى وأسلحة الآلهة نفسها. اللعبة تقدم معارك أسطورية ضخمة، مشاهد سينمائية مذهلة، ونهاية دموية تختم رحلة كراتوس في العالم الإغريقي بأكثر الطرق إثارة وتأثيرًا.\"",
+        "developer": "Santa Monica Studio",
+        "publisher": "Sony Interactive Entertainment",
+        "releaseDate": "2015",
+        "rating": 8.5,
+        "password": "4GAMER",
+        "languages": [
+            {
+                "name": "العربية",
+                "code": "arabic",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": false
+                }
+            }
+        ],
+        "downloadParts": [],
+        "updateParts": [],
+        "dlcParts": [],
+        "features": [],
+        "downloadUrl": "https:\/\/akirabox.com\/0JgG7668zoYW\/file#4GAMER\/T.ME\/C9_91",
+        "hasDownloadUrl": true,
+        "hasUpdate": true,
+        "updateSize": "17.75MB",
+        "updateUrl": "https:\/\/akirabox.com\/N2p3D7BkmMa5\/file#4gamer",
+        "hasUpdate-fix": false,
+        "hasDLC": false,
+        "hasDownloadParts": false,
+        "hasUpdateParts": false,
+        "hasDLCParts": false,
+        "hasFeatures": false
+    },
+    {
+        "id": 509,
+        "title": "Marvels Spider Man Remastered",
+        "platform": "ps5",
+        "genre": [
+            "action",
+            "adventure"
+        ],
+        "size": "66GB",
+        "image": "..\/assets\/images\/Marvels_Spider_Man_Remastered.webp",
+        "sliderImage": "..\/assets\/images\/Marvels_Spider_Man_Remastered1.webp",
+        "headerImage": "..\/assets\/images\/Marvels_Spider_Man_Remastered1.webp",
+        "systemVersion": "5.xx and higher",
+        "version": "v01.008.001",
+        "gameCode": "PPSA01469 – EUR",
+        "story": "Marvel’s Spider-Man تقدم تجربة أصيلة ومثيرة في عالم بيتر باركر وهو يعيش حياة مزدوجة كبطل خارق. بعد سنوات من محاربة الجريمة، أصبح بيتر أكثر نضجًا وخبرة، لكنه يواجه الآن تهديدات جديدة تقلب موازين نيويورك رأسًا على عقب. اللعبة تجمع بين قصة مؤثرة، أسلوب قتال ديناميكي، وحركة انسيابية مذهلة أثناء التأرجح بين ناطحات السحاب.",
+        "developer": "Insomniac Games",
+        "publisher": "Sony Interactive Entertainment",
+        "releaseDate": "2018",
+        "rating": 8.699999999999999289457264239899814128875732421875,
+        "password": "DLPSGAME.COM",
+        "languages": [
+            {
+                "name": "الإنجليزية",
+                "code": "english",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": true
+                }
+            }
+        ],
+        "downloadParts": [],
+        "updateParts": [],
+        "dlcParts": [],
+        "features": [],
+        "downloadUrl": "https:\/\/pslk.net\/pc37zqp8",
+        "hasDownloadUrl": true,
+        "hasUpdate": false,
+        "hasDLC": false,
+        "hasDownloadParts": false,
+        "hasUpdateParts": false,
+        "hasDLCParts": false,
+        "hasFeatures": false
+    },
+    {
+        "id": 510,
+        "title": "Marvels Spider Man Miles Morales",
+        "platform": "ps5",
+        "genre": [
+            "action",
+            "adventure",
+            "arabic"
+        ],
+        "size": " 50GB",
+        "image": "..\/assets\/images\/Marvels_Spider_Man_Miles_Morales.webp",
+        "sliderImage": "..\/assets\/images\/marvels-Spidermorales.webp",
+        "headerImage": "..\/assets\/images\/marvels-Spidermorales.webp",
+        "systemVersion": "5.xx and higher",
+        "version": "(v01.015.001",
+        "gameCode": "PPSA01417 - EUR",
+        "story": "Marvel’s Spider-Man: Miles Morales تروي قصة مايلز الشاب الذي يسير على خطى بيتر باركر ليصبح الرجل العنكبوت الجديد في نيويورك. بعد حادث غريب يمنحه قوى فريدة، يجد نفسه في قلب صراع يهدد مدينته بين جيش تقني متطور وشركة طاقة غامضة. اللعبة تجمع بين الأكشن السريع، القتال المذهل، والمشاعر الإنسانية في رحلة بطل شاب يتعلم معنى أن يكون مسؤولاً عن القوة.",
+        "developer": "Insomniac Games",
+        "publisher": "Sony Interactive Entertainment",
+        "releaseDate": "2020",
+        "rating": 9,
+        "password": "DLPSGAME.COM",
+        "languages": [
+            {
+                "name": "العربية",
+                "code": "arabic",
+                "support": {
+                    "menu": false,
+                    "subtitles": false,
+                    "dubbed": true
+                }
+            },
+            {
+                "name": "الإنجليزية",
+                "code": "english",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": true
+                }
+            }
+        ],
+        "downloadParts": [],
+        "updateParts": [],
+        "dlcParts": [],
+        "features": [],
+        "downloadUrl": "https:\/\/pslk.net\/q6qlnefw",
+        "hasDownloadUrl": true,
+        "hasUpdate": true,
+        "updateSize": "Backport 4.xx+ (@Deckerr97)",
+        "updateUrl": "https:\/\/www.mediafire.com\/file\/keds5t35aorpw8p\/[DLPSGAME.COM]-FW_4xx_PPSA01417_01_015_001_backport.zip\/file",
+        "hasUpdate-fix": false,
+        "hasDLC": false,
+        "hasDownloadParts": false,
+        "hasUpdateParts": false,
+        "hasDLCParts": false,
+        "hasFeatures": false
+    },
+    {
+        "id": 511,
+        "title": "Resident Evil 5",
+        "platform": "ps5",
+        "genre": [
+            "action",
+            "adventure",
+            "horror",
+            "survival",
+            "arabic"
+        ],
+        "size": "16GB",
+        "image": "https:\/\/i.postimg.cc\/W4WwkYd7\/Resident_Evil_5_1.webp",
+        "sliderImage": "https:\/\/i.postimg.cc\/yNQyZpDy\/Resident_Evil_5_2.webp",
+        "headerImage": "https:\/\/i.postimg.cc\/yNQyZpDy\/Resident_Evil_5_2.webp",
+        "systemVersion": "5.05\/11.00",
+        "version": "1.01",
+        "gameCode": " CUSA04284 – EUR",
+        "story": "Resident Evil 5 تأخذك إلى قلب إفريقيا حيث ينتشر فيروس قاتل يحول البشر إلى مخلوقات عدوانية. يتتبع كريس ريدفيلد، أحد أعضاء منظمة BSAA، آثار شركة أمبريلا السابقة بمساعدة شريكة جديدة تُدعى شيفا ألومار. معًا يواجهان جحافل من الأعداء في بيئات صحراوية خطيرة، ويكشفان مؤامرة جديدة تهدد العالم. اللعبة تجمع بين الأكشن والرعب بتعاون مثير وتجربة بصرية محسّنة.",
+        "developer": "Capcom",
+        "publisher": "Capcom",
+        "releaseDate": "05.03.2009",
+        "rating": 8.699999999999999289457264239899814128875732421875,
+        "password": "4GAMER",
+        "languages": [
+            {
+                "name": "العربية",
+                "code": "arabic",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": false
+                }
+            }
+        ],
+        "downloadParts": [
+            {
+                "name": "5",
+                "size": "15GB",
+                "url": "https:\/\/pastelink.net\/5oq3ej73"
+            }
+        ],
+        "updateParts": [
+            {
+                "name": "التعريب",
+                "size": "180Mo",
+                "url": "https:\/\/mega.nz\/file\/bd9ElIoR#4dxTQw19yC4poxpqC9u55xaBMC89eitAp2m2CXiodI4"
+            }
+        ],
+        "dlcParts": [],
+        "features": [],
+        "downloadUrl": "https:\/\/transfer.it\/t\/sEEaokkHCJqQ",
+        "hasDownloadUrl": true,
+        "hasUpdate": true,
+        "updateSize": "التعريب",
+        "updateUrl": "https:\/\/mega.nz\/file\/bd9ElIoR#4dxTQw19yC4poxpqC9u55xaBMC89eitAp2m2CXiodI4",
+        "hasUpdate-fix": false,
+        "hasDLC": false,
+        "hasDownloadParts": true,
+        "hasUpdateParts": true,
+        "hasDLCParts": false,
+        "hasFeatures": false
+    },
+    {
+        "id": 512,
+        "title": "Little Nightmares",
+        "platform": "ps5",
+        "genre": [
+            "action",
+            "adventure",
+            "platformer",
+            "horror",
+            "puzzle",
+            "arabic"
+        ],
+        "size": "3GB",
+        "image": "https:\/\/i.postimg.cc\/wvCzXn8X\/Little_Nightmares_20.webp",
+        "sliderImage": "https:\/\/i.postimg.cc\/rsXFdzcT\/Little_Nightmares_2.webp",
+        "headerImage": "https:\/\/i.postimg.cc\/rsXFdzcT\/Little_Nightmares_2.webp",
+        "systemVersion": "5.05\/11.00",
+        "version": "1.07",
+        "gameCode": "CUSA05952",
+        "story": "Little Nightmares تأخذك في رحلة غامضة داخل عالم كئيب ومظلم، حيث تتحكم بفتاة صغيرة تُدعى Six تحاول الهروب من مكان مرعب يُعرف باسم The Maw. اللعبة تمزج بين أسلوب الرعب النفسي والألغاز البيئية لتقدّم تجربة قصيرة لكنها مؤثرة بصريًا ونفسيًا.\"",
+        "developer": "Tarsier Studios",
+        "publisher": "Bandai Namco Entertainment",
+        "releaseDate": "28 أبريل 2017",
+        "rating": 8.5,
+        "password": "pspkg-arabic",
+        "languages": [
+            {
+                "name": "العربية",
+                "code": "arabic",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": false
+                }
+            },
+            {
+                "name": "الإنجليزية",
+                "code": "english",
+                "support": {
+                    "menu": false,
+                    "subtitles": false,
+                    "dubbed": true
+                }
+            }
+        ],
+        "downloadParts": [],
+        "updateParts": [],
+        "dlcParts": [],
+        "features": [],
+        "downloadUrl": "https:\/\/mega.nz\/file\/qNchlTQL#qgSsG3oUXJ0HhaMMC7LrwEVKWiuHC5Bvjii3p4lbCOw",
+        "hasDownloadUrl": true,
+        "hasUpdate": true,
+        "updateSize": "",
+        "updateUrl": "https:\/\/mega.nz\/file\/CN0jlLiY#Sg_KuOw00m6PkW0cpkGqblJZQMIuCnrqq267pZpYsUQ",
+        "hasUpdate-fix": false,
+        "hasDLC": true,
+        "dlcCount": 3,
+        "dlcName": "",
+        "dlcUrl": "https:\/\/akirabox.com\/jar3Xrqx7G2d\/folder",
+        "hasDLC2": false,
+        "hasDownloadParts": false,
+        "hasUpdateParts": false,
+        "hasDLCParts": false,
+        "hasFeatures": false
+    },
+    {
+        "id": 513,
+        "title": "Little Nightmares 2",
+        "platform": "ps5",
+        "genre": [
+            "adventure",
+            "platformer",
+            "horror",
+            "puzzle",
+            "arabic"
+        ],
+        "size": "6GB",
+        "image": "https:\/\/i.postimg.cc\/Jnf8NSVJ\/Little_Nightmares_2_21.webp",
+        "sliderImage": "https:\/\/i.postimg.cc\/rmtwFxBZ\/Little_Nightmares_2_2.webp",
+        "headerImage": "https:\/\/i.postimg.cc\/rmtwFxBZ\/Little_Nightmares_2_2.webp",
+        "systemVersion": "5.05\/11.00",
+        "version": "1.05",
+        "gameCode": "CUSA12779 – EUR",
+        "story": "Little Nightmares تأخذك في رحلة غامضة داخل عالم كئيب ومظلم، حيث تتحكم بفتاة صغيرة تُدعى Six تحاول الهروب من مكان مرعب يُعرف باسم The Maw. اللعبة تمزج بين أسلوب الرعب النفسي والألغاز البيئية لتقدّم تجربة قصيرة لكنها مؤثرة بصريًا ونفسيًا.\"",
+        "developer": "Tarsier Studios",
+        "publisher": "Bandai Namco Entertainment",
+        "releaseDate": "11 فبراير 2021",
+        "rating": 8.800000000000000710542735760100185871124267578125,
+        "password": "4GAMER",
+        "languages": [
+            {
+                "name": "العربية",
+                "code": "arabic",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": false
+                }
+            },
+            {
+                "name": "الإنجليزية",
+                "code": "english",
+                "support": {
+                    "menu": false,
+                    "subtitles": false,
+                    "dubbed": true
+                }
+            }
+        ],
+        "downloadParts": [],
+        "updateParts": [],
+        "dlcParts": [],
+        "features": [],
+        "downloadUrl": "https:\/\/akirabox.com\/dkD3Yq9vl3LQ\/file#4Gamer",
+        "hasDownloadUrl": true,
+        "hasUpdate": true,
+        "updateSize": "",
+        "updateUrl": "https:\/\/akirabox.com\/LJlGnVrnlG15\/file#4Gamer",
+        "hasUpdate-fix": false,
+        "hasDLC": true,
+        "dlcCount": 1,
+        "dlcName": "",
+        "dlcUrl": "https:\/\/akirabox.com\/9AqGQBMq8mMn\/folder",
+        "hasDLC2": false,
+        "hasDownloadParts": false,
+        "hasUpdateParts": false,
+        "hasDLCParts": false,
+        "hasFeatures": false
+    },
+    {
+        "id": 514,
+        "title": "Little Nightmares III Deluxe Edition",
+        "platform": "ps5",
+        "genre": [
+            "adventure",
+            "platformer",
+            "horror",
+            "puzzle",
+            "arabic"
+        ],
+        "size": "20GB",
+        "image": "https:\/\/i.postimg.cc\/nLRGDSX0\/Little_Nightmares_III_Deluxe_Edition_1.webp",
+        "sliderImage": "https:\/\/i.postimg.cc\/905F4z28\/Little_Nightmares_III_Deluxe_Edition_2.webp",
+        "headerImage": "https:\/\/i.postimg.cc\/905F4z28\/Little_Nightmares_III_Deluxe_Edition_2.webp",
+        "systemVersion": "5.05\/11.00",
+        "version": "1.02",
+        "gameCode": "CUSA42879 – EUR",
+        "story": "في Little Nightmares III تستيقظ شخصيتان جديدتان، Low وAlone، داخل «اللولب» (The Spiral) — مكان مليء بالأوهام والكوابيس. عليهما التعاون معاً، أو يمكن لأحدهما أن يلعب بمفرده مع مساعد ذكي، للهروب من عالمٍ مظلم لا يُرحم. لأول مرة في السلسلة يتوفّر اللعب التعاوني عبر الإنترنت لكلّ منصة. اللعبة تجمع بين الألغاز، التسلّل، البُعد النفسي، وإحساس الخوف الطفولي المُقوّى.\" ",
+        "developer": "Supermassive Games",
+        "publisher": "Bandai Namco Entertainment",
+        "releaseDate": "10 أكتوبر 2025",
+        "rating": 7.79999999999999982236431605997495353221893310546875,
+        "password": "4GAMER",
+        "languages": [
+            {
+                "name": "العربية",
+                "code": "arabic",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": false
+                }
+            },
+            {
+                "name": "الإنجليزية",
+                "code": "english",
+                "support": {
+                    "menu": false,
+                    "subtitles": false,
+                    "dubbed": true
+                }
+            }
+        ],
+        "downloadParts": [],
+        "updateParts": [],
+        "dlcParts": [],
+        "features": [],
+        "downloadUrl": "https:\/\/akirabox.com\/Z9dzBjZbEzk1\/file",
+        "hasDownloadUrl": true,
+        "hasUpdate": true,
+        "updateSize": "",
+        "updateUrl": "https:\/\/akirabox.com\/9AqGQRQNvmMn\/file",
+        "hasUpdate-fix": false,
+        "hasDLC": true,
+        "dlcCount": 1,
+        "dlcName": "",
+        "dlcUrl": "https:\/\/akirabox.com\/Z9dzBjZvMzk1\/file",
+        "hasDLC2": false,
+        "hasDownloadParts": false,
+        "hasUpdateParts": false,
+        "hasDLCParts": false,
+        "hasFeatures": false
+    },
+    {
+        "id": 515,
+        "title": "The Last of Us Part II ",
+        "platform": "ps5",
+        "genre": [
+            "action",
+            "adventure",
+            "open-world",
+            "survival",
+            "arabic"
+        ],
+        "size": "92GB",
+        "image": "https:\/\/i.postimg.cc\/FFYnK5dX\/Capture-d-ecran-2025-12-14-063758.png",
+        "sliderImage": "https:\/\/i.postimg.cc\/YCHyD3Nw\/The-Last-of-Us-Part-II-2.jpg",
+        "headerImage": "https:\/\/i.postimg.cc\/YCHyD3Nw\/The-Last-of-Us-Part-II-2.jpg",
+        "systemVersion": "5.05\/11.00",
+        "version": "1.09\/1.07",
+        "gameCode": " CUSA10249– USA",
+        "story": "The Last of Us Part II تأخذنا في رحلة مظلمة وعاطفية مع إيلي بعد خمس سنوات من أحداث الجزء الأول. في عالم مدمر ومليء بالناجين العدوانيين والمخلوقات المصابة، تنطلق إيلي في طريق الانتقام بعد مأساة شخصية تهز حياتها. اللعبة تقدم سردًا بالغ العمق، وشخصيات معقدة، وعالماً مليئاً بالتفاصيل الواقعية. تمتاز بتصميم سينمائي مذهل وأسلوب لعب يدمج بين التخفي والبقاء والقتال الوحشي، لتقدم تجربة إنسانية مؤثرة تتحدى مفاهيم الخير والشر.\"",
+        "developer": "Naughty Dog",
+        "publisher": "Sony Interactive Entertainment",
+        "releaseDate": "2024",
+        "rating": 10,
+        "password": " pspkg-arabic",
+        "languages": [
+            {
+                "name": "العربية",
+                "code": "arabic",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": false
+                }
+            },
+            {
+                "name": "الإنجليزية",
+                "code": "english",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": true
+                }
+            }
+        ],
+        "downloadParts": [
+            {
+                "name": "18",
+                "size": "86.7 GB",
+                "url": "https:\/\/pastelink.net\/fzsi5c7g"
+            }
+        ],
+        "updateParts": [],
+        "dlcParts": [],
+        "features": [],
+        "downloadUrl": "https:\/\/akirabox.com\/Xkrzoo1E2zBO\/file",
+        "hasDownloadUrl": true,
+        "hasUpdate": true,
+        "updateSize": "",
+        "updateUrl": "https:\/\/akirabox.com\/EL73gBwWm9Ba\/file#4GAMER\/T.ME\/C9_91",
+        "hasUpdate-fix": false,
+        "hasDLC": true,
+        "dlcCount": 1,
+        "dlcName": "",
+        "dlcUrl": "https:\/\/akirabox.com\/N2p3DjAVGMa5\/file#4GAMER\/T.ME\/C9_91",
+        "hasDLC2": false,
+        "hasDownloadParts": true,
+        "hasUpdateParts": false,
+        "hasDLCParts": false,
+        "hasFeatures": false
+    },
+    {
+        "id": 516,
+        "title": "The Last of Us Part I ",
+        "platform": "ps5",
+        "genre": [
+            "action",
+            "adventure",
+            "open-world",
+            "survival",
+            "arabic"
+        ],
+        "size": "45GB",
+        "image": "https:\/\/i.postimg.cc\/3xTbfBj5\/The-Last-of-Us-Part-I-1.jpg",
+        "sliderImage": "https:\/\/i.postimg.cc\/pTKrHNG3\/tlou1.jpg",
+        "headerImage": "https:\/\/i.postimg.cc\/pTKrHNG3\/tlou1.jpg",
+        "systemVersion": "5.05\/11.00",
+        "version": "1.11",
+        "gameCode": " CUSA00556– EUR",
+        "story": "في The Last of Us Part I، تعود لتمثّل قصة جويل وإيلي في أميركا ما بعد كارثة، حيث يُكلف جويل بمهمة تهريب إيلي من منطقة حجر عسكري، ولكن سرعان ما تتحول الرحلة إلى صراع على البقاء ضد مصابين وبشر قاسٍين. تشمل اللعبة القصة الأصلية والإضافة “Left Behind”.\"",
+        "developer": "Naughty Dog",
+        "publisher": "Sony Interactive Entertainment",
+        "releaseDate": "2 سبتمبر 2022",
+        "rating": 10,
+        "password": "4GAMER",
+        "languages": [
+            {
+                "name": "العربية",
+                "code": "arabic",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": false
+                }
+            },
+            {
+                "name": "الإنجليزية",
+                "code": "english",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": true
+                }
+            }
+        ],
+        "downloadParts": [
+            {
+                "name": "اللعبة",
+                "size": "45GB",
+                "url": "https:\/\/h27eebb.github.io\/Part\/TLOU1\/"
+            }
+        ],
+        "updateParts": [
+            {
+                "name": "التحديث",
+                "size": "920.5 MB",
+                "url": "https:\/\/akirabox.com\/jJD3V5Aama5Q\/file#4GAMER\/T.ME\/C9_91"
+            }
+        ],
+        "dlcParts": [
+            {
+                "name": "Left Behind",
+                "size": "7 MB",
+                "url": "https:\/\/akirabox.com\/0PdzyawrzeAR\/folder"
+            }
+        ],
+        "features": [],
+        "downloadUrl": "https:\/\/akirabox.com\/Y2xm0WpoGRO1\/file#4GAMER\/T.ME\/C9_91",
+        "hasDownloadUrl": true,
+        "hasUpdate": true,
+        "updateSize": "920.5 MB",
+        "updateUrl": "https:\/\/akirabox.com\/jJD3V5Aama5Q\/file#4GAMER\/T.ME\/C9_91",
+        "hasUpdate-fix": false,
+        "hasDLC": true,
+        "dlcCount": 1,
+        "dlcName": "Left Behind",
+        "dlcUrl": "https:\/\/akirabox.com\/0PdzyawrzeAR\/folder",
+        "hasDLC2": false,
+        "hasDownloadParts": true,
+        "hasUpdateParts": true,
+        "hasDLCParts": true,
+        "hasFeatures": false
+    },
+    {
+        "id": 517,
+        "title": "Dead Island 2 Gold Edition",
+        "platform": "ps5",
+        "genre": [
+            "action",
+            "open-world",
+            "horror",
+            "survival",
+            "arabic"
+        ],
+        "size": "22GB",
+        "image": "https:\/\/i.postimg.cc\/9XLfMGZt\/Dead-Island-2-Gold-Edition.webp",
+        "sliderImage": "https:\/\/i.postimg.cc\/65MH7YfF\/Dead-Island-2-Gold-Edition.jpg",
+        "headerImage": "https:\/\/i.postimg.cc\/65MH7YfF\/Dead-Island-2-Gold-Edition.jpg",
+        "systemVersion": "5.05\/11.00",
+        "version": "1.07",
+        "gameCode": " CUSA27043 – EUR",
+        "story": "في Dead Island 2, تنتشر عدوى مميتة في مدينة لوس أنجلِس التي أصبحت تحت الحجر الكامل. أنت وأقلية ممن لديهم مناعة تواجهون جحافل الزومبي، تكتشفون حقيقتكم وتحاولون النجاة وتطهير Hell-A من الكارثة.\"",
+        "developer": "Deep Silver Dambuster Studios",
+        "publisher": "Deep Silver ",
+        "releaseDate": "21 أبريل 2023",
+        "rating": 8.300000000000000710542735760100185871124267578125,
+        "password": "4GAMER",
+        "languages": [
+            {
+                "name": "العربية",
+                "code": "arabic",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": false
+                }
+            }
+        ],
+        "downloadParts": [
+            {
+                "name": "اللعبة",
+                "size": "19.33 GB",
+                "url": "https:\/\/h27eebb.github.io\/Part\/DI2\/"
+            }
+        ],
+        "updateParts": [
+            {
+                "name": "التحديث",
+                "size": "2.07 GB",
+                "url": "https:\/\/akirabox.com\/jJD3VaPLEma5\/file"
+            }
+        ],
+        "dlcParts": [
+            {
+                "name": "Expansion Pass، Golden Weapons Pack، Pulp",
+                "size": "10.36 MB",
+                "url": "https:\/\/akirabox.com\/E1x3AlVkWmyk\/file"
+            }
+        ],
+        "features": [],
+        "downloadUrl": "https:\/\/akirabox.com\/0PdzyB9vPGeA\/file",
+        "hasDownloadUrl": true,
+        "hasUpdate": true,
+        "updateSize": "",
+        "updateUrl": "https:\/\/akirabox.com\/jJD3VaPLEma5\/file",
+        "hasUpdate-fix": false,
+        "hasDLC": true,
+        "dlcCount": 1,
+        "dlcName": "Expansion Pass، Golden Weapons Pack، Pulp",
+        "dlcUrl": "https:\/\/akirabox.com\/E1x3AlVkWmyk\/file",
+        "hasDLC2": false,
+        "hasDownloadParts": true,
+        "hasUpdateParts": true,
+        "hasDLCParts": true,
+        "hasFeatures": false
+    },
+    {
+        "id": 518,
+        "title": "FC 26",
+        "platform": "ps5",
+        "genre": [
+            "sports",
+            "simulation"
+        ],
+        "size": "75GB",
+        "image": "https:\/\/i.postimg.cc\/vZnYySsZ\/fc6-PS4.jpg",
+        "sliderImage": "https:\/\/i.postimg.cc\/HsF2197k\/FC26-PS5.jpg",
+        "headerImage": "https:\/\/i.postimg.cc\/HsF2197k\/FC26-PS5.jpg",
+        "systemVersion": "5.05\/11.00",
+        "version": "1.09\/1.05",
+        "gameCode": "CUSA52342",
+        "story": "EA SPORTS FC 26 تقدم تجربة كرة قدم كاملة مُعاد تصميمها حسب تعليقات اللاعبين. تتميز بمراوغة ردّ فعل أسرع، ذكاء اصطناعي محسّن، وخيارين في أسلوب اللعب؛ 'التنافسي' للأوضاع المباشرة، و'الأصلي' للعبة المسيرة. تضم أكثر من 20 000 لاعب، 750+ نادٍ، و35+ دوريًا رسميًا — إنها ملعبك بالكامل.",
+        "developer": "EA Vancouver EA Romania",
+        "publisher": "Electronic Arts",
+        "releaseDate": "2025",
+        "rating": 8.5999999999999996447286321199499070644378662109375,
+        "password": "4GAMER",
+        "downloadUrl": "https:\/\/akirabox.com\/ZvqzlYN48GaD\/file",
+        "hasUpdate": true,
+        "hasUpdate-fix": true,
+        "hasDLC": true,
+        "hasUpdateParts": false,
+        "hasDLCParts": false,
+        "hasDownloadParts": false,
+        "languages": [
+            {
+                "name": "العربية",
+                "code": "arabic",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": true
+                }
+            },
+            {
+                "name": "الإنجليزية",
+                "code": "english",
+                "support": {
+                    "menu": false,
+                    "subtitles": false,
+                    "dubbed": false
+                }
+            }
+        ],
+        "updateSize": "1.09 -----44.73 GB",
+        "updateUrl": "https:\/\/akirabox.com\/E1x3AlaPRmyk\/file",
+        "update-fixSize": "1.05",
+        "update-fixUrl": "https:\/\/akirabox.com\/5pVzNPZbZm7w\/file",
+        "dlcCount": 1,
+        "dlcName": "الترخيص",
+        "dlcUrl": "https:\/\/akirabox.com\/0PdzyWNaLmeA\/file"
+    },
+    {
+        "id": 519,
+        "title": "Marvels Midnight Suns Legendary Edition",
+        "platform": "ps5",
+        "genre": [
+            "rpg",
+            "strategy"
+        ],
+        "size": "55GB",
+        "image": "https:\/\/i.postimg.cc\/SKH7mhxZ\/Marvels-Midnight-Suns-Legendary-Edition.jpg",
+        "sliderImage": "https:\/\/i.postimg.cc\/6QFLBXpb\/Marvels-Midnight-Suns-Legendary-Edition-PS4.jpg",
+        "headerImage": "https:\/\/i.postimg.cc\/6QFLBXpb\/Marvels-Midnight-Suns-Legendary-Edition-PS4.jpg",
+        "systemVersion": "5.05\/11.00",
+        "version": "1.02",
+        "gameCode": "CUSA26174 – USA",
+        "story": "في Marvel’s Midnight Suns، يقود اللاعب بطلاً جديداً يُعرف بـ \\\"The Hunter\\\" ضمن فريق Midnight Suns لتصدي لقوة خارقة تدعى ‎Lilith هدفها استحضار الإله ‎Chthon. النسخة Legendary Edition تشمل اللعبة الأصلية + Season Pass الذي يضيف شخصيات إضافية مثل ‎Deadpool، ‎Venom، ‎Morbius، ‎Storm، بالإضافة إلى أكثر من 20 زيّاً مميزاً مخصصاً للأبطال.",
+        "developer": "Firaxis Games",
+        "publisher": "2K Games",
+        "releaseDate": "2 ديسمبر 2022",
+        "rating": 8.199999999999999289457264239899814128875732421875,
+        "password": "4GAMER",
+        "downloadUrl": "https:\/\/akirabox.com\/XkrzoqlKWmBO\/file",
+        "hasUpdate": true,
+        "hasUpdate-fix": true,
+        "hasDLC": false,
+        "hasUpdateParts": false,
+        "hasDLCParts": false,
+        "hasDownloadParts": false,
+        "languages": [
+            {
+                "name": "الإنجليزية",
+                "code": "english",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": true
+                }
+            }
+        ],
+        "updateSize": "5.05\/9.00",
+        "updateUrl": "https:\/\/akirabox.com\/jar3Xq0lZz2d\/file",
+        "update-fixSize": "10.00+",
+        "update-fixUrl": "https:\/\/akirabox.com\/2bJG8pnbqGOB\/file"
+    },
+    {
+        "id": 520,
+        "title": "Expeditions A Mudrunner Game",
+        "platform": "ps5",
+        "genre": [
+            "racing",
+            "simulation"
+        ],
+        "size": "13GB",
+        "image": "https:\/\/i.postimg.cc\/fTH811Yn\/Expeditions-A-Mudrunner-Game.jpg",
+        "sliderImage": "https:\/\/i.postimg.cc\/wTWwnnLC\/Expeditions-A-Mudrunner-Game-PS4.jpg",
+        "headerImage": "https:\/\/i.postimg.cc\/wTWwnnLC\/Expeditions-A-Mudrunner-Game-PS4.jpg",
+        "systemVersion": "5.05\/9.00",
+        "version": "1.16",
+        "gameCode": "CUSA44233 – EUR",
+        "story": "في Expeditions: A MudRunner Game، تتولّى قيادة مركبات رباعيّات الدفع وتجري مهمّات استكشافية علمية في بيئات وعرة مثل صحارى أريزونا وجبال الكاربات. مع أدوات مثل الكاشف المعدني والطائرة الدرون وحبال الربط، تبني معسكراً وتستقطب فريقاً لتحقيق أهدافك في البرّ الخارجي.",
+        "developer": "Saber Interactive",
+        "publisher": "Focus Entertainment",
+        "releaseDate": "5 مارس 2024",
+        "rating": 8,
+        "password": "4GAMER",
+        "downloadUrl": "https:\/\/akirabox.com\/E9Qz9d9Y03OL\/file",
+        "hasUpdate": true,
+        "hasUpdate-fix": false,
+        "hasDLC": true,
+        "hasUpdateParts": false,
+        "hasDLCParts": false,
+        "hasDownloadParts": false,
+        "languages": [
+            {
+                "name": "الإنجليزية",
+                "code": "english",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": true
+                }
+            }
+        ],
+        "updateSize": "فكس (5.05-9.00)",
+        "updateUrl": "https:\/\/akirabox.com\/7d5GLagZLmxR\/file",
+        "dlcCount": 1,
+        "dlcName": "الإضافات : ملف واحد ",
+        "dlcUrl": "https:\/\/www.mediafire.com\/file\/iupx46uyhiphv8f\/[DLPSGAME.COM]-Expeditions.A.Mudrunner.Game_CUSA44233_DLCPACK_[3]_OPOISSO893.rar\/file",
+        "hasDLC2": true,
+        "dlc2Name": "اضافات اخرى",
+        "dlc2Url": "https:\/\/www.mediafire.com\/file\/lrzdgebf20769id\/"
+    },
+    {
+        "id": 521,
+        "title": "Bayonetta",
+        "platform": "ps5",
+        "genre": [
+            "action",
+            "adventure",
+            "hack-and-slash",
+            "arabic"
+        ],
+        "size": "12.5GB",
+        "image": "https:\/\/i.postimg.cc\/VshxCSHB\/Bayonetta-PS4.jpg",
+        "sliderImage": "https:\/\/i.postimg.cc\/9Xk674NB\/Bayonetta.jpg",
+        "headerImage": "https:\/\/i.postimg.cc\/9Xk674NB\/Bayonetta.jpg",
+        "systemVersion": "5.05\/11.00",
+        "version": "1.01",
+        "gameCode": "CUSA16163 – EUR",
+        "story": "في Bayonetta، تستيقظ ساحرة تُدعى Bayonetta بعد مئة عام من الخمول، لتجد نفسها في مدينة Vigrid الغامضة. تحمل بندقيتين في كعبَيها وقوى سحرية من شعرها، وتبدأ في محاربة ملائكة وسحرة من أجل كشف الحقيقة عن ماضيها. اللعبة معروفَة بأسلوبها القتالي السريع، الحركات البهلوانية، ونظام 'Witch Time' الذي يبطئ الزمن عند تجنّب هجوم خصم.",
+        "developer": "PlatinumGames",
+        "publisher": "SEGA",
+        "releaseDate": "5 يناير 2010",
+        "rating": 9,
+        "password": "Hako",
+        "languages": [
+            {
+                "name": "العربية",
+                "code": "arabic",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": false
+                }
+            }
+        ],
+        "downloadParts": [
+            {
+                "name": "3",
+                "size": "11GB",
+                "url": "https:\/\/akirabox.to\/k0embV8XlmVb\/folder"
+            }
+        ],
+        "updateParts": [
+            {
+                "name": "التعريب مدمج مع فكس",
+                "size": "733.96MB",
+                "url": "https:\/\/www.mediafire.com\/?65os2drtjf8prs7"
+            }
+        ],
+        "dlcParts": [],
+        "features": [],
+        "downloadUrl": "https:\/\/pastelink.net\/42ntfzx6",
+        "hasDownloadUrl": true,
+        "hasUpdate": true,
+        "updateSize": "التعريب مدمج مع فكس",
+        "updateUrl": "https:\/\/www.mediafire.com\/?65os2drtjf8prs7",
+        "hasUpdate-fix": true,
+        "update-fixSize": "ملف اصلاح التروفيات",
+        "update-fixUrl": "https:\/\/1fichier.com\/?11z4yn0ne0uqdlfqblsg",
+        "hasDLC": false,
+        "hasDownloadParts": true,
+        "hasUpdateParts": true,
+        "hasDLCParts": false,
+        "hasFeatures": false
+    },
+    {
+        "id": 522,
+        "title": "The forest",
+        "platform": "ps5",
+        "genre": [
+            "open-world",
+            "horror",
+            "survival",
+            "arabic"
+        ],
+        "size": "2GB",
+        "image": "https:\/\/i.postimg.cc\/65ctG6n9\/The-forest.jpg",
+        "sliderImage": "https:\/\/i.postimg.cc\/PryT8fYX\/The-forest-PS4.jpg",
+        "headerImage": "https:\/\/i.postimg.cc\/PryT8fYX\/The-forest-PS4.jpg",
+        "systemVersion": "5.05\/11.00",
+        "version": "1.01",
+        "gameCode": "CUSA12398 – EUR",
+        "story": "بعد تحطّم طائرتك في جزيرة مُجردة، تكتشف أن هناك بشراً يلبسون الأقنعة يعيشون في الغابة ومعهم مخلوقات متحوّلة. يجب عليك البحث عن ابنك، والبقاء على قيد الحياة عبر بناء ملجأ، جمع الطعام، التقاط الموارد، والتعامل مع تهديدات لا تُحصى في بيئة مرعبة بلا مهمّات ثابتة.",
+        "developer": "Endnight Games",
+        "publisher": "Endnight Games",
+        "releaseDate": "6 نوفمبر 2018",
+        "rating": 8.300000000000000710542735760100185871124267578125,
+        "password": "4GAMER",
+        "languages": [
+            {
+                "name": "العربية",
+                "code": "arabic",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": false
+                }
+            },
+            {
+                "name": "الإنجليزية",
+                "code": "english",
+                "support": {
+                    "menu": false,
+                    "subtitles": false,
+                    "dubbed": true
+                }
+            }
+        ],
+        "downloadParts": [],
+        "updateParts": [],
+        "dlcParts": [],
+        "downloadUrl": "https:\/\/www.mediafire.com\/file\/7p9a8n4dsy731ta\/EP0238-CUSA12398_00-THEFOREST0000000-A0100-V0115.pkg\/file",
+        "hasDownloadUrl": true,
+        "hasUpdate": true,
+        "updateSize": "",
+        "updateUrl": "https:\/\/akirabox.com\/0rpmvDKJzRgZ\/file#4GAMER\/T.ME\/C9_91",
+        "hasUpdate-fix": false,
+        "hasDLC": false,
+        "hasDownloadParts": false,
+        "hasUpdateParts": false,
+        "hasDLCParts": false
+    },
+    {
+        "id": 523,
+        "title": "Green Hell",
+        "platform": "ps5",
+        "genre": [
+            "open-world",
+            "horror",
+            "survival",
+            "simulation"
+        ],
+        "size": "8GB",
+        "image": "https:\/\/i.postimg.cc\/g25VmWMs\/Green-Hell-PS4.jpg",
+        "sliderImage": "https:\/\/i.postimg.cc\/g25VmWMN\/Green-Hell.jpg",
+        "headerImage": "https:\/\/i.postimg.cc\/g25VmWMN\/Green-Hell.jpg",
+        "systemVersion": "5.05\/11.00",
+        "version": "1.07",
+        "gameCode": " CUSA26546 – USA",
+        "story": "في Green Hell، تُطرح أنت في أعماق غابات الأمازون المجهولة، وحيداً تقريبًا، بدون تجهيزات تقريباً، مع هاتف راديو وحُلم بحثي عن زوجتك المفقودة. سيتوجّب عليك تعلم تقنيات البقاء الحقيقية — بناء ملاجئ، تصريف الجروح، الصيد، الزراعة، البقاء عقليًا — بينما يكشف الغابة الكثير من الأسرار القاتمة والخطر الذي يضم البشر والطبيعة",
+        "developer": "Creepy Jar",
+        "publisher": "Creepy Jar",
+        "releaseDate": "5 سبتمبر 2019",
+        "rating": 7.79999999999999982236431605997495353221893310546875,
+        "password": "4GAMER",
+        "languages": [
+            {
+                "name": "الإنجليزية",
+                "code": "english",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": true
+                }
+            }
+        ],
+        "downloadParts": [],
+        "updateParts": [],
+        "dlcParts": [],
+        "features": [],
+        "downloadUrl": "https:\/\/akirabox.com\/2bJG8BKq3OBE\/file#4GAMER\/T.ME\/C9_91",
+        "hasDownloadUrl": true,
+        "hasUpdate": false,
+        "hasDLC": false,
+        "hasDownloadParts": false,
+        "hasUpdateParts": false,
+        "hasDLCParts": false,
+        "hasFeatures": false
+    },
+    {
+        "id": 524,
+        "title": "Biomutant",
+        "platform": "ps5",
+        "genre": [
+            "action",
+            "open-world",
+            "souls",
+            "arabic"
+        ],
+        "size": "12.5GB",
+        "image": "https:\/\/i.postimg.cc\/KY8Py5hM\/Biomutant-PS4.jpg",
+        "sliderImage": "https:\/\/i.postimg.cc\/Pq5WkMnD\/Biomutant.jpg",
+        "headerImage": "https:\/\/i.postimg.cc\/Pq5WkMnD\/Biomutant.jpg",
+        "systemVersion": "5.05\/11.00",
+        "version": "2.09",
+        "gameCode": " CUSA10041 – USA",
+        "story": "في Biomutant، تدخل دور مخلوق يشبه الثعلب في عالمٍ ما بعد نهاية العالم حيث شجرة الحياة مهدّدة بالتلوّث، وستُواجه قبائل متناحرة، وتطوّر قدراتك الجينية، وتجمع بين القتال اليدوي، التسديد، والقدرات الخارقة لتحديد مصير العالم.",
+        "developer": "Experiment 101",
+        "publisher": "THQ Nordic",
+        "releaseDate": "25 مايو 2021",
+        "rating": 6.5999999999999996447286321199499070644378662109375,
+        "password": "hako",
+        "downloadUrl": "https:\/\/filecrypt.cc\/Container\/518CD4005F.html",
+        "hasUpdate": false,
+        "hasUpdate-fix": false,
+        "hasDLC": true,
+        "hasUpdateParts": false,
+        "hasDLCParts": false,
+        "hasDownloadParts": false,
+        "languages": [
+            {
+                "name": "العربية",
+                "code": "arabic",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": false
+                }
+            },
+            {
+                "name": "الإنجليزية",
+                "code": "english",
+                "support": {
+                    "menu": false,
+                    "subtitles": false,
+                    "dubbed": true
+                }
+            }
+        ],
+        "dlcCount": 2,
+        "dlcName": "الإضافات",
+        "dlcUrl": "https:\/\/filecrypt.cc\/Container\/D000F1178C.html"
+    },
+    {
+        "id": 525,
+        "title": "Cyberpunk 2077",
+        "platform": "ps5",
+        "genre": [
+            "action",
+            "rpg",
+            "open-world",
+            "arabic"
+        ],
+        "size": "66GB",
+        "image": "https:\/\/i.postimg.cc\/C130G9Tf\/Cyberpunk_2077_11.webp",
+        "sliderImage": "https:\/\/i.postimg.cc\/MTrtLFcv\/Cyberpunk-2077.jpg",
+        "headerImage": "https:\/\/i.postimg.cc\/MTrtLFcv\/Cyberpunk-2077.jpg",
+        "systemVersion": "5.05\/11.00",
+        "version": "1.61",
+        "gameCode": " CUSA16596 – USA ",
+        "story": "في Cyberpunk 2077، تدخل إلى مدينة Night City المستقبلية حيث كل شيء قابل للبيع — بما في ذلك الجسد. تلعب دور V، مرتزق يسعى للحصول على زرع نادر يمنحه الخلود. هذا العالم المفتوح الضخم مليء بالمخاطر، التعديلات الجسدية، التحالفات، والخيانة.",
+        "developer": "CD Projekt Red",
+        "publisher": "CD Projekt Red",
+        "releaseDate": "10 ديسمبر 2020",
+        "rating": 8.5999999999999996447286321199499070644378662109375,
+        "password": "dlpsgame.com",
+        "languages": [
+            {
+                "name": "العربية",
+                "code": "arabic",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": false
+                }
+            },
+            {
+                "name": "الإنجليزية",
+                "code": "english",
+                "support": {
+                    "menu": false,
+                    "subtitles": false,
+                    "dubbed": true
+                }
+            }
+        ],
+        "downloadParts": [],
+        "updateParts": [],
+        "dlcParts": [],
+        "features": [],
+        "downloadUrl": "https:\/\/akirabox.to\/Zvqzlo2rK3aD\/file",
+        "hasDownloadUrl": true,
+        "hasUpdate": true,
+        "updateSize": "التعريب",
+        "updateUrl": "https:\/\/www.mediafire.com\/file\/8p5x0fojxhu02p0\/Cyb3rpu2077-Arabic-Patch-for-PS4--CUSA-16596-Update-1.60-for-system-9.00--[-re-uploaded-by-www.ps4ar.com-].rar\/file",
+        "hasUpdate-fix": false,
+        "hasDLC": false,
+        "hasDownloadParts": false,
+        "hasUpdateParts": false,
+        "hasDLCParts": false,
+        "hasFeatures": false
+    },
+    {
+        "id": 526,
+        "title": "Life is Strange Complete Season",
+        "platform": "ps5",
+        "genre": [
+            "adventure",
+            "arabic"
+        ],
+        "size": "12.5GB",
+        "image": "https:\/\/i.postimg.cc\/RZC3qVS1\/Life-is-Strange-Complete-Season-1.webp",
+        "sliderImage": "https:\/\/i.postimg.cc\/qMyc2RHF\/Life-is-Strange-Complete-Season-2.webp",
+        "headerImage": "https:\/\/i.postimg.cc\/qMyc2RHF\/Life-is-Strange-Complete-Season-2.webp",
+        "systemVersion": "5.05\/11.00",
+        "version": "اصدار النهائي",
+        "gameCode": "CUSA03279 – EUR",
+        "story": "في Life is Strange، تلعب دور Max Caulfield، طالبة تصوير فوتوغرافي تكتشف قدرتها على إعْادة الزمن. بمساعدة صديقتها القديمة Chloe Price، تستكشفان الاختفاء الغامض لزميلتهما Rachel Amber وتكشفان أسراراً مظلمة في مدينة Arcadia Bay. قراراتك تؤثر في الماضي، الحاضر والمستقبل.",
+        "developer": "Square Enix",
+        "publisher": "DONTNOD Entertainment",
+        "releaseDate": "17 يناير 2023",
+        "rating": 8,
+        "password": "hako",
+        "languages": [
+            {
+                "name": "العربية",
+                "code": "arabic",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": false
+                }
+            },
+            {
+                "name": "الإنجليزية",
+                "code": "english",
+                "support": {
+                    "menu": false,
+                    "subtitles": false,
+                    "dubbed": true
+                }
+            }
+        ],
+        "downloadParts": [],
+        "updateParts": [],
+        "dlcParts": [],
+        "features": [],
+        "downloadUrl": "https:\/\/1fichier.com\/?jqpkfm77nig70q7z7v2a",
+        "hasDownloadUrl": true,
+        "hasUpdate": true,
+        "updateSize": "باتش التعريب",
+        "updateUrl": "https:\/\/www.mediafire.com\/file\/x9cdpv8krli0ufc\/EP0082-CUSA03279_00-LIFEISSTRANGE001_P_ARABIAC.pkg\/file?dkey=imur1o4q36c&r=198",
+        "hasUpdate-fix": true,
+        "update-fixSize": "  تعريب اخر",
+        "update-fixUrl": "https:\/\/www.mediafire.com\/file\/cfwye52ijadzz6t\/LS3279by%2540abodora.rar\/file?dkey=9i0i92oga0j&r=583",
+        "hasDLC": false,
+        "hasDownloadParts": false,
+        "hasUpdateParts": false,
+        "hasDLCParts": false,
+        "hasFeatures": false
+    },
+    {
+        "id": 527,
+        "title": "Devil May Cry 5 Deluxe Edition",
+        "platform": "ps5",
+        "genre": [
+            "action",
+            "adventure",
+            "open-world",
+            "hack-and-slash",
+            "arabic"
+        ],
+        "size": "46GB",
+        "image": "https:\/\/i.postimg.cc\/GtvCqzdk\/Devil_May_Cry_5_Deluxe_Edition_11.webp",
+        "sliderImage": "https:\/\/i.postimg.cc\/9FCWLghz\/Devil-May-Cry-5-Deluxe-Edition-PS4.jpg",
+        "headerImage": "https:\/\/i.postimg.cc\/9FCWLghz\/Devil-May-Cry-5-Deluxe-Edition-PS4.jpg",
+        "systemVersion": "5.05\/11.00",
+        "version": "1.10",
+        "gameCode": "CUSA08161 – EUR",
+        "story": "في Devil May Cry 5، عودة قوية لسلسلة صائدي الشياطين حيث يتعاون Nero وDante وشخصية جديدة تُدعى V لمواجهة شجرة الشياطين التي اجتاحت مدينة Red Grave. القتال بلا هوادة، الحركات الأسطوريّة، الأسلوب بصريّاً وصوتيّاً على أعلى مستوى.",
+        "developer": "Capcom Co., Ltd",
+        "publisher": "Capcom Co., Ltd",
+        "releaseDate": "8 مارس 2019",
+        "rating": 8.699999999999999289457264239899814128875732421875,
+        "password": "PSPKG-ARABIC",
+        "languages": [
+            {
+                "name": "العربية",
+                "code": "arabic",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": false
+                }
+            },
+            {
+                "name": "الإنجليزية",
+                "code": "english",
+                "support": {
+                    "menu": false,
+                    "subtitles": false,
+                    "dubbed": true
+                }
+            }
+        ],
+        "downloadParts": [
+            {
+                "name": "8  أجزاء",
+                "size": "35.51 GB",
+                "url": "https:\/\/akirabox.to\/l76mZ7vNb3an\/folder"
+            }
+        ],
+        "updateParts": [
+            {
+                "name": "1",
+                "size": "3.34GB",
+                "url": "https:\/\/www.mediafire.com\/file\/07d72hjfm6olj94\/Devil_may_cry_5_update.pkg\/file"
+            }
+        ],
+        "dlcParts": [
+            {
+                "name": "22",
+                "size": "6.19 GB",
+                "url": "https:\/\/akirabox.com\/l5YzMK1MOmyO\/file"
+            }
+        ],
+        "features": [],
+        "downloadUrl": "https:\/\/akirabox.to\/dkD3YqlLl3LQ\/file",
+        "hasDownloadUrl": true,
+        "hasUpdate": true,
+        "updateSize": "3.34GB",
+        "updateUrl": "https:\/\/www.mediafire.com\/file\/07d72hjfm6olj94\/Devil_may_cry_5_update.pkg\/file",
+        "hasUpdate-fix": true,
+        "update-fixSize": "(Fix 5.05\/6.72\/7.xx)",
+        "update-fixUrl": "https:\/\/akirabox.com\/BnkmWwO6QmR0\/file",
+        "hasDLC": true,
+        "dlcCount": 22,
+        "dlcName": "6.19 GB",
+        "dlcUrl": "https:\/\/akirabox.com\/l5YzMK1MOmyO\/file",
+        "hasDLC2": true,
+        "dlc2Name": "Valhalla ",
+        "dlc2Url": "https:\/\/akirabox.com\/2bJG8ZWQ3OBE\/file",
+        "hasDownloadParts": true,
+        "hasUpdateParts": true,
+        "hasDLCParts": true,
+        "hasFeatures": false
+    },
+    {
+        "id": 528,
+        "title": "Red Faction Guerrilla Re Mars Tered",
+        "platform": "ps5",
+        "genre": [
+            "action",
+            "open-world",
+            "shooter",
+            "arabic"
+        ],
+        "size": "29GB",
+        "image": "https:\/\/i.postimg.cc\/ZqpbfG01\/Red-Faction-Guerrilla-Re-Mars-Tered-PS4.jpg",
+        "sliderImage": "https:\/\/i.postimg.cc\/CKkhv3d3\/Red-Faction-Guerrilla-Re-Mars-Tered.jpg",
+        "headerImage": "https:\/\/i.postimg.cc\/CKkhv3d3\/Red-Faction-Guerrilla-Re-Mars-Tered.jpg",
+        "systemVersion": "5.05\/11.00",
+        "version": "1.03",
+        "gameCode": "CUSA09598 – EUR",
+        "story": "تُعيد هذه النسخة المُعدلة اللعب إلى كوكب المريخ حيث يقودك Alec Mason داخل حركة الثوار Red Faction لتحرير الكوكب من سيطرة قوة Earth Defense Force القمعية. اللعبة تُركّز على التدمير الفيزيائي للمباني والهياكل في عالم مفتوح ضخم، مع تحديثات بصرية كبيرة في نسخة Re-Mars-tered.",
+        "developer": "Volition \/ KAIKO",
+        "publisher": "THQ Nordic",
+        "releaseDate": "3 يوليو 2018",
+        "rating": 8.0999999999999996447286321199499070644378662109375,
+        "password": "downloadgameps3.com",
+        "languages": [
+            {
+                "name": "العربية",
+                "code": "arabic",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": false
+                }
+            },
+            {
+                "name": "الإنجليزية",
+                "code": "english",
+                "support": {
+                    "menu": false,
+                    "subtitles": false,
+                    "dubbed": true
+                }
+            }
+        ],
+        "downloadParts": [],
+        "updateParts": [],
+        "dlcParts": [],
+        "features": [],
+        "downloadUrl": "https:\/\/filecrypt.cc\/Container\/31444A7A64.html",
+        "hasDownloadUrl": true,
+        "hasUpdate": true,
+        "updateSize": "",
+        "updateUrl": "https:\/\/filecrypt.cc\/Container\/F1A75F34B7.html",
+        "hasUpdate-fix": false,
+        "hasDLC": false,
+        "hasDownloadParts": false,
+        "hasUpdateParts": false,
+        "hasDLCParts": false,
+        "hasFeatures": false
+    },
+    {
+        "id": 529,
+        "title": "Devil May Cry 5 Deluxe Edition",
+        "platform": "ps5",
+        "genre": [
+            "action",
+            "adventure",
+            "open-world",
+            "hack-and-slash",
+            "arabic"
+        ],
+        "size": "46GB",
+        "image": "https:\/\/i.postimg.cc\/GtvCqzdk\/Devil_May_Cry_5_Deluxe_Edition_11.webp",
+        "sliderImage": "https:\/\/i.postimg.cc\/9FCWLghz\/Devil-May-Cry-5-Deluxe-Edition-PS4.jpg",
+        "headerImage": "https:\/\/i.postimg.cc\/9FCWLghz\/Devil-May-Cry-5-Deluxe-Edition-PS4.jpg",
+        "systemVersion": "5.05\/11.00",
+        "version": "1.10",
+        "gameCode": "CUSA08216 – EUR",
+        "story": "في Devil May Cry 5، عودة قوية لسلسلة صائدي الشياطين حيث يتعاون Nero وDante وشخصية جديدة تُدعى V لمواجهة شجرة الشياطين التي اجتاحت مدينة Red Grave. القتال بلا هوادة، الحركات الأسطوريّة، الأسلوب بصريّاً وصوتيّاً على أعلى مستوى.",
+        "developer": "Capcom Co., Ltd",
+        "publisher": "Capcom Co., Ltd",
+        "releaseDate": "8 مارس 2019",
+        "rating": 8.699999999999999289457264239899814128875732421875,
+        "password": "hako",
+        "downloads": 0,
+        "languages": [
+            {
+                "name": "العربية",
+                "code": "arabic",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": false
+                }
+            },
+            {
+                "name": "الإنجليزية",
+                "code": "english",
+                "support": {
+                    "menu": false,
+                    "subtitles": false,
+                    "dubbed": true
+                }
+            }
+        ],
+        "downloadParts": [
+            {
+                "name": "4 أجزاء",
+                "size": "35.51 GB",
+                "url": "https:\/\/pastelink.net\/twyksc6k"
+            }
+        ],
+        "updateParts": [
+            {
+                "name": "1",
+                "size": "5.34GB",
+                "url": "https:\/\/www.mediafire.com\/file\/j8yjcfcpf4g3emm\/D3vil-M4y-Cry-5-CUSA-08216-Arabic-Patch--with-1.10-Update+Arabic-1.3[-re-uploaded-by-www.ps4ar.com-].pkg\/file"
+            }
+        ],
+        "dlcParts": [
+            {
+                "name": "All DLC Deluxe",
+                "size": "6.19 GB",
+                "url": "https:\/\/akirabox.com\/APVmaD2NVGXo\/file"
+            },
+            {
+                "name": "Vergil DLC",
+                "size": "2Mo",
+                "url": "https:\/\/www.mediafire.com\/file\/ua2brnf6xprwl2t\/DMC5.DLC.Vergil.rar\/file"
+            }
+        ],
+        "features": [],
+        "downloadUrl": "https:\/\/akirabox.to\/b5OzdJOWymB8\/file",
+        "hasDownloadUrl": true,
+        "hasUpdate": true,
+        "updateSize": "3.34GB",
+        "updateUrl": "https:\/\/www.mediafire.com\/file\/j8yjcfcpf4g3emm\/D3vil-M4y-Cry-5-CUSA-08216-Arabic-Patch--with-1.10-Update+Arabic-1.3[-re-uploaded-by-www.ps4ar.com-].pkg\/file",
+        "hasUpdate-fix": false,
+        "hasDLC": true,
+        "dlcCount": 22,
+        "dlcName": "6.19 GB",
+        "dlcUrl": "https:\/\/akirabox.com\/APVmaD2NVGXo\/file",
+        "hasDLC2": false,
+        "hasDownloadParts": true,
+        "hasUpdateParts": true,
+        "hasDLCParts": true,
+        "hasFeatures": false
+    },
+    {
+        "id": 530,
+        "title": "Marvels Guardians of The Galaxy",
+        "platform": "ps5",
+        "genre": [
+            "action",
+            "adventure",
+            "open-world",
+            "arabic"
+        ],
+        "size": "61GB",
+        "image": "https:\/\/i.postimg.cc\/Ls4FgjzP\/Marvels-Guardians-of-The-Galaxy-5.webp",
+        "sliderImage": "https:\/\/i.postimg.cc\/Hx7ksXqr\/Marvels_Guardians_of_The_Galaxy_2.webp",
+        "headerImage": "https:\/\/i.postimg.cc\/Hx7ksXqr\/Marvels_Guardians_of_The_Galaxy_2.webp",
+        "systemVersion": "5.05\/11.00",
+        "version": "1.07",
+        "gameCode": "CUSA24103 – EUR",
+        "story": "في Marvel’s Guardians of the Galaxy، تتحكم بشخصية ‎Star-Lord المَنخرط في مهمة مع فريق الـ Guardians لحفظ الكون من كارثةٍ تهدّد السلام، بمشاركة Gamora، Rocket، Groot، وDrax. اللعبة تجمع بين الحوار المرح، المعارك الصاروخية، الموسيقى المميزة، وقراراتٍ قصصية تجعل الرحلة عبر المجرة تجربة فريدة.",
+        "developer": "Eidos-Montréal",
+        "publisher": "Square Enix",
+        "releaseDate": "26 أكتوبر 2021",
+        "rating": 8,
+        "password": "superx",
+        "languages": [
+            {
+                "name": "العربية",
+                "code": "arabic",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": false
+                }
+            }
+        ],
+        "downloadParts": [
+            {
+                "name": "4",
+                "size": "34.48 GB",
+                "url": "https:\/\/pastelink.net\/0uf6ryqa"
+            }
+        ],
+        "updateParts": [
+            {
+                "name": "3",
+                "size": "21.36 GB",
+                "url": "https:\/\/pastelink.net\/x9yenjey"
+            }
+        ],
+        "dlcParts": [
+            {
+                "name": "1",
+                "size": "3.1MB",
+                "url": "https:\/\/www.mediafire.com\/file\/d28jimzi43zdr6e\/M_24103_DLCs-Arczi-[DLPSGAME.COM].rar\/file"
+            }
+        ],
+        "features": [],
+        "downloadUrl": "https:\/\/akirabox.com\/N2p3DeyVzMa5\/file",
+        "hasDownloadUrl": true,
+        "hasUpdate": true,
+        "updateSize": "Update v1.07 [9.00]",
+        "updateUrl": "https:\/\/akirabox.com\/b5Ozd2xRmB8L\/file",
+        "hasUpdate-fix": true,
+        "update-fixSize": "(5.05-7.55) ",
+        "update-fixUrl": "https:\/\/akirabox.com\/RMKGJQyXz1oP\/file",
+        "hasDLC": true,
+        "dlcCount": 1,
+        "dlcName": "DLCs-Arczi.rar",
+        "dlcUrl": "https:\/\/akirabox.to\/l5YzM4r93yOA\/file",
+        "hasDLC2": false,
+        "hasDownloadParts": true,
+        "hasUpdateParts": true,
+        "hasDLCParts": true,
+        "hasFeatures": false
+    },
+    {
+        "id": 531,
+        "title": "Watch Dogs Legion",
+        "platform": "ps5",
+        "genre": [
+            "action",
+            "adventure",
+            "open-world",
+            "stealth",
+            "arabic"
+        ],
+        "size": "47GB",
+        "image": "..\/assets\/images\/watch_dogs_legion-14.webp",
+        "sliderImage": "..\/assets\/images\/watch_dogs_legion.webp",
+        "headerImage": "..\/assets\/images\/watch_dogs_legion.webp",
+        "systemVersion": "5.05\/11.00",
+        "version": "1.24",
+        "gameCode": "CUSA13034 – EUR",
+        "story": "في Watch Dogs: Legion، تعيد بناء مقاومة من مواطني لندن ضد نظام مراقبة قمعي. يمكنك تجنيد أي شخص تقابله في المدينة، من عامل بناء إلى جندي، كلٌ بمهاراته الخاصة. استخدم الاختراق، الطائرات الدرون، التقنيات الحديثة، وحرّك المقاومة إلى قلب مدينة أصبحت تحت السيطرة.",
+        "developer": "Ubisoft Toronto",
+        "publisher": "Ubisoft Entertainment",
+        "releaseDate": "29 أكتوبر 2020",
+        "rating": 8,
+        "password": "4GAMER",
+        "languages": [
+            {
+                "name": "العربية",
+                "code": "arabic",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": false
+                }
+            },
+            {
+                "name": "الإنجليزية",
+                "code": "english",
+                "support": {
+                    "menu": false,
+                    "subtitles": false,
+                    "dubbed": true
+                }
+            }
+        ],
+        "downloadParts": [],
+        "updateParts": [],
+        "dlcParts": [],
+        "features": [],
+        "downloadUrl": "https:\/\/akirabox.com\/9AqGQQX8GMn6\/file#4GAMER\/T.ME\/C9_91",
+        "hasDownloadUrl": true,
+        "hasUpdate": true,
+        "updateSize": "",
+        "updateUrl": "https:\/\/akirabox.com\/l5YzMdx23yOA\/file#4GAMER\/T.ME\/C9_91",
+        "hasUpdate-fix": false,
+        "hasDLC": true,
+        "dlcCount": 1,
+        "dlcName": "الإضافات",
+        "dlcUrl": "https:\/\/akirabox.com\/ZvqzlaWKGaD2\/file#4GAMER\/T.ME\/C9_91",
+        "hasDLC2": false,
+        "hasDownloadParts": false,
+        "hasUpdateParts": false,
+        "hasDLCParts": false,
+        "hasFeatures": false
+    },
+    {
+        "id": 532,
+        "title": " Sekiro Shadows Die Twice",
+        "platform": "ps5",
+        "genre": [
+            "action",
+            "adventure",
+            "souls",
+            "arabic"
+        ],
+        "size": "12GB",
+        "image": "https:\/\/i.postimg.cc\/pTwvf3bp\/Sekiro_Shadows_Die_Twice_26.webp",
+        "sliderImage": "https:\/\/i.postimg.cc\/QtM8m3gv\/Sekiro-Shadows-Die-Twice2.jpg",
+        "headerImage": "https:\/\/i.postimg.cc\/QtM8m3gv\/Sekiro-Shadows-Die-Twice2.jpg",
+        "systemVersion": "5.05\/11.00",
+        "version": "1.06",
+        "gameCode": " CUSA13801",
+        "story": "في Sekiro تصبح 'One-Armed Wolf' — محارب نينجا مقطوع الذراع، مُكلّف بحماية شاب ينتمي لسلالة دم مقدّس. بعد خطف الشاب، تبدأ رحلة انتقام مليئة بالصراع، التحديات، مهارات النينجا، أدوات بروستِثتيكية، وقتال دموي ضد أعداء متوحشين في اليابان الإقطاعية. الموت ليس نهاية — بل جزء من طريقك نحو استعادة الشرف.",
+        "developer": "FromSoftware",
+        "publisher": "Activision",
+        "releaseDate": "March 22, 2019",
+        "rating": 9,
+        "password": "4GAMER",
+        "languages": [
+            {
+                "name": "العربية",
+                "code": "arabic",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": false
+                }
+            }
+        ],
+        "downloadParts": [],
+        "updateParts": [],
+        "dlcParts": [],
+        "features": [],
+        "downloadUrl": "https:\/\/akirabox.com\/EL73gDdKz9Ba\/file#4GAMER\/T.ME\/C9_91",
+        "hasDownloadUrl": true,
+        "hasUpdate": true,
+        "updateSize": "60 فريم",
+        "updateUrl": "https:\/\/akirabox.com\/wgWGqO2KQ34o\/file",
+        "hasUpdate-fix": false,
+        "hasDLC": false,
+        "hasDownloadParts": false,
+        "hasUpdateParts": false,
+        "hasDLCParts": false,
+        "hasFeatures": false
+    },
+    {
+        "id": 533,
+        "title": "Assassins Creed Mirage",
+        "platform": "ps5",
+        "genre": [
+            "action",
+            "adventure",
+            "open-world",
+            "stealth",
+            "arabic"
+        ],
+        "size": "21.74 GB",
+        "image": "https:\/\/i.postimg.cc\/dtdx9Xym\/Assassins-Creed-Mirage-1.jpg",
+        "sliderImage": "https:\/\/i.postimg.cc\/dVYKny8Z\/Assassins-Creed-Mirage2.jpg",
+        "headerImage": "https:\/\/i.postimg.cc\/dVYKny8Z\/Assassins-Creed-Mirage2.jpg",
+        "systemVersion": "5.05\/11.00",
+        "version": "1.11",
+        "gameCode": "CUSA33151 – EUR",
+        "story": "في Assassin’s Creed Mirage، تلعب دور باسم — لص شارع في بغداد القرن التاسع يتحوّل إلى قاتل من الـ Hidden Ones. عش رحلة وساطة بين السرّ، الانتقام، والتنوّر في قلب بغداد: تسلّل، تخطيط، حركات حرة على الأسطح، واختيارات تغير مجرى الأحداث.\"",
+        "developer": "Ubisoft Montreal",
+        "publisher": "Ubisoft ",
+        "releaseDate": "October 5, 2023",
+        "rating": 8,
+        "password": "4GAMER",
+        "languages": [
+            {
+                "name": "العربية",
+                "code": "arabic",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": true
+                }
+            }
+        ],
+        "downloadParts": [
+            {
+                "name": "اللعبة",
+                "size": "21.7 GB",
+                "url": "https:\/\/datavaults.co\/eo0hduz2ml5a\/[PS4ID]-Assassins.Creed.Mirage-CUSA33151-EUR-Game-PS4-TheWorldismine-CyB1K.pkg"
+            }
+        ],
+        "updateParts": [
+            {
+                "name": "Update 1.11 Arabic Patch Fix 5.05 AND PLUS",
+                "size": "16.2 GB",
+                "url": "https:\/\/rushuploads.com\/6986f535590da08f494bb42a"
+            }
+        ],
+        "dlcParts": [
+            {
+                "name": "DLC V2",
+                "size": "1 MB",
+                "url": "https:\/\/datavaults.co\/6zxtubi4zsap\/[PS4ID]-Assassins.Creed.Mirage.CUSA33151.DLC.Savefile.v2.rar"
+            }
+        ],
+        "features": [],
+        "downloadUrl": "https:\/\/rootz.so\/d\/fo8OG",
+        "hasDownloadUrl": true,
+        "hasUpdate": true,
+        "updateSize": "Update 1.11 Arabic Patch Fix 5.05 AND PLUS",
+        "updateUrl": "https:\/\/datavaults.co\/7wnbos2qmzxf\/[PS4ID]-CUSA33151_00-A0111-V0100-TheWorldismine-CyB1K.pkg",
+        "hasUpdate-fix": false,
+        "hasDLC": true,
+        "dlcCount": 1,
+        "dlcName": "DLC V2 ",
+        "dlcUrl": "https:\/\/www.rootz.so\/d\/XkQjI",
+        "hasDLC2": false,
+        "hasDownloadParts": true,
+        "hasUpdateParts": true,
+        "hasDLCParts": true,
+        "hasFeatures": false
+    },
+    {
+        "id": 534,
+        "title": "Persona 5 Strikers",
+        "platform": "ps5",
+        "genre": [
+            "action",
+            "adventure",
+            "rpg"
+        ],
+        "size": "16GB",
+        "image": "https:\/\/i.postimg.cc\/WbQf7ccm\/Persona-5-Strikers.jpg",
+        "sliderImage": "https:\/\/i.postimg.cc\/fT6gvQQj\/Persona-5-Strikers1.jpg",
+        "headerImage": "https:\/\/i.postimg.cc\/fT6gvQQj\/Persona-5-Strikers1.jpg",
+        "systemVersion": "7.02+",
+        "version": "1.01",
+        "gameCode": "CUSA20040 – EUR",
+        "story": "في Persona 5 Strikers، يجتمع مجدداً أعضاء Phantom Thieves في عطلة صيفٍ قصيرة، لكن الأمور تتعقّد حين تظهر ظاهرة غريبة تُدعى “EMMA” تغيّر القلوب وتحوّل الأشخاص إلى كائنات مظلمة. يبدأ الصِراع في أنحاء مختلفة من اليابان، حيث على الفريق كشف الحقيقة، إنقاذ الأرواح، ومحاربة الشر مستخدمين قدراتهم الخاصة وشخصياتهم المميزة.\"",
+        "developer": "Omega Force \/ P-Studio",
+        "publisher": "SEGA",
+        "releaseDate": "February 23, 2021",
+        "rating": 8.300000000000000710542735760100185871124267578125,
+        "password": "DLPSGAME.COM﻿",
+        "downloadUrl": "https:\/\/filecrypt.co\/Container\/86C1FE9851.html",
+        "hasDownloadUrl": true,
+        "languages": [
+            {
+                "name": "الإنجليزية",
+                "code": "english",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": true
+                }
+            }
+        ],
+        "hasUpdate": true,
+        "hasUpdate-fix": false,
+        "hasDLC": false,
+        "hasDLC2": false,
+        "hasUpdateParts": false,
+        "hasDLCParts": false,
+        "hasDownloadParts": false,
+        "updateSize": "",
+        "updateUrl": "https:\/\/www.mediafire.com\/file\/lztjjy8rwowq6kd\/[DLPSGAME.COM]-CUSA20040+DLCS+by+Barquillo.rar\/file",
+        "updateParts": [],
+        "dlcParts": [],
+        "downloadParts": []
+    },
+    {
+        "id": 535,
+        "title": " Assassins Creed 4 Black Flag Gold Edition",
+        "platform": "ps5",
+        "genre": [],
+        "size": "18GB",
+        "image": "https:\/\/i.postimg.cc\/c4YbcjnR\/Assassins-Creed-4-Black-Flag-Gold-Edition-1.jpg",
+        "sliderImage": "https:\/\/i.postimg.cc\/Px1vwZH0\/Assassins-Creed-4-Black-Flag-Gold-Edition2.jpg",
+        "headerImage": "https:\/\/i.postimg.cc\/Px1vwZH0\/Assassins-Creed-4-Black-Flag-Gold-Edition2.jpg",
+        "systemVersion": "5.05\/11.00",
+        "version": "1.04 ",
+        "gameCode": "CUSA00009 – EUR",
+        "story": "في Black Flag تتحكم في القبطان إدوارد كينواي (Edward Kenway)، قرصان من العصر الذهبي للقراصنة، ينخرط في صراع بين الأخفاء (Assassins) وفرسان الهيكل (Templars)، بينما تبحر في جزر الكاريبي، تغوص في أعماق البحار، وتنهب السفن الحربية أو الحصون. النسخة Gold Edition تضم القصة الأساسية + محتوى إضافي كامل يشمل توسعات، مهمات إضافية، سفن وأسلحة وملابس حصرية.",
+        "developer": "Ubisoft Montreal",
+        "publisher": "Ubisoft Entertainment",
+        "releaseDate": "November 19, 2013",
+        "rating": 9,
+        "password": "4GAMER",
+        "languages": [
+            {
+                "name": "العربية",
+                "code": "arabic",
+                "support": {
+                    "menu": false,
+                    "subtitles": true,
+                    "dubbed": false
+                }
+            },
+            {
+                "name": "الإنجليزية",
+                "code": "english",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": true
+                }
+            }
+        ],
+        "downloadParts": [],
+        "updateParts": [],
+        "dlcParts": [],
+        "features": [],
+        "downloadUrl": "https:\/\/akirabox.com\/rk9zK8VZG0lY\/file#4GAMER\/T.ME\/C9_91",
+        "hasDownloadUrl": true,
+        "hasUpdate": false,
+        "hasDLC": false,
+        "hasDownloadParts": false,
+        "hasUpdateParts": false,
+        "hasDLCParts": false,
+        "hasFeatures": false
+    },
+    {
+        "id": 536,
+        "title": "FIFA 21",
+        "platform": "ps5",
+        "genre": [
+            "sports",
+            "simulation",
+            "arabic"
+        ],
+        "size": "40GB",
+        "image": "https:\/\/i.postimg.cc\/qvnNYyhp\/fifa21-2.jpg",
+        "sliderImage": "https:\/\/i.postimg.cc\/8zW73MJk\/fifa21-1.jpg",
+        "headerImage": "https:\/\/i.postimg.cc\/8zW73MJk\/fifa21-1.jpg",
+        "systemVersion": "5.05\/11.00",
+        "version": "1.28",
+        "gameCode": "CUSA18988 – EUR",
+        "story": "FIFA 21 تقدّم لك تجربة كرة قدم واقعية مع تحديثات في أسلوب اللعب، طور Career مُحَسّن، VOLTA لكرة القدم الشارعية، وFUT — حيث تبني فريقك المثالي وتتنافس أونلاين مع لاعبين من حول العالم.",
+        "developer": "EA Vancouver \/ EA România",
+        "publisher": "EA Sports",
+        "releaseDate": "9 أكتوبر 2020",
+        "rating": 8.4000000000000003552713678800500929355621337890625,
+        "password": "4GAMER",
+        "downloadUrl": "https:\/\/akirabox.com\/M2BGwbqPzj40\/file",
+        "hasDownloadUrl": true,
+        "languages": [
+            {
+                "name": "العربية",
+                "code": "arabic",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": true
+                }
+            }
+        ],
+        "hasUpdate": true,
+        "hasUpdate-fix": false,
+        "hasDLC": false,
+        "hasDLC2": false,
+        "hasUpdateParts": false,
+        "hasDLCParts": false,
+        "hasDownloadParts": false,
+        "updateSize": "7.94 GB",
+        "updateUrl": "https:\/\/akirabox.com\/0rpmvN2LmRgZ\/file",
+        "updateParts": [],
+        "dlcParts": [],
+        "downloadParts": []
+    },
+    {
+        "id": 537,
+        "title": "FIFA 20",
+        "platform": "ps5",
+        "genre": [
+            "sports",
+            "simulation",
+            "arabic"
+        ],
+        "size": "45",
+        "image": "https:\/\/i.postimg.cc\/VLvGjLS9\/fifa20-1.jpg",
+        "sliderImage": "https:\/\/i.postimg.cc\/hPvy9PJb\/fifa20-12.jpg",
+        "headerImage": "https:\/\/i.postimg.cc\/hPvy9PJb\/fifa20-12.jpg",
+        "systemVersion": "5.05\/11.00",
+        "version": "1.25",
+        "gameCode": "CUSA15546 – EUR",
+        "story": "FIFA 20 تقدّم تجربة كرة قدم متكاملة تشمل الوضع الكلاسيكي 11 ضد 11، ونمط الشارع الجديد “VOLTA Football” الذي يمكِّنك من لعب مباريات 3v3 أو 4v4 أو 5v5 في ملاعب شوارع وحارات حول العالم — مع تحسينات في الذكاء الاصطناعي، فيزياء الكرة، والتحكم في اللاعبين.",
+        "developer": "EA Vancouver EA Romania",
+        "publisher": "EA Sports",
+        "releaseDate": "27 سبتمبر 2019",
+        "rating": 8.199999999999999289457264239899814128875732421875,
+        "password": "4GAMER",
+        "downloadUrl": "",
+        "hasDownloadUrl": true,
+        "languages": [
+            {
+                "name": "العربية",
+                "code": "arabic",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": true
+                }
+            }
+        ],
+        "hasUpdate": false,
+        "hasUpdate-fix": false,
+        "hasDLC": false,
+        "hasDLC2": false,
+        "hasUpdateParts": false,
+        "hasDLCParts": false,
+        "hasDownloadParts": false,
+        "updateParts": [],
+        "dlcParts": [],
+        "downloadParts": []
+    },
+    {
+        "id": 538,
+        "title": "FIFA 17",
+        "platform": "ps5",
+        "genre": [
+            "sports",
+            "simulation",
+            "arabic"
+        ],
+        "size": "30 GB",
+        "image": "https:\/\/i.postimg.cc\/JnJKzPhX\/FIFA17-2.jpg",
+        "sliderImage": "https:\/\/i.postimg.cc\/B6DNnMv1\/FIFA17-1.jpg",
+        "headerImage": "https:\/\/i.postimg.cc\/B6DNnMv1\/FIFA17-1.jpg",
+        "systemVersion": "5.05\/11.00",
+        "version": "1.11",
+        "gameCode": "CUSA03215 – EUR",
+        "story": "FIFA 17 تقدّم تجربة كرة قدم متطورة مع اعتماد محرك Frostbite لأول مرة في السلسلة، وتحسينات في فيزياء اللعب، حركات اللاعبين، بالإضافة إلى طور القصة الجديد \\\"The Journey\\\" الذي يضعك في دور Alex Hunter كنجم واعد في دوري إنجليزي، لتعيش رحلة احتراف وتسطر قصة خاصة في عالم كرة القدم.",
+        "developer": "EA Vancouver EA Romania",
+        "publisher": "EA Sports",
+        "releaseDate": "\"29 سبتمبر 2016",
+        "rating": 8.300000000000000710542735760100185871124267578125,
+        "password": "FREE WAR GAMER",
+        "languages": [
+            {
+                "name": "العربية",
+                "code": "arabic",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": false
+                }
+            }
+        ],
+        "downloadParts": [],
+        "updateParts": [],
+        "dlcParts": [],
+        "features": [],
+        "downloadUrl": "https:\/\/pastelink.net\/cqfltwyg",
+        "hasDownloadUrl": true,
+        "hasUpdate": true,
+        "updateSize": "Update 1.11 Arabic Patch Fix 5.05 AND PLUS",
+        "updateUrl": "https:\/\/www.mediafire.com\/file\/3mo29l29iyjnd1e\/FIFA+17.CUSA03215.v1.11.PS4.ME-SILENT.rar\/file",
+        "hasUpdate-fix": false,
+        "hasDLC": false,
+        "hasDownloadParts": false,
+        "hasUpdateParts": false,
+        "hasDLCParts": false,
+        "hasFeatures": false
+    },
+    {
+        "id": 539,
+        "title": "Mortal kombat XL",
+        "platform": "ps5",
+        "genre": [
+            "action",
+            "fighting"
+        ],
+        "size": "40GB",
+        "image": "https:\/\/i.postimg.cc\/vZ03D4t8\/MORTAL-KOMBAT-XL-1.jpg",
+        "sliderImage": "https:\/\/i.postimg.cc\/kgTfD2vX\/MORTAL-KOMBAT-XL.jpg",
+        "headerImage": "https:\/\/i.postimg.cc\/kgTfD2vX\/MORTAL-KOMBAT-XL.jpg",
+        "systemVersion": "5.05\/11.00",
+        "version": "1.06",
+        "gameCode": "CUSA03589 – USA",
+        "story": "Mortal Kombat XL تُعيد إليك تجربة القتال الدموية النهائية، بتجميعها لـ المحتوى الأصلي من Mortal Kombat X بالإضافة إلى كل حزم Kombat Pack 1 و 2، شخصيات إضافية مثل Alien, Leatherface, Predator, Jason Voorhees وأكثر، مع جلود (skins) إضافية لكل محارب. إذا أردت الدماء، القتالات الشرسة، والتنويع في الأساليب، فهذا هو الإصدار الشامل.",
+        "developer": "NetherRealm Studios",
+        "publisher": "Warner Bros. Interactive Entertainment",
+        "releaseDate": "1 مارس 2016",
+        "rating": 8.5,
+        "password": "4GAMER",
+        "downloadUrl": "https:\/\/akirabox.com\/RMKGJRKD8G1o\/file",
+        "hasDownloadUrl": true,
+        "languages": [
+            {
+                "name": "الإنجليزية",
+                "code": "english",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": true
+                }
+            }
+        ],
+        "hasUpdate": true,
+        "hasUpdate-fix": false,
+        "hasDLC": true,
+        "hasDLC2": false,
+        "hasUpdateParts": false,
+        "hasDLCParts": false,
+        "hasDownloadParts": false,
+        "updateSize": "",
+        "updateUrl": "https:\/\/akirabox.com\/2WVGr6vRgGkx\/file",
+        "dlcCount": 5,
+        "dlcName": "",
+        "dlcUrl": "https:\/\/akirabox.com\/LK0G1qy5wG91\/folder",
+        "updateParts": [],
+        "dlcParts": [],
+        "downloadParts": []
+    },
+    {
+        "id": 540,
+        "title": "Assassin's Creed Origins",
+        "platform": "ps5",
+        "genre": [
+            "action",
+            "adventure",
+            "rpg",
+            "open-world",
+            "stealth",
+            "arabic"
+        ],
+        "size": "80GB",
+        "image": "https:\/\/i.postimg.cc\/FscBxqLG\/Assassin-s-Creed-Origins-1.jpg",
+        "sliderImage": "https:\/\/i.postimg.cc\/d1h5dJVK\/Assassins-Creed-Origins-2.jpg",
+        "headerImage": "https:\/\/i.postimg.cc\/d1h5dJVK\/Assassins-Creed-Origins-2.jpg",
+        "systemVersion": "5.05\/11.00",
+        "version": "1.44",
+        "gameCode": "CUSA08393 – EUR",
+        "story": "تجري أحداث Assassin's Creed Origins في مصر القديمة خلال أواخر عصر البطالمة. تلعب دور بايك من سيوا (Bayek of Siwa)، وهو محارب \\\"Medjay\\\" يسعى للانتقام بعد مقتل ابنه، ما يدفعه للبحث عن العدالة وكشف مؤامرة ضخمة أدّت إلى ولادة أخوية القتلة (Assassin Brotherhood). اللعبة تجمع بين القتال بأسلوب RPG، استكشاف عالم مفتوح شاسع من الأهرامات إلى الواحات، وتنفيذ مهام وقصص جانبية تقنع بتجربة عميقة ومليئة بالأسرار.\n",
+        "developer": "Ubisoft Montreal",
+        "publisher": "Ubisoft",
+        "releaseDate": "26 أكتوبر 2017",
+        "rating": 9,
+        "password": "4GAMER",
+        "languages": [
+            {
+                "name": "العربية",
+                "code": "arabic",
+                "support": {
+                    "menu": false,
+                    "subtitles": true,
+                    "dubbed": false
+                }
+            },
+            {
+                "name": "الإنجليزية",
+                "code": "english",
+                "support": {
+                    "menu": true,
+                    "subtitles": false,
+                    "dubbed": true
+                }
+            }
+        ],
+        "downloadParts": [],
+        "updateParts": [],
+        "dlcParts": [],
+        "features": [],
+        "downloadUrl": "https:\/\/akirabox.com\/EL73gdN8z9Ba\/file#4GAMER\/T.ME\/C9_91",
+        "hasDownloadUrl": true,
+        "hasUpdate": true,
+        "updateSize": "",
+        "updateUrl": "https:\/\/akirabox.com\/QN9mEvEw36dW\/file#4GAMER\/T.ME\/C9_91",
+        "hasUpdate-fix": false,
+        "hasDLC": true,
+        "dlcCount": 1,
+        "dlcName": "",
+        "dlcUrl": "https:\/\/akirabox.com\/EL73ga98G9Ba\/file#4GAMER\/T.ME\/C9_91",
+        "hasDLC2": false,
+        "hasDownloadParts": false,
+        "hasUpdateParts": false,
+        "hasDLCParts": false,
+        "hasFeatures": false
+    },
+    {
+        "id": 541,
+        "title": " Assassins Creed The Ezio Collection",
+        "platform": "ps5",
+        "genre": [
+            "action",
+            "adventure",
+            "open-world",
+            "stealth",
+            "arabic"
+        ],
+        "size": "40GB",
+        "image": "https:\/\/i.postimg.cc\/156jKTqp\/Assassins-Creed-The-Ezio-Collection-1.jpg",
+        "sliderImage": "https:\/\/i.postimg.cc\/ryQSTBVj\/Assassins-Creed-The-Ezio-Collection-2.jpg",
+        "headerImage": "https:\/\/i.postimg.cc\/ryQSTBVj\/Assassins-Creed-The-Ezio-Collection-2.jpg",
+        "systemVersion": "5.05\/11.00",
+        "version": "1.02",
+        "gameCode": "CUSA04893 – EUR",
+        "story": "Assassin's Creed: The Ezio Collection تجمع ثلاثية الأسطورة «إتسيو أوديتوري» في حزمة واحدة: تتضمن حملات اللعب الفردي لكلاً من Assassin's Creed II وAssassin's Creed: Brotherhood وAssassin's Creed: Revelations، مع جميع المحتويات الإضافية (DLC) الخاصة بكل لعبة في وضع اللاعب الفردي. تبدأ الرحلة مع إتسيو في عصر النهضة الإيطالية، ثم تنتقل إلى روما، ثم إلى القسطنطينية — تجربة كاملة لقصة أعظم قاتل في تاريخ Brotherhood.",
+        "developer": "Ubisoft Montréal \/ Virtuos",
+        "publisher": "Ubisoft ",
+        "releaseDate": "15 نوفمبر 2016",
+        "rating": 9,
+        "password": "4GAMER",
+        "languages": [
+            {
+                "name": "العربية",
+                "code": "arabic",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": false
+                }
+            }
+        ],
+        "downloadParts": [],
+        "updateParts": [],
+        "dlcParts": [],
+        "features": [],
+        "downloadUrl": "https:\/\/akirabox.com\/M2BGw1N53j40\/file#4GAMER\/T.ME\/C9_91",
+        "hasDownloadUrl": true,
+        "hasUpdate": true,
+        "updateSize": "",
+        "updateUrl": "https:\/\/akirabox.com\/dZxG5NP9mVjK\/file#4GAMER\/T.ME\/C9_91",
+        "hasUpdate-fix": false,
+        "hasDLC": false,
+        "hasDownloadParts": false,
+        "hasUpdateParts": false,
+        "hasDLCParts": false,
+        "hasFeatures": false
+    },
+    {
+        "id": 542,
+        "title": "Assassins Creed Odyssey Ultimate Edition",
+        "platform": "ps5",
+        "genre": [
+            "action",
+            "adventure",
+            "rpg",
+            "open-world",
+            "stealth"
+        ],
+        "size": "107GB",
+        "image": "https:\/\/i.postimg.cc\/y8ZgJdRr\/Assassins-Creed-Odyssey-Ultimate-Edition.jpg",
+        "sliderImage": "https:\/\/i.postimg.cc\/nhDjszmP\/Assassins-Creed-Odyssey-Ultimate-Edition-2.jpg",
+        "headerImage": "https:\/\/i.postimg.cc\/nhDjszmP\/Assassins-Creed-Odyssey-Ultimate-Edition-2.jpg",
+        "systemVersion": "5.05\/11.00",
+        "version": "1.56",
+        "gameCode": "CUSA09303 – USA",
+        "story": "Assassin's Creed Odyssey تأخذك إلى قلب اليونان القديمة، حيث تبدأ رحلتك كمِرتّز إسبرطي يُدعى Misthios، وتمرّغ في صراعات بين أثينا وإسبرطة، تستكشف جزر وبحار، تخوض معارك برّ وبحر، وتختار مصيرك بين بطل أسطوري أو مجرد سجين مصيرك. Ultimate Edition تجمع لكم التجربة الكاملة — القصة الأساسية + كل الإضافات + محتوى ما بعد الإطلاق — لتعيش أوسع وأغنى مغامرة في السلسلة.",
+        "developer": "Ubisoft Quebec",
+        "publisher": "Ubisoft ",
+        "releaseDate": "5 أكتوبر 2018",
+        "rating": 9.0999999999999996447286321199499070644378662109375,
+        "password": "4GAMER",
+        "languages": [
+            {
+                "name": "الإنجليزية",
+                "code": "english",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": true
+                }
+            }
+        ],
+        "downloadParts": [],
+        "updateParts": [],
+        "dlcParts": [],
+        "features": [],
+        "downloadUrl": "https:\/\/akirabox.com\/EL73gRAKam9B\/file",
+        "hasDownloadUrl": true,
+        "hasUpdate": true,
+        "updateSize": "",
+        "updateUrl": "https:\/\/akirabox.com\/M2BGwkWxpGj4\/file",
+        "hasUpdate-fix": true,
+        "update-fixSize": "1.56 (Fix 5.05\/6.72\/7.xx)",
+        "update-fixUrl": "https:\/\/akirabox.com\/2WVGr6VvgGkx\/file",
+        "hasDLC": true,
+        "dlcCount": 1,
+        "dlcName": "",
+        "dlcUrl": "https:\/\/akirabox.com\/E1x3A8R6myk6\/file",
+        "hasDLC2": false,
+        "hasDownloadParts": false,
+        "hasUpdateParts": false,
+        "hasDLCParts": false,
+        "hasFeatures": false
+    },
+    {
+        "id": 543,
+        "title": "Assassins Creed 3 Remastered",
+        "platform": "ps5",
+        "genre": [
+            "action",
+            "adventure",
+            "open-world",
+            "stealth"
+        ],
+        "size": "59GB",
+        "image": "https:\/\/i.postimg.cc\/85jB0G3q\/Assassins-Creed-3-Remastered.jpg",
+        "sliderImage": "https:\/\/i.postimg.cc\/SsJ7v430\/Assassins-Creed-3-Remastered-2.jpg",
+        "headerImage": "https:\/\/i.postimg.cc\/SsJ7v430\/Assassins-Creed-3-Remastered-2.jpg",
+        "systemVersion": "5.05\/11.00",
+        "version": "1.03",
+        "gameCode": "CUSA11711 – USA",
+        "story": "Assassin's Creed III Remastered تُعيدك إلى حقبة الثورة الأمريكية في القرن 18، حيث تلعب دور “Connor” – محارب نصفه من السكان الأصليين (Native American) ونصفه إنجليزي – في صراع سرّي بين الأخوة (Assassins) وفرسان الهيكل (Templars). اللعبة تعرض لك شوارع بوسطن ونيويورك، غابات ضخمة وحدود أمريكا الاستعمارية، مع تحسينات رسومية ودعم 4K\/HDR، وتتضمن كل المحتوى الإضافي الأصلي + قصة بديلة “The Tyranny of King Washington” + الإصدار المرافق “Assassin's Creed Liberation Remastered",
+        "developer": "Ubisoft Montréal \/ Ubisoft",
+        "publisher": "Ubisoft ",
+        "releaseDate": "29 مارس 2019",
+        "rating": 8.4000000000000003552713678800500929355621337890625,
+        "password": "DLPSGAME.COM﻿",
+        "downloadUrl": "https:\/\/akirabox.com\/LJlGn9KRz15w\/file",
+        "hasDownloadUrl": true,
+        "languages": [
+            {
+                "name": "الإنجليزية",
+                "code": "english",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": true
+                }
+            }
+        ],
+        "hasUpdate": true,
+        "hasUpdate-fix": false,
+        "hasDLC": false,
+        "hasDLC2": false,
+        "hasUpdateParts": false,
+        "hasDLCParts": false,
+        "hasDownloadParts": false,
+        "updateSize": "",
+        "updateUrl": "https:\/\/akirabox.com\/jar3XLb832dD\/file",
+        "updateParts": [],
+        "dlcParts": [],
+        "downloadParts": []
+    },
+    {
+        "id": 544,
+        "title": "Assassins Creed Rogue Remastered",
+        "platform": "ps5",
+        "genre": [
+            "action",
+            "adventure",
+            "open-world",
+            "stealth",
+            "arabic"
+        ],
+        "size": "12GB",
+        "image": "https:\/\/i.postimg.cc\/KvLH5VMN\/Assassins-Creed-Rogue-Remastered-1.jpg",
+        "sliderImage": "https:\/\/i.postimg.cc\/kGjV3Rbj\/Assassins-Creed-Rogue-Remastered-2.jpg",
+        "headerImage": "https:\/\/i.postimg.cc\/kGjV3Rbj\/Assassins-Creed-Rogue-Remastered-2.jpg",
+        "systemVersion": "5.05\/11.00",
+        "version": "1.01",
+        "gameCode": "CUSA10123 – EUR",
+        "story": "في Assassin’s Creed Rogue Remastered، تلعب بشخصية Shay Patrick Cormac — قاتل سابق من الأخوّة يتحول إلى فرسان الهيكل (Templars)، ويبدأ بمطاردة أصحابه السابقين من القتلة. مع سفينته Morrigan، تغوص في بحار شمال الأطلسي والأنهار الأمريكية، وتبحر نحو نيويورك وأراضي غابة قوية وصراع أخلاقي، لتعيش نسخة مظلمة من حروب الأخوّة عبر منظور جديد.",
+        "developer": "Ubisoft Sofia \/ Ubisoft Montréal",
+        "publisher": "Ubisoft ",
+        "releaseDate": "20 مارس 2018",
+        "rating": 8.199999999999999289457264239899814128875732421875,
+        "password": "4GAMER",
+        "languages": [
+            {
+                "name": "العربية",
+                "code": "arabic",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": false
+                }
+            }
+        ],
+        "downloadParts": [],
+        "updateParts": [],
+        "dlcParts": [],
+        "features": [],
+        "downloadUrl": "https:\/\/akirabox.com\/0KezkaqgmD1X\/file#4GAMER\/T.ME\/C9_91",
+        "hasDownloadUrl": true,
+        "hasUpdate": false,
+        "hasDLC": false,
+        "hasDownloadParts": false,
+        "hasUpdateParts": false,
+        "hasDLCParts": false,
+        "hasFeatures": false
+    },
+    {
+        "id": 545,
+        "title": "Remnant From the Ashes",
+        "platform": "ps5",
+        "genre": [
+            "action",
+            "rpg",
+            "open-world",
+            "horror",
+            "survival"
+        ],
+        "size": "35 GB",
+        "image": "https:\/\/i.postimg.cc\/fyF9S0Rw\/Remnant-From-the-Ashes.jpg",
+        "sliderImage": "https:\/\/i.postimg.cc\/x87zNb1j\/Remnant-From-the-Ashes-2.jpg",
+        "headerImage": "https:\/\/i.postimg.cc\/x87zNb1j\/Remnant-From-the-Ashes-2.jpg",
+        "systemVersion": "5.05\/11.00",
+        "version": "1.20",
+        "gameCode": "CUSA10507 – USA",
+        "story": "في Remnant: From the Ashes، تجد نفسك كأحد آخر بقايا البشرية بعد اجتياح كائنات من بُعد آخر. مهمتك أن تفتح بوابات عوالم بديلة، وتقاتل وحوشاً وزعماء مرعبين، سواء وحدك أو مع صديقين آخرين، لتسترجع الأرض وتعيد الأمل للبشرية — بأسلحة، دروع، ترقيات، ونهب يدوي ديناميكي في عالم يتغير في كل مرة تلعب فيها.\"",
+        "developer": "Gunfire Games",
+        "publisher": "Perfect World Entertainment \/ Arc Games",
+        "releaseDate": "19 أغسطس 2019",
+        "rating": 8.5,
+        "password": "SuperPSX",
+        "downloadUrl": "https:\/\/akirabox.com\/0KezkRbg3D1X\/folder",
+        "hasDownloadUrl": true,
+        "languages": [
+            {
+                "name": "الإنجليزية",
+                "code": "english",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": true
+                }
+            }
+        ],
+        "hasUpdate": true,
+        "hasUpdate-fix": false,
+        "hasDLC": true,
+        "hasDLC2": false,
+        "hasUpdateParts": false,
+        "hasDLCParts": false,
+        "hasDownloadParts": false,
+        "updateSize": "",
+        "updateUrl": "https:\/\/akirabox.com\/rk9zKR5430lY\/file",
+        "dlcCount": 1,
+        "dlcName": "",
+        "dlcUrl": "https:\/\/akirabox.com\/qLQ36DrPG19j\/folder",
+        "updateParts": [],
+        "dlcParts": [],
+        "downloadParts": []
+    },
+    {
+        "id": 546,
+        "title": "Assassins Creed Odyssey Ultimate Edition",
+        "platform": "ps5",
+        "genre": [
+            "action",
+            "adventure",
+            "rpg",
+            "open-world",
+            "stealth",
+            "arabic"
+        ],
+        "size": "107GB",
+        "image": "https:\/\/i.postimg.cc\/wTJGkPmk\/Assassins-Creed-Odyssey-Ultimate-Edition-1.jpg",
+        "sliderImage": "https:\/\/i.postimg.cc\/mDBqKPRL\/Assassins-Creed-Odyssey-Ultimate-Edition-3.jpg",
+        "headerImage": "https:\/\/i.postimg.cc\/mDBqKPRL\/Assassins-Creed-Odyssey-Ultimate-Edition-3.jpg",
+        "systemVersion": "5.05\/11.00",
+        "version": "1.56",
+        "gameCode": "CUSA09303 – USA",
+        "story": "Assassin's Creed Odyssey تأخذك إلى قلب اليونان القديمة، حيث تبدأ رحلتك كمِرتّز إسبرطي يُدعى Misthios، وتمرّغ في صراعات بين أثينا وإسبرطة، تستكشف جزر وبحار، تخوض معارك برّ وبحر، وتختار مصيرك بين بطل أسطوري أو مجرد سجين مصيرك. Ultimate Edition تجمع لكم التجربة الكاملة — القصة الأساسية + كل الإضافات + محتوى ما بعد الإطلاق — لتعيش أوسع وأغنى مغامرة في السلسلة.",
+        "developer": "Ubisoft Quebec",
+        "publisher": "Ubisoft ",
+        "releaseDate": "5 أكتوبر 2018",
+        "rating": 9.0999999999999996447286321199499070644378662109375,
+        "password": "4GAMER",
+        "languages": [
+            {
+                "name": "العربية",
+                "code": "arabic",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": false
+                }
+            }
+        ],
+        "downloadParts": [],
+        "updateParts": [],
+        "dlcParts": [],
+        "features": [],
+        "downloadUrl": "https:\/\/akirabox.com\/1RgzRVJl1zbp\/file#4GAMER\/T.ME\/C9_91",
+        "hasDownloadUrl": true,
+        "hasUpdate": true,
+        "updateSize": "",
+        "updateUrl": "https:\/\/akirabox.com\/1RgzRVJl1zbp\/file#4GAMER\/T.ME\/C9_91",
+        "hasUpdate-fix": true,
+        "update-fixSize": "1.56 (Fix 5.05\/6.72\/7.xx)",
+        "update-fixUrl": "https:\/\/akirabox.com\/2WVGr6VvgGkx\/file",
+        "hasDLC": true,
+        "dlcCount": 11,
+        "dlcName": "",
+        "dlcUrl": "https:\/\/akirabox.to\/Y2xm0L5P0mRO\/folder",
+        "hasDLC2": false,
+        "hasDownloadParts": false,
+        "hasUpdateParts": false,
+        "hasDLCParts": false,
+        "hasFeatures": false
+    },
+    {
+        "id": 547,
+        "title": "Jujutsu Kaisen Cursed Clash Ultimate Edition",
+        "platform": "ps5",
+        "genre": [
+            "action",
+            "fighting"
+        ],
+        "size": "40GB",
+        "image": "https:\/\/i.postimg.cc\/1Xjy9G5d\/Jujutsu-Kaisen-Cursed-Clash-Ultimate-Edition.jpg",
+        "sliderImage": "https:\/\/i.postimg.cc\/RhDvM7V8\/Jujutsu-Kaisen-Cursed-Clash-Ultimate-Edition-2.jpg",
+        "headerImage": "https:\/\/i.postimg.cc\/RhDvM7V8\/Jujutsu-Kaisen-Cursed-Clash-Ultimate-Edition-2.jpg",
+        "systemVersion": "5.05\/11.00",
+        "version": "1.40",
+        "gameCode": " CUSA35844 – EUR",
+        "story": "في Jujutsu Kaisen: Cursed Clash، تدخل عالم الأنمي الشهير لتقاتل باستخدام طاقات Cursed والشعوذات الخاصة بسحرة ومحاربين مرعبين. شكّل ثنائي 2-v-2 مع صديق، وأطلق أقوى التقنيات مع Domain Expansions، معركة بعد معركة ضد لعنة وشياطين. النسخة Ultimate Edition تضم اللعبة الكاملة بالإضافة إلى DLC 'Hidden Inventory \/ Premature Death'، مهمات إضافية، ملابس خاصة (Anime Ending Theme Outfit)، حزمة Jujusta 2024، ألبوم رقمي وصوتيات (Digital Artbook & Soundtrack).",
+        "developer": "Byking \/ Gemdrops",
+        "publisher": "Bandai Namco Entertainment",
+        "releaseDate": "2 فبراير 2024",
+        "rating": 7.5,
+        "password": "DLPSGAME.COM﻿",
+        "downloadUrl": "https:\/\/akirabox.com\/Y2xm0XPKmRO1\/file#4gamer",
+        "hasDownloadUrl": true,
+        "languages": [
+            {
+                "name": "الإنجليزية",
+                "code": "english",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": true
+                }
+            }
+        ],
+        "hasUpdate": true,
+        "hasUpdate-fix": false,
+        "hasDLC": false,
+        "hasDLC2": false,
+        "hasUpdateParts": false,
+        "hasDLCParts": false,
+        "hasDownloadParts": false,
+        "updateSize": "",
+        "updateUrl": "https:\/\/telegra.ph\/Jujutsu-Kaisen-Cursed-Clash-update-140-01-11",
+        "updateParts": [],
+        "dlcParts": [],
+        "downloadParts": [],
+        "downloads": 0
+    },
+    {
+        "id": 548,
+        "title": "A Plague Tale Innocence",
+        "platform": "ps5",
+        "genre": [
+            "action",
+            "adventure",
+            "horror",
+            "survival",
+            "stealth",
+            "arabic"
+        ],
+        "size": "35 GB",
+        "image": "https:\/\/i.postimg.cc\/fLtZ0DFQ\/A_Plague_Tale_Innocence_41.webp",
+        "sliderImage": "https:\/\/i.postimg.cc\/hthpz942\/A-Plague-Tale-Innocence-2.jpg",
+        "headerImage": "https:\/\/i.postimg.cc\/hthpz942\/A-Plague-Tale-Innocence-2.jpg",
+        "systemVersion": "5.05\/11.00",
+        "version": "1.01",
+        "gameCode": "CUSA10812 – EUR",
+        "story": "تدور أحداث A Plague Tale: Innocence في فرنسا عام 1348 أثناء انتشار الطاعون والحروب. تلعب دور أمِسيا (Amicia) وشقيقها الصغير هوغو (Hugo)، الهاربين من قوات التفتيش، في محاولة للبقاء على قيد الحياة وسط وباء قاتل وحشود كبيرة من الجرذان. عليك استخدام الضوء والنار، التخفي، والحيلة لتجاوز العدو والنجاة في رحلة مؤثرة ومروّعة.",
+        "developer": "Asobo Studio",
+        "publisher": "Focus Entertainment",
+        "releaseDate": "14 مايو 2019",
+        "rating": 9,
+        "password": "4GAMER",
+        "languages": [
+            {
+                "name": "العربية",
+                "code": "arabic",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": false
+                }
+            }
+        ],
+        "downloadParts": [],
+        "updateParts": [],
+        "dlcParts": [],
+        "features": [],
+        "downloadUrl": "https:\/\/akirabox.com\/N2p3DxBd3Ma5\/file#4GAMER\/T.ME\/C9_91",
+        "hasDownloadUrl": true,
+        "hasUpdate": true,
+        "updateSize": "",
+        "updateUrl": "https:\/\/akirabox.com\/Pbe3PKwemlX6\/file#4GAMER\/T.ME\/C9_91",
+        "hasUpdate-fix": false,
+        "hasDLC": true,
+        "dlcCount": 1,
+        "dlcName": "",
+        "dlcUrl": "https:\/\/akirabox.com\/9QWmpP8AmEB6\/file#4GAMER\/T.ME\/C9_91",
+        "hasDLC2": false,
+        "hasDownloadParts": false,
+        "hasUpdateParts": false,
+        "hasDLCParts": false,
+        "hasFeatures": false
+    },
+    {
+        "id": 549,
+        "title": "Dark Souls 3",
+        "platform": "ps5",
+        "genre": [
+            "action",
+            "rpg",
+            "souls",
+            "arabic"
+        ],
+        "size": "20GB",
+        "image": "https:\/\/i.postimg.cc\/DZJFbnD7\/Dark_Souls_3_47.webp",
+        "sliderImage": "https:\/\/i.postimg.cc\/0js9rkpM\/Dark-Souls-3-2.jpg",
+        "headerImage": "https:\/\/i.postimg.cc\/0js9rkpM\/Dark-Souls-3-2.jpg",
+        "systemVersion": "5.05\/11.00",
+        "version": "1.03",
+        "gameCode": "CUSA07439 – EUR",
+        "story": "في Dark Souls III تلعب بدور \\\"Ashen One\\\" في عالم Lothric المتداعي، مهمّتك أن تمنع اندثار النار وحلول الظلام على العالم. رحلتك مليئة بالوحوش الرهيبة، الزعماء الضخام، التحديات القاتلة، والخيارات التي تختبر صبرك ومهارتك. الظلام الحقيقي يبدأ حين تنطفئ أنوار الأمل.\"",
+        "developer": "FromSoftware",
+        "publisher": "Bandai Namco Entertainment",
+        "releaseDate": "12 أبريل 2016",
+        "rating": 8.9000000000000003552713678800500929355621337890625,
+        "password": "4GAMER",
+        "languages": [
+            {
+                "name": "العربية",
+                "code": "arabic",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": false
+                }
+            }
+        ],
+        "downloadParts": [],
+        "updateParts": [],
+        "dlcParts": [],
+        "features": [],
+        "downloadUrl": "https:\/\/akirabox.com\/qLQ367KBz19j\/file#4GAMER\/T.ME\/C9_91",
+        "hasDownloadUrl": true,
+        "hasUpdate": false,
+        "hasDLC": false,
+        "hasDownloadParts": false,
+        "hasUpdateParts": false,
+        "hasDLCParts": false,
+        "hasFeatures": false
+    },
+    {
+        "id": 550,
+        "title": "Dark Souls 2 Scholar of the first sin",
+        "platform": "ps5",
+        "genre": [
+            "action",
+            "adventure",
+            "rpg",
+            "souls",
+            "arabic"
+        ],
+        "size": "12.5GB",
+        "image": "https:\/\/i.postimg.cc\/85JDrN3N\/Dark_Souls_2_Scholar_of_the_first_sin_46.webp",
+        "sliderImage": "https:\/\/i.postimg.cc\/jCYnxYj8\/Dark-Souls-2-Scholar-of-the-first-sin-3.jpg",
+        "headerImage": "https:\/\/i.postimg.cc\/jCYnxYj8\/Dark-Souls-2-Scholar-of-the-first-sin-3.jpg",
+        "systemVersion": "5.05\/11.00",
+        "version": "1.02",
+        "gameCode": "CUSA01589",
+        "story": "في Dark Souls II: Scholar of the First Sin، تعود إلى مملكة Drangleic المظلمة لكن هذه المرة بالإصدار الكامل والمحسّن الذي يتضمن القصة الأصلية + ثلاث توسعات (DLC) + محتوى مُحدّث، تغييرات في أماكن الأعداء والعناصر، توازن محسّن للقتال، دعم للعب الجماعي أوسع، لتجربة Souls صلبة وتحدي كبير.\"",
+        "developer": "FromSoftware",
+        "publisher": "Bandai Namco Entertainment",
+        "releaseDate": "7 أبريل 2015",
+        "rating": 8.699999999999999289457264239899814128875732421875,
+        "password": "4GAMER",
+        "languages": [
+            {
+                "name": "العربية",
+                "code": "arabic",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": false
+                }
+            }
+        ],
+        "downloadParts": [],
+        "updateParts": [],
+        "dlcParts": [],
+        "features": [],
+        "downloadUrl": "https:\/\/akirabox.com\/qw1ze7a4mXyn\/file#4GAMER\/T.ME\/C9_91",
+        "hasDownloadUrl": true,
+        "hasUpdate": true,
+        "updateSize": "",
+        "updateUrl": "https:\/\/akirabox.com\/2WVGrebAzkx7\/file#4GAMER\/T.ME\/C9_91",
+        "hasUpdate-fix": false,
+        "hasDLC": false,
+        "hasDownloadParts": false,
+        "hasUpdateParts": false,
+        "hasDLCParts": false,
+        "hasFeatures": false
+    },
+    {
+        "id": 551,
+        "title": "Dark Souls Remastered",
+        "platform": "ps5",
+        "genre": [
+            "action",
+            "adventure",
+            "rpg",
+            "souls",
+            "arabic"
+        ],
+        "size": "8GB",
+        "image": "https:\/\/i.postimg.cc\/vBgM6bjQ\/Dark_Souls_Remastered_45.webp",
+        "sliderImage": "https:\/\/i.postimg.cc\/fW5BrC8h\/dark-souls-1-2.jpg",
+        "headerImage": "https:\/\/i.postimg.cc\/fW5BrC8h\/dark-souls-1-2.jpg",
+        "systemVersion": "5.05\/11.00",
+        "version": "1.05",
+        "gameCode": " CUSA16345",
+        "story": "Dark Souls: Remastered تُعيدك إلى مملكة Lordran القديمة، حيث تلعب دور ‘Undead’ ملعون، في رحلة قاتمة ضد لعنة الظلام، مليئة بالأعداء القاتلين، الزعماء الضخام، الأخطار المتواصلة، واستكشاف عوالم مظلمة مليئة بالأسرار. مع كل نار تُرمَد وكل روح تُستعاد، تختبر معنى الصمود والتضحية — لأن الموت ليس سوى بداية جديدة في هذا العالم القاسي.",
+        "developer": "FromSoftware \/ QLOC",
+        "publisher": "Bandai Namco Entertainment",
+        "releaseDate": "25 مايو 2018",
+        "rating": 9,
+        "password": "4GAMER",
+        "languages": [
+            {
+                "name": "العربية",
+                "code": "arabic",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": false
+                }
+            }
+        ],
+        "downloadParts": [],
+        "updateParts": [],
+        "dlcParts": [],
+        "features": [],
+        "downloadUrl": "https:\/\/akirabox.com\/BnkmWA9azR0y\/file#4GAMER\/T.ME\/C9_91",
+        "hasDownloadUrl": true,
+        "hasUpdate": true,
+        "updateSize": "",
+        "updateUrl": "https:\/\/akirabox.com\/vgKGx82rG8Qn\/file#4GAMER\/T.ME\/C9_91",
+        "hasUpdate-fix": false,
+        "hasDLC": false,
+        "hasDownloadParts": false,
+        "hasUpdateParts": false,
+        "hasDLCParts": false,
+        "hasFeatures": false
+    },
+    {
+        "id": 552,
+        "title": "Dark Souls Remastered",
+        "platform": "ps5",
+        "genre": [
+            "action",
+            "adventure",
+            "rpg",
+            "souls"
+        ],
+        "size": "8GB",
+        "image": "https:\/\/i.postimg.cc\/KcQJHf0X\/dark-souls-1.jpg",
+        "sliderImage": "https:\/\/i.postimg.cc\/fTG2cLHg\/dark-souls-1-3.jpg",
+        "headerImage": "https:\/\/i.postimg.cc\/fTG2cLHg\/dark-souls-1-3.jpg",
+        "systemVersion": "5.05\/11.00",
+        "version": "1.05",
+        "gameCode": "CUSA08495 – EUR",
+        "story": "Dark Souls: Remastered تُعيدك إلى مملكة Lordran القديمة، حيث تلعب دور ‘Undead’ ملعون، في رحلة قاتمة ضد لعنة الظلام، مليئة بالأعداء القاتلين، الزعماء الضخام، الأخطار المتواصلة، واستكشاف عوالم مظلمة مليئة بالأسرار. مع كل نار تُرمَد وكل روح تُستعاد، تختبر معنى الصمود والتضحية — لأن الموت ليس سوى بداية جديدة في هذا العالم القاسي.",
+        "developer": "FromSoftware \/ QLOC",
+        "publisher": "Bandai Namco Entertainment",
+        "releaseDate": "25 مايو 2018",
+        "rating": 9,
+        "password": "4GAMER",
+        "downloadUrl": "https:\/\/akirabox.com\/2WVGr8Yq3kx7\/file#4GAMER\/T.ME\/C9_91",
+        "hasDownloadUrl": true,
+        "languages": [
+            {
+                "name": "الإنجليزية",
+                "code": "english",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": true
+                }
+            }
+        ],
+        "hasUpdate": true,
+        "hasUpdate-fix": false,
+        "hasDLC": false,
+        "hasDLC2": false,
+        "hasUpdateParts": false,
+        "hasDLCParts": false,
+        "hasDownloadParts": false,
+        "updateSize": "",
+        "updateUrl": "https:\/\/akirabox.com\/qLQ36KkBz19j\/file#4GAMER\/T.ME\/C9_91",
+        "updateParts": [],
+        "dlcParts": [],
+        "downloadParts": []
+    },
+    {
+        "id": 553,
+        "title": "Hollow Knight Voidheart Edition",
+        "platform": "ps5",
+        "genre": [
+            "action",
+            "adventure",
+            "souls",
+            "platformer",
+            "metroidvania",
+            "arabic"
+        ],
+        "size": "1GB",
+        "image": "https:\/\/i.postimg.cc\/cHpWRPy3\/Hollow_Knight_Voidheart_Edition_20.webp",
+        "sliderImage": "https:\/\/i.postimg.cc\/prbX9yxb\/Hollow_Knight_Voidheart_Edition_2.webp",
+        "headerImage": "https:\/\/i.postimg.cc\/prbX9yxb\/Hollow_Knight_Voidheart_Edition_2.webp",
+        "systemVersion": "5.05\/11.00",
+        "version": "1.02",
+        "gameCode": "CUSA13632 – USA",
+        "story": "Hollow Knight: Voidheart Edition تنقلك إلى مملكة Hallownest الغارقة في السنين والغموض. تلعب بدور فارس خفي صغير، استكشف كهوفًا مظلمة، مدنًا قديمة تحت الأرض، وساحات مليئة بالوحوش والزعماء. مع قدراتك، تعمّق في أسرار المملكة، واجه التحديات الصعبة، واكتشف نهاية اللعبة حسب اختياراتك — عالم مليء بالغموض، المخاطر، والتحدّي الحقيقي.",
+        "developer": "Team Cherry",
+        "publisher": "Team Cherry",
+        "releaseDate": "25 سبتمبر 2018",
+        "rating": 9.300000000000000710542735760100185871124267578125,
+        "password": "4GAMER",
+        "languages": [
+            {
+                "name": "العربية",
+                "code": "arabic",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": false
+                }
+            }
+        ],
+        "downloadParts": [],
+        "updateParts": [],
+        "dlcParts": [],
+        "features": [],
+        "downloadUrl": "https:\/\/akirabox.com\/rk9zKroBL30l\/file#4GAMER",
+        "hasDownloadUrl": true,
+        "hasUpdate": true,
+        "updateSize": "",
+        "updateUrl": "https:\/\/akirabox.com\/l5YzMK9dWmyO\/file#4GAMER",
+        "hasUpdate-fix": false,
+        "hasDLC": false,
+        "hasDownloadParts": false,
+        "hasUpdateParts": false,
+        "hasDLCParts": false,
+        "hasFeatures": false
+    },
+    {
+        "id": 554,
+        "title": " WWE 2K23",
+        "platform": "ps5",
+        "genre": [
+            "arabic",
+            "sports",
+            "fighting"
+        ],
+        "size": "49GB",
+        "image": "..\/assets\/images\/WWE-2K23.webp",
+        "sliderImage": "..\/assets\/images\/WWE-2K23-2.webp",
+        "headerImage": "..\/assets\/images\/WWE-2K23-2.webp",
+        "systemVersion": " 6.xx and higher",
+        "version": "v01.000",
+        "gameCode": "PPSA08106 – EUR",
+        "story": "WWE 2K23 تمنحك تجربة مصارعة احترافية شاملة: مع عرض 2K Showcase الذي يعيد قصة مسيرة نجم مثل John Cena، طور WarGames الجديد بمعارك 3v3 أو 4v4 داخل قفصين وساحتين، طور MyRise لتكوين مسيرتك الخاصة، MyFaction لتجميع فريق مصارعين، وأكثر من 200 مصارع أسطوري. جرافيكس محسّن، تحكّم متطوّر، وعدد كبير من الأوضاع لجعل التجربة أقوى من أي جزء سابق.",
+        "developer": "Visual Concepts",
+        "publisher": "2K Games",
+        "releaseDate": "17 مارس 2023",
+        "rating": 8.4000000000000003552713678800500929355621337890625,
+        "password": "hako",
+        "languages": [
+            {
+                "name": "العربية",
+                "code": "Arabic",
+                "support": {
+                    "menu": false,
+                    "subtitles": true,
+                    "dubbed": false
+                }
+            },
+            {
+                "name": "الإنجليزية",
+                "code": "english",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": true
+                }
+            }
+        ],
+        "downloadParts": [
+            {
+                "name": "اللعبة",
+                "size": "44.2 GB",
+                "url": "https:\/\/pastelink.net\/ls6oxbzx"
+            }
+        ],
+        "updateParts": [
+            {
+                "name": "UPDATE v1.22 (BACKPORT FW 5.05-6.72-7.02-7.55-9.00)",
+                "size": "21.2 GB",
+                "url": "https:\/\/pastelink.net\/umnf6s5f"
+            }
+        ],
+        "dlcParts": [
+            {
+                "name": "DLC Content",
+                "size": "2 MB",
+                "url": "https:\/\/www.mediafire.com\/file\/mvfqm3x91p06937\/WWE.2K23.DLC.v7-CUSA34179.rar"
+            }
+        ],
+        "features": [],
+        "downloadUrl": "https:\/\/akirabox.com\/E9Qz9vEd2GOL\/file",
+        "hasDownloadUrl": true,
+        "hasUpdate": true,
+        "updateSize": "",
+        "updateUrl": "https:\/\/akirabox.com\/b5OzdJOBAmB8\/file",
+        "hasUpdate-fix": false,
+        "hasDLC": true,
+        "dlcCount": 13,
+        "dlcName": "",
+        "dlcUrl": "https:\/\/akirabox.com\/k0embxMdJzVb\/folder",
+        "hasDLC2": false,
+        "hasDownloadParts": false,
+        "hasUpdateParts": false,
+        "hasDLCParts": false,
+        "hasFeatures": false,
+        "downloads": 0
+    },
+    {
+        "id": 555,
+        "title": "REANIMAL",
+        "platform": "ps5",
+        "genre": [
+            "arabic",
+            "horror",
+            "adventure",
+            "survival",
+            "co-op"
+        ],
+        "size": "11GB",
+        "image": "..\/assets\/images\/REANIMAL.webp",
+        "sliderImage": "..\/assets\/images\/REANIMAL-Switch-2.webp",
+        "headerImage": "..\/assets\/images\/REANIMAL-Switch-2.webp",
+        "systemVersion": " 11.xx and higher",
+        "version": "v01.006",
+        "gameCode": "PPSA23372 – EUR",
+        "story": "تدور أحداث REANIMAL حول أخ وأخت يحاولان إنقاذ أصدقائهما المفقودين والهروب من الجزيرة المظلمة التي كانت في السابق موطنهما. أثناء رحلتهما عبر اليابسة والمياه، يواجهان مخلوقات مرعبة وأسرارًا مظلمة مرتبطة بالماضي الذي عاشاه. تعتمد اللعبة على الاستكشاف وحل الألغاز والتخفي والتعاون من أجل البقاء، ويمكن خوض المغامرة بشكل فردي أو مع لاعب آخر عبر اللعب التعاوني المحلي أو عبر الإنترنت.",
+        "developer": "Tarsier Studios",
+        "publisher": "THQ Nordic",
+        "releaseDate": "February 13, 2026",
+        "rating": 8,
+        "password": "DLPSGAME.COM",
+        "downloadUrl": "https:\/\/akirabox.com\/k0embx0XlzVb\/file#4GAMER\/T.ME\/C9_9M",
+        "hasDownloadUrl": true,
+        "languages": [
+            {
+                "name": "العربية",
+                "code": "arabic",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": false
+                }
+            },
+            {
+                "name": "الإنجليزية",
+                "code": "english",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": true
+                }
+            },
+            {
+                "name": "الفرنسية",
+                "code": "french",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": true
+                }
+            },
+            {
+                "name": "الألمانية",
+                "code": "german",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": true
+                }
+            },
+            {
+                "name": "اليابانية",
+                "code": "japanese",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": true
+                }
+            },
+            {
+                "name": "الإسبانية",
+                "code": "spanish",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": true
+                }
+            },
+            {
+                "name": "البولندية",
+                "code": "polish",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": true
+                }
+            },
+            {
+                "name": "البرتغالية البرازيلية",
+                "code": "portuguese_brazil",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": true
+                }
+            },
+            {
+                "name": "الروسية",
+                "code": "russian",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": true
+                }
+            },
+            {
+                "name": "الصينية",
+                "code": "chinese",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": true
+                }
+            }
+        ],
+        "hasUpdate": false,
+        "hasUpdate-fix": false,
+        "hasDLC": true,
+        "hasDLC2": false,
+        "hasUpdateParts": false,
+        "hasDLCParts": false,
+        "hasDownloadParts": false,
+        "updateParts": [],
+        "dlcParts": [],
+        "downloadParts": [],
+        "features": [
+            "رعب ومغامرة من منظور سينمائي",
+            "اللعب الفردي الكامل",
+            "اللعب التعاوني المحلي حتى لاعبين",
+            "اللعب التعاوني عبر الإنترنت حتى لاعبين",
+            "كاميرا مشتركة وموجهة لزيادة التوتر",
+            "استكشاف الجزيرة والبيئات المظلمة",
+            "حل الألغاز والتعاون بين الشخصيتين",
+            "التخفي والهروب من المخلوقات المرعبة",
+            "التنقل بالقارب وعلى اليابسة",
+            "أجواء رعب مستوحاة من Little Nightmares",
+            "دعم PS5 Pro",
+            "دعم اللغة العربية للقوائم والترجمة"
+        ],
+        "hasFeatures": true
+    },
+    {
+        "id": 556,
+        "title": "NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS",
+        "platform": "ps5",
+        "genre": [
+            "action",
+            "fighting",
+            "anime",
+            "arabic"
+        ],
+        "size": "43GB",
+        "image": "..\/assets\/images\/Naruto_X_Boruto_Ultimate_Ninja_Storm_Connections.webp",
+        "sliderImage": "..\/assets\/images\/Naruto_x_Boruto_Ultimate_Ninja_Storm_Connections-2.webp",
+        "headerImage": "..\/assets\/images\/Naruto_x_Boruto_Ultimate_Ninja_Storm_Connections-2.webp",
+        "systemVersion": "4.xx and beyond ",
+        "version": "01.006 ",
+        "gameCode": "PPSA06981  – exFAT",
+        "story": "NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS تجمع تاريخ سلسلة Ultimate Ninja STORM في لعبة واحدة، وتقدم مجموعة ضخمة من شخصيات عالم Naruto وBoruto. تتضمن اللعبة طورًا قصصيًا يستعرض أهم أحداث قصة Naruto وSasuke، بالإضافة إلى قصة أصلية جديدة تركز على Boruto Uzumaki وشخصية جديدة غامضة تظهر في عالم النينجا. تقدم اللعبة معارك سريعة تجمع بين النينجوتسو والـSecret Techniques والقتال الجماعي.",
+        "developer": "CyberConnect2",
+        "publisher": "Bandai Namco Entertainment",
+        "releaseDate": "November 17, 2023",
+        "rating": 8,
+        "password": "DLPSGAME.COM",
+        "downloadUrl": "https:\/\/datavaults.co\/w4v15iqllhhd",
+        "hasDownloadUrl": false,
+        "languages": [
+            {
+                "name": "العربية",
+                "code": "arabic",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": false
+                }
+            },
+            {
+                "name": "الإنجليزية",
+                "code": "english",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": false
+                }
+            },
+            {
+                "name": "اليابانية",
+                "code": "japanese",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": true
+                }
+            }
+        ],
+        "hasUpdate": false,
+        "hasUpdate-fix": false,
+        "hasDLC": true,
+        "hasDLC2": false,
+        "hasUpdateParts": false,
+        "hasDLCParts": false,
+        "hasDownloadParts": false,
+        "updateParts": [],
+        "dlcParts": [],
+        "downloadParts": [],
+        "features": [
+            "أكثر من 130 شخصية قابلة للعب",
+            "أكبر تشكيلة من شخصيات Naruto وBoruto في سلسلة Storm",
+            "طور History Mode يستعرض قصة Naruto وSasuke",
+            "قصة أصلية جديدة تركز على Boruto",
+            "معارك Ninja سريعة وحماسية",
+            "تقنيات Ninjutsu وSecret Techniques",
+            "Awakening Mode للشخصيات",
+            "معارك جماعية وتبديل الشخصيات أثناء القتال",
+            "طور Online Battles",
+            "نظام تحكم مبسط مناسب للمبتدئين",
+            "محتوى وشخصيات إضافية عبر DLC",
+            "رسوميات وحركات مستوحاة من الأنمي"
+        ],
+        "hasFeatures": true,
+        "downloads": 1
+    },
+    {
+        "id": 557,
+        "title": " NBA 2K25",
+        "platform": "ps5",
+        "genre": [
+            "sports",
+            "simulation"
+        ],
+        "size": "140GB",
+        "image": "..\/assets\/images\/NBA-2K25.webp",
+        "sliderImage": "..\/assets\/images\/NBA_2K25-2.webp",
+        "headerImage": "..\/assets\/images\/NBA_2K25-2.webp",
+        "systemVersion": "5.05\/11.00",
+        "version": "1.07",
+        "gameCode": "CUSA48139 – EUR",
+        "story": "NBA 2K25 تضعك في قلب منافسات دوري NBA — تحكم فريقك، أنشئ أسطورة في طور MyCAREER، أو أبدع كمدير عام في MyNBA، أو اجمع فريقك في MyTEAM. تستخدم اللعبة تقنية ProPLAY™ لرسوميات وحركات واقعية تنقلك مباشرة من رياضة الشارع إلى ملاعب الاحتراف.",
+        "developer": "Visual Concepts",
+        "publisher": "2K Games",
+        "releaseDate": "6 سبتمبر 2024",
+        "rating": 8.5,
+        "password": "DLPSGAME.COM",
+        "downloadUrl": "https:\/\/akirabox.com\/N2p3DboAGMa5\/file",
+        "hasDownloadUrl": true,
+        "languages": [
+            {
+                "name": "الإنجليزية",
+                "code": "english",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": true
+                }
+            }
+        ],
+        "hasUpdate": true,
+        "hasUpdate-fix": true,
+        "hasDLC": false,
+        "hasDLC2": false,
+        "hasUpdateParts": false,
+        "hasDLCParts": false,
+        "hasDownloadParts": false,
+        "updateSize": "Update v1.07 (11.00+) ",
+        "updateUrl": "https:\/\/akirabox.com\/Pbe3PLMW3lX6\/file",
+        "update-fixSize": "Update v1.07 (Fix 5.05\/6.72\/7.xx\/9.00)",
+        "update-fixUrl": "https:\/\/akirabox.com\/qLQ360eBG19j\/file",
+        "updateParts": [],
+        "dlcParts": [],
+        "downloadParts": []
+    },
+    {
+        "id": 558,
+        "title": " NBA 2K24",
+        "platform": "ps5",
+        "genre": [
+            "sports",
+            "simulation"
+        ],
+        "size": "45.03 GB",
+        "image": "..\/assets\/images\/NBA-2K24.webp",
+        "sliderImage": "..\/assets\/images\/nba_2k24.webp",
+        "headerImage": "..\/assets\/images\/nba_2k24.webp",
+        "systemVersion": "7.xx and higher",
+        "version": "v01.017.000",
+        "gameCode": "PPSA15302 – EUR",
+        "story": "NBA 2K24 تقدّم تجربة كرة السلة الأفضل في السلسلة مع تحسينات كثيرة: حركات واقعية جديدة بفضل تقنية ProPLAY، دعم اللعب التعاوني بين PS5 وXbox Series X|S لأول مرة (Cross-Play)، وعدد من الإصدارات الخاصة (مثل Black Mamba و25th Anniversary) التي تمنح محتوى إضافي وميزات MyTEAM \/ MyCAREER.",
+        "developer": "Visual Concepts",
+        "publisher": "2K Games",
+        "releaseDate": "8 سبتمبر 2023",
+        "rating": 8.5,
+        "password": "DLPSGAME.COM",
+        "downloadUrl": "https:\/\/datanodes.to\/d6jbjnbsabrm\/[SPSX]-NBA.2K24-CUSA42312-EUR-Game-PS4-CyB1K.pkg",
+        "hasDownloadUrl": true,
+        "languages": [
+            {
+                "name": "الإنجليزية",
+                "code": "english",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": true
+                }
+            }
+        ],
+        "hasUpdate": true,
+        "hasUpdate-fix": false,
+        "hasDLC": true,
+        "hasDLC2": false,
+        "hasUpdateParts": false,
+        "hasDLCParts": false,
+        "hasDownloadParts": false,
+        "updateSize": "Backport 4.xx+ (@kerrdec97",
+        "updateUrl": "",
+        "dlcCount": 1,
+        "dlcName": "",
+        "dlcUrl": "",
+        "updateParts": [],
+        "dlcParts": [],
+        "downloadParts": []
+    },
+    {
+        "id": 559,
+        "title": "EA Sports UFC 5",
+        "platform": "ps5",
+        "genre": [
+            "sports",
+            "fighting",
+            "mma"
+        ],
+        "size": "19GB",
+        "image": "..\/assets\/images\/EA-Sports-UFC5.webp",
+        "sliderImage": "..\/assets\/images\/EA-Sports-UFC-5.webp",
+        "headerImage": "..\/assets\/images\/EA-Sports-UFC-5.webp",
+        "systemVersion": " 9.xx and higher",
+        "version": "v01.031",
+        "gameCode": "PPSA03541 – EUR",
+        "story": "EA Sports UFC 5 هي لعبة فنون قتالية مختلطة تقدم تجربة UFC واقعية باستخدام محرك Frostbite لأول مرة في السلسلة. تعتمد اللعبة على نظام Real Impact System الذي يجعل تأثير الضربات والإصابات أكثر واقعية، مع ظهور أضرار مختلفة على الوجه والجسم أثناء القتال. كما تقدم نظام Seamless Submissions المحسن، وإمكانية توقف الحكم والطبيب للمباراة عند تعرض المقاتل لإصابة خطيرة. يستطيع اللاعب خوض نمط Career Mode وبناء مسيرة مقاتل خاص به، أو المنافسة عبر Online Career Mode، بالإضافة إلى Fight Week وRanked Championships ومجموعة متنوعة من أنماط Fight Now.",
+        "developer": "EA Vancouver",
+        "publisher": "Electronic Arts",
+        "releaseDate": "October 27, 2023",
+        "rating": 8.300000000000000710542735760100185871124267578125,
+        "password": "SuperPSX",
+        "downloadUrl": "https:\/\/akirabox.com\/0rpmvqYBBGRg\/file",
+        "hasDownloadUrl": true,
+        "languages": [
+            {
+                "name": "الإنجليزية",
+                "code": "english",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": true
+                }
+            }
+        ],
+        "hasUpdate": true,
+        "hasUpdate-fix": true,
+        "hasDLC": false,
+        "hasDLC2": false,
+        "hasUpdateParts": false,
+        "hasDLCParts": false,
+        "hasDownloadParts": false,
+        "updateParts": [],
+        "dlcParts": [],
+        "downloadParts": [],
+        "features": [
+            "نظام Real Impact System للضرر الواقعي",
+            "محرك Frostbite لأول مرة في سلسلة UFC",
+            "Cinematic K.O. Replay",
+            "نظام Seamless Submissions للمصارعة والإخضاع",
+            "Doctor's Checks and Stoppages",
+            "Career Mode مع مقدمة وقصة محسنة",
+            "Online Career Mode",
+            "Fight Week وتحديات مرتبطة بأحداث UFC الحقيقية",
+            "Ranked Championships",
+            "Alter Egos لنسخ مختلفة من المقاتلين",
+            "Fight Now مع أنماط Main Event وChampionship وBackyard وKumite",
+            "تخصيص المقاتل وتطوير المهارات والقدرات"
+        ],
+        "hasFeatures": true,
+        "downloads": 1
+    },
+    {
+        "id": 560,
+        "title": "Unknown 9 Awakening",
+        "platform": "ps5",
+        "genre": [
+            "action",
+            "adventure",
+            "stealth",
+            "arabic"
+        ],
+        "size": "36 GB",
+        "image": "..\/assets\/images\/Unknown_9_Awakening.webp",
+        "sliderImage": "..\/assets\/Unknown_9_Awakening_1.webp",
+        "headerImage": "..\/assets\/images\/Unknown_9_Awakening_1.webp",
+        "systemVersion": " 4.xx+",
+        "version": "v01.003",
+        "gameCode": " PPSA17841.exfat",
+        "story": "تلعب بدور Haroona، «Quaestor» تملك القدرة على الدخول إلى بُعد موازٍ يُعرف بـ “The Fold»، حيث القوانين تختلف والطاقات تتعدى الطبيعي. مهمتك: استكشاف أسرار العالم المخفي، التصدي لجماعة سرية («Ascendants») تسعى لاستغلال القوة لتغيير مصير البشرية، ومواجهة ماضي غامض يتخلله خيانة، غموض وقوى خارقة.\nاللعبة تمثّل مزيج من الأكشن، التسلّل، والقوى الخارقة مع قدرات على «بدأل الجسد \/ الانتقال عبر البعد» (body-swap \/ Fold-ability). تدعم عدة لغات للقوائم والنصوص.",
+        "developer": "Reflector Entertainment",
+        "publisher": "Bandai Namco Entertainment",
+        "releaseDate": "Oct 18, 2024",
+        "rating": 6.5,
+        "password": "4GAMER",
+        "downloadUrl": "https:\/\/datanodes.to\/1czw83lm87ez\/PPSA17841.exfat",
+        "hasDownloadUrl": true,
+        "languages": [
+            {
+                "name": "العربية",
+                "code": "arabic",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": true
+                }
+            }
+        ],
+        "hasUpdate": false,
+        "hasUpdate-fix": false,
+        "hasDLC": true,
+        "hasDLC2": false,
+        "hasUpdateParts": false,
+        "hasDLCParts": false,
+        "hasDownloadParts": false,
+        "updateSize": " ",
+        "updateUrl": "",
+        "update-fixSize": "",
+        "update-fixUrl": "",
+        "dlcCount": 1,
+        "dlcName": "Only  DLCs (EMU – Pippo)",
+        "dlcUrl": "https:\/\/datanodes.to\/5umz0t4ck4bj\/DLCs_Pippo.rar",
+        "updateParts": [],
+        "dlcParts": [],
+        "downloadParts": []
+    },
+    {
+        "id": 561,
+        "title": "Lost Judgment",
+        "platform": "ps5",
+        "genre": [
+            "action",
+            "adventure",
+            "open-world",
+            "detective"
+        ],
+        "size": "9.96GB",
+        "image": "..\/assets\/images\/Lost-Judgment-PS5.webp",
+        "sliderImage": "..\/assets\/images\/Lost-Judgment.webp",
+        "headerImage": "..\/assets\/images\/Lost-Judgment.webp",
+        "systemVersion": " 3.xx and higher ",
+        "version": "v01.011 ",
+        "gameCode": "PPSA03792 – HK",
+        "story": "تدور أحداث Lost Judgment حول المحقق الخاص والمحامي السابق تاكايوكي ياغامي، الذي يجد نفسه أمام قضية غامضة تبدأ باتهام أكيهيرو إهارا بالتحرش بامرأة على متن قطار، قبل أن يكشف إهارا عن جريمة قتل مرتبطة بالقضية. يبدأ ياغامي وشريكه ماساهارو كايتو تحقيقًا يقودهما إلى مؤامرة معقدة تتعلق بالانتقام والفساد واستغلال النظام القضائي. تجمع اللعبة بين التحقيق والاستكشاف والقتال، مع إمكانية التجول بحرية في مناطق من طوكيو ويوكوهاما.",
+        "developer": "Ryu Ga Gotoku Studio",
+        "publisher": "SEGA",
+        "releaseDate": "September 24, 2021",
+        "rating": 8.5,
+        "password": "SuperPSX",
+        "languages": [
+            {
+                "name": "الصينية",
+                "code": "Chinese",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": true
+                }
+            },
+            {
+                "name": "الإنجليزية",
+                "code": "english",
+                "support": {
+                    "menu": false,
+                    "subtitles": true,
+                    "dubbed": false
+                }
+            },
+            {
+                "name": "اليابانية",
+                "code": "japanese",
+                "support": {
+                    "menu": false,
+                    "subtitles": true,
+                    "dubbed": false
+                }
+            }
+        ],
+        "downloadParts": [],
+        "updateParts": [],
+        "dlcParts": [],
+        "features": [
+            "قصة تحقيق وجريمة مليئة بالغموض",
+            "عالم مفتوح في طوكيو ويوكوهاما",
+            "ثلاثة أساليب قتال مختلفة",
+            "أسلوب Crane للمواجهات الجماعية",
+            "أسلوب Tiger للقتال الفردي",
+            "أسلوب Snake لصد هجمات الخصوم واستغلال قوتهم",
+            "أدوات وتقنيات تحقيق متطورة",
+            "التسلل وتتبع المشتبه بهم",
+            "مهمات جانبية وقضايا فرعية",
+            "أنشطة متنوعة داخل المدينة",
+            "قصة مدرسية جانبية مع أندية وأنشطة متعددة",
+            "إمكانية تخصيص وتطوير مهارات Yagami"
+        ],
+        "downloadUrl": "",
+        "hasDownloadUrl": false,
+        "hasUpdate": false,
+        "updateSize": "",
+        "updateUrl": "",
+        "hasUpdate-fix": false,
+        "update-fixSize": "",
+        "update-fixUrl": "",
+        "hasDLC": false,
+        "hasDownloadParts": false,
+        "hasUpdateParts": false,
+        "hasDLCParts": false,
+        "hasFeatures": true
+    },
+    {
+        "id": 562,
+        "title": "63 Days",
+        "platform": "ps5",
+        "genre": [
+            "strategy",
+            "stealth",
+            "tactical"
+        ],
+        "size": "7 GB",
+        "image": "..\/assets\/images\/63-Days.webp",
+        "sliderImage": "..\/assets\/images\/63-days-worth-playing-7.webp",
+        "headerImage": "..\/assets\/images\/63-days-worth-playing-7.webp",
+        "systemVersion": " 9.xx and higher",
+        "version": "v01.090 ",
+        "gameCode": "PPSA21022 – EUR",
+        "story": "63 Days هي لعبة تكتيكية واستراتيجية في الوقت الفعلي تدور أحداثها خلال الحرب العالمية الثانية، وتستند إلى انتفاضة وارسو عام 1944. يتحكم اللاعب بمجموعة من مقاتلي المقاومة البولندية الشباب الذين يواجهون القوات الألمانية المتفوقة في العدد والعتاد. تعتمد اللعبة على التخفي والتخطيط والتنسيق بين أفراد الفريق، مع إمكانية اختيار أساليب مختلفة للتعامل مع كل مهمة، سواء بالتسلل أو باستخدام القوة المباشرة. كما يمكن الاستفادة من البيئة المحيطة وتنوع مهارات أعضاء الفريق للتغلب على الأعداء.",
+        "developer": "Destructive Creations",
+        "publisher": "Destructive Creations Sp. z o.o.",
+        "releaseDate": "September 26, 2024",
+        "rating": 7.5,
+        "password": "SuperPSX",
+        "downloadUrl": "[https:\/\/vik1ngfile.site\/f\/RwCDySkyCa](https:\/\/vik1ngfile.site\/f\/RwCDySkyCa)",
+        "hasDownloadUrl": true,
+        "languages": [
+            {
+                "name": "الإنجليزية",
+                "code": "english",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": true
+                }
+            },
+            {
+                "name": "البولندية",
+                "code": "polish",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": true
+                }
+            }
+        ],
+        "hasUpdate": false,
+        "hasUpdate-fix": false,
+        "hasDLC": false,
+        "hasDLC2": false,
+        "hasUpdateParts": false,
+        "hasDLCParts": false,
+        "hasDownloadParts": false,
+        "updateSize": "",
+        "updateUrl": "",
+        "updateParts": [],
+        "dlcParts": [],
+        "downloadParts": []
+    },
+    {
+        "id": 563,
+        "title": "Daymare 1994 Sandcastle",
+        "platform": "ps5",
+        "genre": [
+            "action",
+            "shooter",
+            "horror",
+            "survival",
+            "arabic"
+        ],
+        "size": "25 GB",
+        "image": "..\/assets\/images\/Daymare_1994_Sandcastle.webp",
+        "sliderImage": "..\/assets\/images\/Daymare-1994-Sandcastle-1.webp",
+        "headerImage": "..\/assets\/images\/Daymare-1994-Sandcastle-1.webp",
+        "systemVersion": "5.05\/11.00",
+        "version": "1.04",
+        "gameCode": " CUSA17082 – EUR",
+        "story": "تدور أحداث Daymare: 1998 في مدينة أمريكية معزولة تتفشى فيها عدوى غامضة تحول السكان إلى مخلوقات مرعبة. تتحكم بعدة شخصيات لكل منها منظور مختلف للأحداث، مع تركيز كبير على الذخيرة المحدودة، إدارة الموارد، وحل الألغاز في أجواء رعب مستوحاة من ألعاب Resident Evil الكلاسيكية.",
+        "developer": "Invader Studios",
+        "publisher": "Destructive Creations \/ All in! Games",
+        "releaseDate": "17 سبتمبر 2019",
+        "rating": 7,
+        "password": "4GAMER",
+        "languages": [
+            {
+                "name": "العربية",
+                "code": "arabic",
+                "support": {
+                    "menu": false,
+                    "subtitles": true,
+                    "dubbed": false
+                }
+            },
+            {
+                "name": "الإنجليزية",
+                "code": "english",
+                "support": {
+                    "menu": true,
+                    "subtitles": false,
+                    "dubbed": true
+                }
+            }
+        ],
+        "downloadParts": [
+            {
+                "name": "جزء",
+                "size": "21.97 GB",
+                "url": "https:\/\/akirabox.to\/k0embQ29GVb4\/file"
+            }
+        ],
+        "updateParts": [
+            {
+                "name": "1.04",
+                "size": "15.03 GB",
+                "url": "https:\/\/akirabox.to\/LJlGnvQvG15w\/file"
+            },
+            {
+                "name": "1.04 (Fix 5.05)",
+                "size": "15.04",
+                "url": "https:\/\/akirabox.com\/wgWGqrNQm4oy\/file"
+            }
+        ],
+        "dlcParts": [],
+        "features": [],
+        "downloadUrl": "https:\/\/akirabox.to\/1RgzRQnb3bpB\/file",
+        "hasDownloadUrl": true,
+        "hasUpdate": true,
+        "updateSize": "1.04",
+        "updateUrl": "https:\/\/akirabox.com\/obj3jQgrmDxJ\/file",
+        "hasUpdate-fix": true,
+        "update-fixSize": "v1.04 (Fix 5.05)",
+        "update-fixUrl": "https:\/\/akirabox.com\/b5OzdQOlGB8L\/file",
+        "hasDLC": false,
+        "hasDownloadParts": true,
+        "hasUpdateParts": true,
+        "hasDLCParts": false,
+        "hasFeatures": false
+    },
+    {
+        "id": 564,
+        "title": "Watch Dogs 2",
+        "platform": "ps5",
+        "genre": [
+            "action",
+            "adventure",
+            "open-world",
+            "stealth",
+            "arabic"
+        ],
+        "size": "19.5 GB",
+        "image": "https:\/\/i.postimg.cc\/0ysHXfYX\/Watch-Dogs-2-1.jpg",
+        "sliderImage": "https:\/\/i.postimg.cc\/0N3FNZ7S\/Watch-Dogs-2-2.jpg",
+        "headerImage": "https:\/\/i.postimg.cc\/0N3FNZ7S\/Watch-Dogs-2-2.jpg",
+        "systemVersion": "5.05\/11.00",
+        "version": "1.01",
+        "gameCode": "CUSA06328 – EUR",
+        "story": "تدور أحداث Watch Dogs 2 في مدينة سان فرانسيسكو، حيث تلعب بدور الهاكر الشاب ماركوس هولواي ضمن مجموعة DedSec لإسقاط نظام المراقبة ctOS 2.0. اللعبة تقدم عالمًا مفتوحًا نابضًا بالحياة، مهمات متنوعة، اختراقًا متقدمًا للأجهزة، قيادة سيارات، وأسلوب لعب حر يعتمد على الذكاء أكثر من القوة.",
+        "developer": "Ubisoft Montreal",
+        "publisher": "Ubisoft ",
+        "releaseDate": "15 نوفمبر 2016",
+        "rating": 8,
+        "password": "4GAMER",
+        "languages": [
+            {
+                "name": "العربية",
+                "code": "arabic",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": false
+                }
+            }
+        ],
+        "downloadParts": [],
+        "updateParts": [],
+        "dlcParts": [],
+        "features": [],
+        "downloadUrl": "https:\/\/akirabox.com\/qPez4oBY3OYn\/file#4GAMER\/T.ME\/C9_91",
+        "hasDownloadUrl": true,
+        "hasUpdate": false,
+        "hasDLC": false,
+        "hasDownloadParts": false,
+        "hasUpdateParts": false,
+        "hasDLCParts": false,
+        "hasFeatures": false
+    },
+    {
+        "id": 565,
+        "title": "Resident Evil Village Gold Edition",
+        "platform": "ps5",
+        "genre": [
+            "action",
+            "shooter",
+            "horror",
+            "survival",
+            "arabic"
+        ],
+        "size": "35GB",
+        "image": "..\/assets\/images\/resv8vps5.jpg",
+        "sliderImage": "..\/assets\/images\/resident_evil_village.webp",
+        "headerImage": "..\/assets\/images\/resident_evil_village.webp",
+        "systemVersion": "5.05\/11.00",
+        "version": "1.13",
+        "gameCode": "CUSA18008​ – EUR",
+        "story": "Resident Evil Village تواصل قصة إيثان وينترز بعد أحداث الجزء السابع، حيث يجد نفسه في قرية أوروبية نائية تعج بالكائنات الغامضة والمخلوقات المتحولة. بعد اختطاف ابنته الطفلة، ينطلق إيثان في رحلة مروعة عبر القرية لمواجهة قوى مظلمة وأسرار غامضة يقودها زعماء مرعبون مثل ليدي ديميتريسكو. اللعبة تمزج بين الرعب الكلاسيكي والأكشن المكثف بأسلوب سينمائي وتجربة بصرية مذهلة على الجيل الجديد.\"\n",
+        "developer": "Capcom",
+        "publisher": "Capcom",
+        "releaseDate": "2021",
+        "rating": 8.699999999999999289457264239899814128875732421875,
+        "password": "4GAMER",
+        "languages": [
+            {
+                "name": "العربية",
+                "code": "arabic",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": false
+                }
+            }
+        ],
+        "downloadParts": [],
+        "updateParts": [],
+        "dlcParts": [],
+        "features": [],
+        "downloadUrl": "https:\/\/akirabox.com\/N2p3Dlon3Ma5\/file#4GAMER\/T.ME\/C9_91",
+        "hasDownloadUrl": true,
+        "hasUpdate": true,
+        "updateSize": "",
+        "updateUrl": "https:\/\/akirabox.com\/LK0G1olN3917\/file#4GAMER\/T.ME\/C9_91",
+        "hasUpdate-fix": true,
+        "update-fixSize": "(5.05 -6.72 -7.xx)",
+        "update-fixUrl": "https:\/\/akirabox.com\/l5YzMjxeGyOA\/file#4GAMER\/T.ME\/C9_91",
+        "hasDLC": true,
+        "dlcCount": 1,
+        "dlcName": "",
+        "dlcUrl": "https:\/\/akirabox.com\/0rpmvBkJmRgZ\/folder#4GAMER\/T.ME\/C9_91",
+        "hasDLC2": false,
+        "hasDownloadParts": false,
+        "hasUpdateParts": false,
+        "hasDLCParts": false,
+        "hasFeatures": false
+    },
+    {
+        "id": 566,
+        "title": "Resident evil 2 Remake",
+        "platform": "ps5",
+        "genre": [
+            "action",
+            "horror",
+            "survival",
+            "arabic"
+        ],
+        "size": "28 GB",
+        "image": "..\/assets\/images\/RESIV2REPS5.webp",
+        "sliderImage": "..\/assets\/images\/residentevil2.webp",
+        "headerImage": "..\/assets\/images\/residentevil2.webp",
+        "systemVersion": "5.05\/11.00",
+        "version": "1.003",
+        "gameCode": "CUSA09193 – EUR",
+        "story": "Resident Evil 2 Remake على PS5 تعيد إحياء الكلاسيكية الأسطورية بأسلوب حديث ومذهل. تدور الأحداث في مدينة راكون سيتي التي اجتاحها فيروس قاتل حول سكانها إلى زومبي. يتحكم اللاعب في ليون كينيدي وكلير ريدفيلد، اللذين يحاولان النجاة وكشف أسرار شركة أمبريلا الشريرة. النسخة المحسّنة على PS5 تقدم رسومات واقعية، إضاءة مذهلة، وأداء فائق يجعل تجربة الرعب أكثر غموضًا وتوتراً من أي وقت مضى.",
+        "developer": "Capcom",
+        "publisher": "Capcom",
+        "releaseDate": "2022",
+        "rating": 8,
+        "password": "4GAMER",
+        "languages": [
+            {
+                "name": "العربية",
+                "code": "arabic",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": false
+                }
+            }
+        ],
+        "downloadParts": [],
+        "updateParts": [],
+        "dlcParts": [],
+        "features": [],
+        "downloadUrl": "https:\/\/akirabox.com\/N2p3D4Jn3Ma5\/file",
+        "hasDownloadUrl": true,
+        "hasUpdate": true,
+        "updateSize": "",
+        "updateUrl": "https:\/\/akirabox.com\/Y2xm0vj9zRO1\/file",
+        "hasUpdate-fix": false,
+        "hasDLC": true,
+        "dlcCount": 1,
+        "dlcName": "",
+        "dlcUrl": "https:\/\/akirabox.com\/N2p3D4JA3Ma5\/folder",
+        "hasDLC2": false,
+        "hasDownloadParts": false,
+        "hasUpdateParts": false,
+        "hasDLCParts": false,
+        "hasFeatures": false,
+        "downloads": 1
+    },
+    {
+        "id": 567,
+        "title": "Resident evil 3 Remake",
+        "platform": "ps5",
+        "genre": [
+            "action",
+            "horror",
+            "survival",
+            "arabic"
+        ],
+        "size": "28 GB",
+        "image": "..\/assets\/images\/resv3ps5rem.webp",
+        "sliderImage": "..\/assets\/images\/residentevil3.webp",
+        "headerImage": "..\/assets\/images\/residentevil3.webp",
+        "systemVersion": "5.05\/11.00",
+        "version": "1.07",
+        "gameCode": "CUSA14168 – USA",
+        "story": "Resident Evil 3 Remake تعيد تقديم واحدة من أكثر قصص الرعب الكلاسيكية في تاريخ الألعاب بأسلوب سينمائي مذهل. تدور الأحداث في مدينة راكون سيتي المنهارة، حيث تحاول جيل فالنتاين النجاة من الكابوس وهي مطاردة من قبل المخلوق القاتل نيميسيس. تجمع اللعبة بين الأكشن والبقاء والرعب النفسي، مع تجربة مطورة بالكامل على محرك RE Engine الذي يمنحها تفاصيل واقعية وإضاءة مذهلة تجعل كل لحظة مليئة بالتوتر والخطر.\"",
+        "developer": "Capcom",
+        "publisher": "Capcom",
+        "releaseDate": "2022",
+        "rating": 8.300000000000000710542735760100185871124267578125,
+        "password": "4GAMER",
+        "languages": [
+            {
+                "name": "العربية",
+                "code": "arabic",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": false
+                }
+            }
+        ],
+        "downloadParts": [],
+        "updateParts": [],
+        "dlcParts": [],
+        "features": [],
+        "downloadUrl": "https:\/\/akirabox.com\/dkD3YQyl3LQK\/file#4GAMER\/T.ME\/C9_91",
+        "hasDownloadUrl": true,
+        "hasUpdate": true,
+        "updateSize": "",
+        "updateUrl": "https:\/\/akirabox.com\/dkD3YQjA3LQK\/file#4GAMER\/T.ME\/C9_91",
+        "hasUpdate-fix": false,
+        "hasDLC": true,
+        "dlcCount": 1,
+        "dlcName": "",
+        "dlcUrl": "https:\/\/akirabox.com\/Z9dzB64Mzk1b\/folder#4GAMER\/T.ME\/C9_91",
+        "hasDLC2": false,
+        "hasDownloadParts": false,
+        "hasUpdateParts": false,
+        "hasDLCParts": false,
+        "hasFeatures": false
+    },
+    {
+        "id": 568,
+        "title": "Resident Evil 7 biohazard Gold Edition",
+        "platform": "ps5",
+        "genre": [
+            "action",
+            "shooter",
+            "horror",
+            "survival",
+            "arabic"
+        ],
+        "size": "19.5 GB",
+        "image": "..\/assets\/images\/resv7glodps5.webp",
+        "sliderImage": "..\/assets\/images\/resident_evil_7.webp",
+        "headerImage": "..\/assets\/images\/resident_evil_7.webp",
+        "systemVersion": "5.05\/11.00",
+        "version": "1.11",
+        "gameCode": "CUSA03842 – EUR",
+        "story": "Resident Evil 7: Biohazard تعيد السلسلة إلى جذورها في الرعب الحقيقي بأسلوب منظور الشخص الأول. تدور القصة حول إيثان وينترز الذي يتلقى رسالة غامضة من زوجته المفقودة ميا، تقوده إلى مزرعة عائلة بيكر في لويزيانا. هناك، يكتشف كابوسًا من الجنون والدماء والمخلوقات المشوهة. اللعبة تمزج بين أجواء الرعب الكلاسيكي والتقنيات الحديثة لتقدم تجربة مرعبة وغامرة تجعل اللاعب يعيش الرعب بكل تفاصيله الواقعية والمخيفة.\"",
+        "developer": "Capcom",
+        "publisher": "Capcom",
+        "releaseDate": " 2022",
+        "rating": 9,
+        "password": "hako",
+        "languages": [
+            {
+                "name": "العربية",
+                "code": "arabic",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": false
+                }
+            }
+        ],
+        "downloadParts": [
+            {
+                "name": "اللعبة",
+                "size": "19.4 GB",
+                "url": "https:\/\/pastelink.net\/odr9t7vw"
+            }
+        ],
+        "updateParts": [
+            {
+                "name": "Update 1.11 Arabic Patch Fix 5.05 AND PLUS",
+                "size": "3.44 GB",
+                "url": "https:\/\/transfer.it\/t\/V7ke6pxRWBKI"
+            }
+        ],
+        "dlcParts": [
+            {
+                "name": "DLC Pack Gold",
+                "size": "13 GB",
+                "url": "https:\/\/transfer.it\/t\/XRD09ptzjJQC"
+            }
+        ],
+        "features": [],
+        "downloadUrl": "https:\/\/www.rootz.so\/d\/2CksL2",
+        "hasDownloadUrl": true,
+        "hasUpdate": true,
+        "updateSize": "Update 1.11 Arabic Patch Fix 5.05 AND PLUS",
+        "updateUrl": "https:\/\/www.rootz.so\/d\/1OFkky",
+        "hasUpdate-fix": false,
+        "hasDLC": true,
+        "dlcCount": null,
+        "dlcName": "DLC Pack Gold ",
+        "dlcUrl": "https:\/\/www.rootz.so\/d\/28iUi",
+        "hasDLC2": false,
+        "hasDownloadParts": true,
+        "hasUpdateParts": true,
+        "hasDLCParts": true,
+        "hasFeatures": false
+    },
+    {
+        "id": 569,
+        "title": "Resident evil 4 remake",
+        "platform": "ps5",
+        "genre": [
+            "action",
+            "horror",
+            "survival",
+            "arabic"
+        ],
+        "size": "27 GB",
+        "image": "..\/assets\/images\/revs4remkeps5.webp",
+        "sliderImage": "..\/assets\/images\/residentevil4.webp",
+        "headerImage": "..\/assets\/images\/residentevil4.webp",
+        "systemVersion": "5.05\/11.00",
+        "version": "1.11",
+        "gameCode": "CUSA33388 – EUR",
+        "story": "Resident Evil 4 Remake تعيد تقديم واحدة من أعظم ألعاب الرعب والأكشن في تاريخ الألعاب بأسلوب عصري مذهل. يعود ليون كينيدي، العميل الأمريكي، في مهمة لإنقاذ ابنة الرئيس من قرية غامضة في أوروبا حيث ينتشر طائفة خطيرة ومخلوقات مرعبة أصابها طفيلي غامض. تم إعادة بناء اللعبة بالكامل بمحرك RE Engine لتقديم رسوم واقعية، وإضاءة مذهلة، ونظام قتال محسّن يجمع بين الرعب والتكتيك والإثارة. إنها تجربة تجمع بين الحنين والمغامرة الحديثة بأسلوب لا يُنسى.\"",
+        "developer": "Capcom",
+        "publisher": "Capcom",
+        "releaseDate": "2024",
+        "rating": 10,
+        "password": "4GAMER",
+        "languages": [
+            {
+                "name": "العربية",
+                "code": "arabic",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": false
+                }
+            }
+        ],
+        "downloadParts": [],
+        "updateParts": [],
+        "dlcParts": [],
+        "features": [],
+        "downloadUrl": "https:\/\/akirabox.com\/LJlGnvRlG15w\/file#4GAMER\/T.ME\/C9_91",
+        "hasDownloadUrl": true,
+        "hasUpdate": true,
+        "updateSize": "Update v1.11 (9.00\/11.00)",
+        "updateUrl": "https:\/\/akirabox.com\/jar3XQvjz2dD\/file#4GAMER\/T.ME\/C9_91",
+        "hasUpdate-fix": true,
+        "update-fixSize": "Update v1.11 (Fix 5.05\/6.72\/7.xx\/8.xx)",
+        "update-fixUrl": "https:\/\/akirabox.com\/dkD3YQEA3LQK\/file#4GAMER\/T.ME\/C9_91",
+        "hasDLC": true,
+        "dlcCount": 1,
+        "dlcName": "",
+        "dlcUrl": "https:\/\/akirabox.com\/l76mZo7p3anY\/folder#4GAAMER\/T.ME\/C9_91",
+        "hasDLC2": false,
+        "hasDownloadParts": false,
+        "hasUpdateParts": false,
+        "hasDLCParts": false,
+        "hasFeatures": false
+    },
+    {
+        "id": 570,
+        "title": "WWE 2K24 .40 Years of WrestleMania",
+        "platform": "ps5",
+        "genre": [
+            "sports",
+            "fighting",
+            "simulation",
+            "arabic"
+        ],
+        "size": "44.01 GB",
+        "image": "..\/assets\/images\/wrestlemania3.webp",
+        "sliderImage": "..\/assets\/images\/WWE_2K24_.40_Years_of_WrestleMania-3.webp",
+        "headerImage": "..\/assets\/images\/WWE_2K24_.40_Years_of_WrestleMania-3.webp",
+        "systemVersion": "9.00\/11.00",
+        "version": "1.24\/1.05",
+        "gameCode": "CUSA43272 – EUR",
+        "story": "إصدار WWE 2K24 – 40 Years of WrestleMania يحتفل بتاريخ أعظم عرض مصارعة في العالم. يتضمن طور Showcase مخصص لأساطير WrestleMania، مع إعادة تمثيل أعظم النزالات التاريخية بأسلوب تفاعلي. كما يقدم تحسينات كبيرة في أسلوب اللعب، فيزياء الضرب، الأطوار الجماعية، وطور MyRise وMyGM وUniverse مع واقعية أعلى من أي وقت مضى.\nهذا الإصدار الخاص يحتوي على جميع الإضافات التاريخية لحلبات ومصارعين WrestleMania بالإضافة إلى مكافآت رقمية حصرية.",
+        "developer": "Visual Concepts",
+        "publisher": "2K Games",
+        "releaseDate": "March 8, 2024",
+        "rating": 8.4000000000000003552713678800500929355621337890625,
+        "password": "hako",
+        "languages": [
+            {
+                "name": "العربية",
+                "code": "arabic",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": false
+                }
+            }
+        ],
+        "downloadParts": [
+            {
+                "name": "اللعبة",
+                "size": "44 GB",
+                "url": "https:\/\/pastelink.net\/nflhckgg"
+            }
+        ],
+        "updateParts": [
+            {
+                "name": "Update 1.24 Arabic Patch Fix 11.00 AND PLUS",
+                "size": "30.9 GB",
+                "url": "https:\/\/pastelink.net\/7zm2rln4"
+            },
+            {
+                "name": "Update 1.24 Arabic Patch Fix 9.00 AND PLUS",
+                "size": "35 GB",
+                "url": "https:\/\/pastelink.net\/4snur788"
+            },
+            {
+                "name": "Update 1.24 Arabic Patch Fix 5.05 AND PLUS",
+                "size": "35 GB",
+                "url": "https:\/\/pastelink.net\/jyfy8c4t"
+            }
+        ],
+        "dlcParts": [
+            {
+                "name": "DLC Content",
+                "size": "1 MB",
+                "url": "https:\/\/www.mediafire.com\/file\/03t0fnsn2c78hb7\/WWE.2K24.v1.24.DLC.Pack.v5-CUSA43272.rar"
+            }
+        ],
+        "features": [],
+        "downloadUrl": "https:\/\/akirabox.com\/jJD3VLvyGa5Q\/file",
+        "hasDownloadUrl": true,
+        "hasUpdate": true,
+        "updateSize": "Update 1.24 Arabic Patch Fix 11.00 AND PLUS",
+        "updateUrl": "https:\/\/akirabox.com\/0rpmvL9azRgZ\/file",
+        "hasUpdate-fix": true,
+        "update-fixSize": "Update 1.24 Arabic Patch Fix 9.00 AND PLUS",
+        "update-fixUrl": "https:\/\/akirabox.com\/Zvqzl0kyzaD2\/file",
+        "hasDLC": true,
+        "dlcCount": 1,
+        "dlcName": "DLC (v5) ",
+        "dlcUrl": "https:\/\/akirabox.com\/1RgzRNyVzbpB\/file",
+        "hasDLC2": false,
+        "hasDownloadParts": true,
+        "hasUpdateParts": true,
+        "hasDLCParts": true,
+        "hasFeatures": false,
+        "downloads": 0
+    },
+    {
+        "id": 571,
+        "title": "Predator: Hunting Grounds",
+        "platform": "ps5",
+        "genre": [
+            "arabic",
+            "action",
+            "shooter",
+            "multiplayer",
+            "horror"
+        ],
+        "size": " 49GB",
+        "image": "..\/assets\/images\/Predator_Hunting_Grounds.webp",
+        "sliderImage": "..\/assets\/images\/Predator_Hunting_Grounds2.webp",
+        "headerImage": "..\/assets\/images\/Predator_Hunting_Grounds2.webp",
+        "systemVersion": "12.xx to 7.xx ",
+        "version": "v01.017 ",
+        "gameCode": "PPSA24179 – USA",
+        "story": "Predator: Hunting Grounds هي لعبة تصويب تنافسية غير متماثلة تدور في عالم Predator. يواجه فريق من أربعة جنود Fireteam لاعبًا يتحكم في Predator، حيث يجب على الفريق تنفيذ مجموعة من المهام العسكرية وإكمال أهدافه قبل الوصول إلى نقطة الاستخراج، بينما يحاول Predator تعقب أفراد الفريق والقضاء عليهم واحدًا تلو الآخر باستخدام قدراته وأسلحته المتقدمة.",
+        "developer": "IllFonic",
+        "publisher": "Sony Interactive Entertainment",
+        "releaseDate": "April 24, 2020",
+        "rating": 7.5,
+        "password": "DLPSGAME.COM",
+        "downloadUrl": "",
+        "hasDownloadUrl": false,
+        "languages": [
+            {
+                "name": "العربية",
+                "code": "arabic",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": false
+                }
+            },
+            {
+                "name": "الإنجليزية",
+                "code": "english",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": true
+                }
+            },
+            {
+                "name": "الفرنسية",
+                "code": "french",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": false
+                }
+            },
+            {
+                "name": "اليابانية",
+                "code": "japanese",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": false
+                }
+            }
+        ],
+        "hasUpdate": false,
+        "hasUpdate-fix": false,
+        "hasDLC": true,
+        "hasDLC2": false,
+        "hasUpdateParts": false,
+        "hasDLCParts": false,
+        "hasDownloadParts": false,
+        "updateParts": [],
+        "dlcParts": [],
+        "downloadParts": [],
+        "features": [
+            "لعب غير متماثل 4 ضد 1",
+            "اللعب كجندي Fireteam",
+            "اللعب بشخصية Predator",
+            "مهام وأهداف عسكرية متنوعة",
+            "أسلحة ومعدات متقدمة لفريق Fireteam",
+            "تقنيات Predator المتطورة",
+            "التخفي واستخدام البيئة للصيد",
+            "قدرات Predator مثل Thermal Vision",
+            "أسلحة Predator الشهيرة",
+            "معارك تنافسية عبر الإنترنت",
+            "تخصيص الشخصيات والأسلحة",
+            "محتوى إضافي وشخصيات مستوحاة من عالم Predator"
+        ],
+        "hasFeatures": true
+    }
+]

@@ -1,0 +1,794 @@
+[
+    {
+        "id": 15,
+        "title": "Metal Gear Solid V: The Phantom Pain",
+        "platform": "ps3",
+        "genre": [
+            "action",
+            "open-world",
+            "stealth"
+        ],
+        "size": "11.76 G",
+        "image": "https:\/\/i.postimg.cc\/DyKyZ5Yc\/Metal-Gear-Solid-VThe-Phantom-Pain.jpg",
+        "sliderImage": "https:\/\/i.postimg.cc\/65N53z10\/Metal-Gear-Solid-VThe-Phantom-Pain-PS3.jpg",
+        "headerImage": "https:\/\/i.postimg.cc\/65N53z10\/Metal-Gear-Solid-VThe-Phantom-Pain-PS3.jpg",
+        "systemVersion": "3.55.4.92",
+        "version": "1.003",
+        "gameCode": "PSN",
+        "story": "في Metal Gear Solid V: The Phantom Pain، استمتع بحرية التسلل في عالم مفتوح. قم ببناء قاعدتك الخاصة، جند جنودك، واختر أسلوبك في إنجاز المهام. اللعبة تقدم لعبًا مبتكرًا، قصة معقدة، ورسوميات رائعة.",
+        "developer": "Kojima Productions",
+        "publisher": "Konami",
+        "releaseDate": "1 سبتمبر 2015",
+        "rating": 8,
+        "password": "4GAMER",
+        "downloadUrl": "https:\/\/sto1.romsforever.co\/0:\/PS3-PSN\/Metal%20Gear%20Solid%20V%20-%20The%20Phantom%20Pain%20(Europe).zip?token=cHRbalhpRlBGEW9wXzhQZ15TQhd0fF92",
+        "hasUpdate": false,
+        "hasUpdate-fix": false,
+        "hasDLC": false,
+        "hasUpdateParts": false,
+        "hasDLCParts": false,
+        "hasDownloadParts": false,
+        "languages": [
+            {
+                "name": "الإنجليزية",
+                "code": "english",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": true
+                }
+            },
+            {
+                "name": "الفرنسية",
+                "code": "french",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": true
+                }
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "title": "Grand Theft Auto V",
+        "platform": "ps3",
+        "genre": [
+            "action",
+            "adventure"
+        ],
+        "size": "19GB ",
+        "image": "https:\/\/i.postimg.cc\/rpdKWsGC\/GTAV-PS3.jpg",
+        "sliderImage": "https:\/\/i.postimg.cc\/fyLscNwc\/GTAV-PS5.jpg",
+        "headerImage": "https:\/\/i.postimg.cc\/fyLscNwc\/GTAV-PS5.jpg",
+        "systemVersion": "3.55\/492",
+        "version": "1.003",
+        "gameCode": "PSN",
+        "story": "عش حياة ثلاثة لصوص مختلفين في مدينة لوس سانتوس المليئة بالفساد والجريمة. استكشف عالمًا مفتوحًا ضخمًا، قم بمهام متنوعة، واستمتع بوضع GTA Online الذي لا ينتهي. اللعبة تقدم حرية لا مثيل لها، سخرية اجتماعية حادة، وساعات لا نهائية من الترفيه.",
+        "developer": "Rockstar North",
+        "publisher": "Rockstar Games",
+        "releaseDate": "1 سبتمبر 2015",
+        "rating": 8,
+        "password": "4GAMER",
+        "downloadUrl": "https:\/\/sto1.romsforever.co\/0:\/PS3-PSN\/Grand%20Theft%20Auto%20V%20(USA).zip?token=cHRbalhpRlBGEW9wXzhQZ15TQhd0dF1z",
+        "hasUpdate": false,
+        "hasUpdate-fix": false,
+        "hasDLC": false,
+        "hasUpdateParts": false,
+        "hasDLCParts": false,
+        "hasDownloadParts": false,
+        "languages": [
+            {
+                "name": "الإنجليزية",
+                "code": "english",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": true
+                }
+            },
+            {
+                "name": "الفرنسية",
+                "code": "french",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": true
+                }
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "title": "Metal Gear Solid 4 Guns of the Patriots",
+        "platform": "ps3",
+        "genre": [
+            "action",
+            "adventure",
+            "stealth"
+        ],
+        "size": "26.64 GB",
+        "image": "https:\/\/i.postimg.cc\/Gmfv6ZqX\/Metal-Gear-Solid-4-Guns-of-the-Patriots.jpg",
+        "sliderImage": "https:\/\/i.postimg.cc\/vZK5Cp3q\/Metal-Gear-Solid-4-Guns-of-the-Patriot-S-PS3.jpg",
+        "headerImage": "https:\/\/i.postimg.cc\/vZK5Cp3q\/Metal-Gear-Solid-4-Guns-of-the-Patriot-S-PS3.jpg",
+        "systemVersion": "3.55\/4.92",
+        "version": "2.00",
+        "gameCode": "PSN",
+        "story": "في Metal Gear Solid 4: Guns of the Patriots، يتولى اللاعب دور Solid Snake المتقدم في السن والذي يُعرف الآن بـ “Old Snake”، في مهمة أخيرة لإنهاء صراع طويل مع Liquid Snake\/​Liquid Ocelot والسيطرة على شبكة “Sons of the Patriots”. تدور الأحداث في عالم مُتقلب تسيطر عليه شركات PMC، ويُمثّل النهاية الكبرى لحقبة Snake.",
+        "developer": "Kojima Productions",
+        "publisher": "KONAMI",
+        "releaseDate": "12 يونيو 2008",
+        "rating": 8.7,
+        "password": "4GAMER",
+        "downloadUrl": "https:\/\/sto1.romsforever.co\/0:\/PS3-PSN\/Metal%20Gear%20Solid%204%20-%20Guns%20of%20the%20Patriots%20(Europe).zip?token=cHRbalhpRlBGEW9wXzhQZ15TQhd5c151",
+        "hasUpdate": false,
+        "hasUpdate-fix": false,
+        "hasDLC": false,
+        "hasUpdateParts": false,
+        "hasDLCParts": false,
+        "hasDownloadParts": false,
+        "languages": [
+            {
+                "name": "الإنجليزية",
+                "code": "english",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": true
+                }
+            },
+            {
+                "name": "الفرنسية",
+                "code": "french",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": true
+                }
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Grand Theft Auto IV ",
+        "platform": "ps3",
+        "genre": [
+            "action",
+            "adventure",
+            "open-world"
+        ],
+        "size": "10.27GB",
+        "image": "https:\/\/i.postimg.cc\/Nfgw90RC\/Grand-Theft-Auto-IV.jpg",
+        "sliderImage": "https:\/\/i.postimg.cc\/4NJT73pF\/Grand-Theft-Auto-IV-ps3.jpg",
+        "headerImage": "https:\/\/i.postimg.cc\/4NJT73pF\/Grand-Theft-Auto-IV-ps3.jpg",
+        "systemVersion": "3.55\/4.92",
+        "version": "2.00",
+        "gameCode": "PSN",
+        "story": "تدور أحداث اللعبة في مدينة ليبرتي سيتي الخيالية، وتتبّع قصة المهاجر الشرقي نيكو بيليك (Niko Bellic) الذي يأتي بحثًا عن الحلم الأمريكي، لكن سرعان ما يجد نفسه عالقًا في دوامة الجريمة والخداع. اللعبة تقدم تجربة عالم مفتوح متطورة تقنيًا وتعد من أبرز ألعاب جيل PS3 وXbox 360 بفضل قصتها العميقة وأسلوبها الواقعي.\"",
+        "developer": "Rockstar North",
+        "publisher": "Rockstar Games",
+        "releaseDate": "29 ابريل  2008",
+        "rating": 8.8,
+        "password": "4GAMER",
+        "downloadUrl": "https:\/\/sto1.romsforever.co\/0:\/PS3-PSN\/Grand%20Theft%20Auto%20IV%20(Europe)%20(v2.00).zip?token=cHRbalhpRlBGEW9wXzhQZ15TQhZ0dl5w",
+        "hasUpdate": false,
+        "hasUpdate-fix": false,
+        "hasDLC": false,
+        "hasUpdateParts": false,
+        "hasDLCParts": false,
+        "hasDownloadParts": false,
+        "languages": [
+            {
+                "name": "الإنجليزية",
+                "code": "english",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": true
+                }
+            },
+            {
+                "name": "الفرنسية",
+                "code": "french",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": true
+                }
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "title": "Watch_Dogs",
+        "platform": "ps3",
+        "genre": [
+            "action",
+            "adventure",
+            "open-world",
+            "stealth"
+        ],
+        "size": "16.61 GB",
+        "image": "https:\/\/i.postimg.cc\/FFYTPXmW\/Watch-Dogs-1-PS3.jpg",
+        "sliderImage": "https:\/\/i.postimg.cc\/SR97mqxc\/Watch-Dogs-PS3.jpg",
+        "headerImage": "https:\/\/i.postimg.cc\/SR97mqxc\/Watch-Dogs-PS3.jpg",
+        "systemVersion": "3.55\/4.92",
+        "version": "1.01",
+        "gameCode": "PSN",
+        "story": "تدور أحداث Watch Dogs في مدينة شيكاغو الذكية، حيث تتحكّم شبكة ctOS بكل البنى التحتية والخدمات. تلعب دور هاكر يُدعى Aiden Pearce يسعى للانتقام بعد حادث مأساوي في عائلته، مستخدماً هاتفه الذكي لاختراق كل ما حوله، من كاميرات الشوارع إلى إشارات المرور والسيارات، في تجربة حرية واسعة ومليئة بالمواجهة.\"",
+        "developer": "Ubisoft Montreal",
+        "publisher": "Ubisoft ",
+        "releaseDate": "27 مايو 2014",
+        "rating": 7.8,
+        "password": "4GAMER",
+        "downloadUrl": "https:\/\/sto1.romsforever.co\/0:\/PS3-PSN\/Watch_Dogs%20(Europe).zip?token=cHRbalhpRlBGEW9wXzhQZ15TQhZ3cFt8",
+        "hasUpdate": false,
+        "hasUpdate-fix": false,
+        "hasDLC": false,
+        "hasUpdateParts": false,
+        "hasDLCParts": false,
+        "hasDownloadParts": false,
+        "languages": [
+            {
+                "name": "الإنجليزية",
+                "code": "english",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": true
+                }
+            },
+            {
+                "name": "الفرنسية",
+                "code": "french",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": true
+                }
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "title": "Need for Speed: Most Wanted",
+        "platform": "ps3",
+        "genre": [
+            "open-world",
+            "racing"
+        ],
+        "size": "4.36GB",
+        "image": "https:\/\/i.postimg.cc\/tRvLTzCg\/Need-for-Speed-Most-Wanted-PS3.jpg",
+        "sliderImage": "https:\/\/i.postimg.cc\/J7Y9nQ40\/Need-for-Speed-Most-Wanted.jpg",
+        "headerImage": "https:\/\/i.postimg.cc\/J7Y9nQ40\/Need-for-Speed-Most-Wanted.jpg",
+        "systemVersion": "3.55\/4.92",
+        "version": "1.01",
+        "gameCode": "PSN",
+        "story": "ارْكض في عالم مفتوح ضخم، استعرض سيارات فخمة، تجنّب الشرطة، وارتقِ عبر قائمة الـ \\\"Most Wanted\\\" لتصبح الأبرز في الشوارع.\"",
+        "developer": "Criterion Games",
+        "publisher": "Electronic Arts",
+        "releaseDate": "30أكتوبر 2012",
+        "rating": 8.6,
+        "password": "4GAMER",
+        "downloadUrl": "https:\/\/sto1.romsforever.co\/0:\/PS3-PSN\/Need%20for%20Speed%20-%20Most%20Wanted%20(Europe).zip?token=cHRbalhpRlBGEW9wXzhQZ15TQhZ2cF9z",
+        "hasUpdate": false,
+        "hasUpdate-fix": false,
+        "hasDLC": false,
+        "hasUpdateParts": false,
+        "hasDLCParts": false,
+        "hasDownloadParts": false,
+        "languages": [
+            {
+                "name": "الإنجليزية",
+                "code": "english",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": true
+                }
+            },
+            {
+                "name": "الفرنسية",
+                "code": "french",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": true
+                }
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "title": "inFAMOUS",
+        "platform": "ps3",
+        "genre": [
+            "action",
+            "adventure",
+            "open-world",
+            "stealth"
+        ],
+        "size": "6.89 GB",
+        "image": "https:\/\/i.postimg.cc\/SxLXkR74\/in-FAMOUS.jpg",
+        "sliderImage": "https:\/\/i.postimg.cc\/g2ywmjqm\/in-FAMOUS-PS3.jpg",
+        "headerImage": "https:\/\/i.postimg.cc\/g2ywmjqm\/in-FAMOUS-PS3.jpg",
+        "systemVersion": "3.55\/4.92",
+        "version": "2.00",
+        "gameCode": " NPEA00252",
+        "story": "داخل مدينة إف إمباير سيتي الخيالية، يُحطم انفجار ضخم ستة مربّعات ويمنح راسِل دراجة اسمه كول مكغراث قوى كهربائية مذهلة. الآن يقف أمام خيارين: أن يصبح بطلاً ينقذ المظلومين، أو أن يستغل قدراته لترويع المدينة والسيطرة عليها. في هذا العالم المفتوح، كلّ قرار تتخذه له تأثير على الناس والحوار والمآلات.\"",
+        "developer": "Sucker Punch",
+        "publisher": "Sony Computer Entertainment",
+        "releaseDate": "26 مايو 2009",
+        "rating": 8.5,
+        "password": "4GAMER",
+        "downloadUrl": "https:\/\/sto1.romsforever.co\/0:\/PS3-PSN\/inFamous%20(Europe)%20(NPEA00252).zip?token=cHRbalhpRlBGEW9wXzhQZ15TQhZ4fFx0",
+        "hasUpdate": false,
+        "hasUpdate-fix": false,
+        "hasDLC": false,
+        "hasUpdateParts": false,
+        "hasDLCParts": false,
+        "hasDownloadParts": false,
+        "languages": [
+            {
+                "name": "الإنجليزية",
+                "code": "english",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": true
+                }
+            },
+            {
+                "name": "الفرنسية",
+                "code": "french",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": false
+                }
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "title": "inFAMOUS 2",
+        "platform": "ps3",
+        "genre": [
+            "action",
+            "adventure",
+            "open-world"
+        ],
+        "size": "14.05GB",
+        "image": "https:\/\/i.postimg.cc\/wMSSf67J\/in-FAMOUS-2.jpg",
+        "sliderImage": "https:\/\/i.postimg.cc\/GtZZ7cHG\/in-FAMOUS-2-PS3.jpg",
+        "headerImage": "https:\/\/i.postimg.cc\/GtZZ7cHG\/in-FAMOUS-2-PS3.jpg",
+        "systemVersion": "3.55\/4.92",
+        "version": "1.00",
+        "gameCode": "PSN",
+        "story": "بعد أحداث الجزء الأول، يتوجّه كول مكغراث إلى مدينة نيو ماريس لمواجهة أكثر تهديدات القوى الكهربية خطورة واللقاء بأعدائه القديمين والجدد. الاختيارات الأخلاقية بين الخير والشر تؤثر بشكل جوهري في مجريات القصة والقدرات التي يكتسبها كول.\"",
+        "developer": "Sucker Punch",
+        "publisher": "Sony Computer Entertainment",
+        "releaseDate": "7 يونيو 2011",
+        "rating": 8.5,
+        "password": "4GAMER",
+        "downloadUrl": "https:\/\/sto1.romsforever.co\/0:\/PS3-PSN\/inFamous%202%20(Europe).zip?token=cHRbalhpRlBGEW9wXzhQZ15TQhlzdFpz",
+        "hasUpdate": false,
+        "hasUpdate-fix": false,
+        "hasDLC": false,
+        "hasUpdateParts": false,
+        "hasDLCParts": false,
+        "hasDownloadParts": false,
+        "languages": [
+            {
+                "name": "الإنجليزية",
+                "code": "english",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": true
+                }
+            },
+            {
+                "name": "الفرنسية",
+                "code": "french",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": true
+                }
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "title": "Uncharted Drake’s Fortune",
+        "platform": "ps3",
+        "genre": [
+            "action",
+            "adventure",
+            "stealth"
+        ],
+        "size": "17.3 GB",
+        "image": "https:\/\/i.postimg.cc\/02Zb2rhK\/Uncharted-Drake-s-Fortune.jpg",
+        "sliderImage": "https:\/\/i.postimg.cc\/zXpVX34g\/Uncharted-Drake-s-Fortune-ps3.jpg",
+        "headerImage": "https:\/\/i.postimg.cc\/zXpVX34g\/Uncharted-Drake-s-Fortune-ps3.jpg",
+        "systemVersion": "3.55\/4.92",
+        "version": "1.00",
+        "gameCode": "PSN",
+        "story": "تدور أحداث اللعبة حول المغامر ناثان كريك (Nathan Drake)، المَنسب – وفق اللعبة – إلى المستكشف السير فرانسيس دريك، والذي ينطلق في رحلة بحث عن الكنز المفقود \\\"إل دورادو\\\" على جزيرة غامضة، بمساعدة الصحفية إلينا فيشر ومرشده فيكتور سوليفان. على مدى القصة، يواجه أعداء، مخلّفات أثرية خطيرة وتمثالاً غامضاً، ويكتشف أن ما بدا كبحث عن المال سرعان ما يتحول إلى صراع من أجل البقاء. اللعبة عُرِفت بأسلوبها السينمائي، البيئة الضخمة، والتقنيات التي حطّمت توقعات الجيل عند إصدارها.\"\n",
+        "developer": "Naughty Dog",
+        "publisher": "Sony Interactive Entertainment",
+        "releaseDate": "19 نوفمبر 2007",
+        "rating": 9,
+        "password": "4GAMER",
+        "downloadUrl": "https:\/\/sto1.romsforever.co\/0:\/PS3-PSN\/Uncharted%20-%20Drakes%20Fortune%20(Europe).zip?token=cHRbalhpRlBGEW9wXzhQZ15TQxB5clpw",
+        "hasUpdate": false,
+        "hasUpdate-fix": false,
+        "hasDLC": false,
+        "hasUpdateParts": false,
+        "hasDLCParts": false,
+        "hasDownloadParts": false,
+        "languages": [
+            {
+                "name": "الإنجليزية",
+                "code": "english",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": true
+                }
+            },
+            {
+                "name": "الفرنسية",
+                "code": "french",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": true
+                }
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "title": "Uncharted 3: Drake's Deception-GOTY",
+        "platform": "ps3",
+        "genre": [
+            "action",
+            "adventure",
+            "stealth"
+        ],
+        "size": "45GB",
+        "image": "https:\/\/i.postimg.cc\/q7m74FFw\/Uncharted-3-Drake-s-Deception-GOTY-PS3.jpg",
+        "sliderImage": "https:\/\/i.postimg.cc\/5tPtbrrn\/Uncharted-3-Drake-s-Deception-GOTY.jpg",
+        "headerImage": "https:\/\/i.postimg.cc\/5tPtbrrn\/Uncharted-3-Drake-s-Deception-GOTY.jpg",
+        "systemVersion": "3.55\/4.92",
+        "version": "1.00",
+        "gameCode": "ISO",
+        "story": "في Uncharted 3: Drake’s Deception، ينطلق ناثان دريك ومرشده فيكتور سوليفان في رحلة ملحمية إلى قلب صحراء الربخي (Rub’ al Khali) بحثاً عن المدينة الأسطورية \\\"إيرام الأعمدة\\\"، لكن الأمور تنقلب إلى سباق للبقاء والكشف عن مؤامرة سرّية قديمة. اللعبة تقدم مزيجاً من الأكشن السينمائي، التسلل الخفي، والمغامرات الكبرى.\"\n",
+        "developer": "Naughty Dog",
+        "publisher": "Sony Interactive Entertainment",
+        "releaseDate": "1 نوفمبر 2011",
+        "rating": 9,
+        "password": "4GAMER",
+        "downloadUrl": "https:\/\/sto.romsfast.com\/PS3-DEC\/Uncharted%203%20-%20Drakes%20Deception%20-%20Game%20of%20the%20Year%20Edition%20(Europe)%20(EnFrDeEsItNlPtSvNoDaFiPlRuElCsTr).zip?token=cHRbalhpRlBGEW9wXzhQZ15TQxB5fVB8",
+        "hasUpdate": false,
+        "hasUpdate-fix": false,
+        "hasDLC": false,
+        "hasUpdateParts": false,
+        "hasDLCParts": false,
+        "hasDownloadParts": false,
+        "languages": [
+            {
+                "name": "الإنجليزية",
+                "code": "english",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": true
+                }
+            },
+            {
+                "name": "الفرنسية",
+                "code": "french",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": true
+                }
+            }
+        ]
+    },
+    {
+        "id": 50,
+        "title": "Uncharted 2: Among Thieves",
+        "platform": "ps3",
+        "genre": [
+            "action",
+            "adventure",
+            "stealth"
+        ],
+        "size": "\t18.63 GB",
+        "image": "https:\/\/i.postimg.cc\/J4tv223t\/Uncharted-2-Among-Thieves.jpg",
+        "sliderImage": "https:\/\/i.postimg.cc\/RVqyDD1N\/Uncharted-2-Among-Thieves-PS3.jpg",
+        "headerImage": "https:\/\/i.postimg.cc\/RVqyDD1N\/Uncharted-2-Among-Thieves-PS3.jpg",
+        "systemVersion": "3.55\/4.92",
+        "version": "1.00",
+        "gameCode": "NPEA00364",
+        "story": "يعود ناثان دريك في رحلة ملحمية بحثاً عن الإكسير القديم \\\"شجرة الصوفيّة\\\" وسط جبال الهيمالايا وأدغال بورنيو، حيث يتعاون مع فريق صغير لمواجهة عصابة مرتزقة تسعى لاستغلال القوة القديمة. تجمع اللعبة بين معارك مسلّحة، تسلّل، ألغاز وخلفيات سينمائية ضخمة في واحدة من أعظم التجارب الحصرية على PS3.\"\n",
+        "developer": "Naughty Dog",
+        "publisher": "Sony Interactive Entertainment",
+        "releaseDate": "13 أكتوبر 2009",
+        "rating": 9,
+        "password": "4GAMER",
+        "downloadUrl": "https:\/\/sto1.romsforever.co\/0:\/PS3-PSN\/Uncharted%202%20-%20Among%20Thieves%20(Europe)%20(NPEA00364).zip?token=cHRbalhpRlBGEW9wXzhQZ15TQxNxdlh2",
+        "hasUpdate": false,
+        "hasUpdate-fix": false,
+        "hasDLC": false,
+        "hasUpdateParts": false,
+        "hasDLCParts": false,
+        "hasDownloadParts": false,
+        "languages": [
+            {
+                "name": "الإنجليزية",
+                "code": "english",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": true
+                }
+            },
+            {
+                "name": "الفرنسية",
+                "code": "french",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": true
+                }
+            }
+        ]
+    },
+    {
+        "id": 51,
+        "title": "God of War: Ascension",
+        "platform": "ps3",
+        "genre": [
+            "action",
+            "adventure",
+            "hack-and-slash"
+        ],
+        "size": "34.78GB",
+        "image": "https:\/\/i.postimg.cc\/qR4yNWMf\/god-of-war-ascension-PS3.jpg",
+        "sliderImage": "https:\/\/i.postimg.cc\/zB8Ky4Xr\/god-of-war-ascension.jpg",
+        "headerImage": "https:\/\/i.postimg.cc\/zB8Ky4Xr\/god-of-war-ascension.jpg",
+        "systemVersion": "3.55\/4.92",
+        "version": "1.01",
+        "gameCode": "ISO",
+        "story": "في God of War: Ascension نعود إلى أصل غضب كراتوس، بعد أن كسر يمين الدم الذي ربطه بالإله آريس، وينطلق في سبيل حرّيته وإنقاذ نفسه من لعنة التي ستلاحقه. ستخوض معارك ضارية ضد مخلوقات الأساطير وتواجه الفوريّات في مغامرة تتوسّط بين الانتقام والبقاء.\"",
+        "developer": " SCE Santa Monica Studio ",
+        "publisher": "Sony Interactive Entertainment",
+        "releaseDate": "12 مارس 2013",
+        "rating": 8.7,
+        "password": "4GAMER",
+        "downloadUrl": "https:\/\/sto.romsfast.com\/PS3-DEC\/God%20of%20War%20-%20Ascension%20(Europe%20Australia)%20(EnFrDeEsItNlPtPlRuElTr).zip?token=cHRbalhpRlBGEW9wXzhQZ15TQxNxfF10",
+        "hasUpdate": false,
+        "hasUpdate-fix": false,
+        "hasDLC": false,
+        "hasUpdateParts": false,
+        "hasDLCParts": false,
+        "hasDownloadParts": false,
+        "languages": [
+            {
+                "name": "الإنجليزية",
+                "code": "english",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": true
+                }
+            },
+            {
+                "name": "الفرنسية",
+                "code": "french",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": true
+                }
+            }
+        ]
+    },
+    {
+        "id": 52,
+        "title": "God of War III",
+        "platform": "ps3",
+        "genre": [
+            "action",
+            "adventure",
+            "hack-and-slash"
+        ],
+        "size": "34.68GB",
+        "image": "https:\/\/i.postimg.cc\/rmH4fsC9\/god-of-war-3.jpg",
+        "sliderImage": "https:\/\/i.postimg.cc\/9Mk9L0tb\/god-of-war-3-PS3.jpg",
+        "headerImage": "https:\/\/i.postimg.cc\/9Mk9L0tb\/god-of-war-3-PS3.jpg",
+        "systemVersion": "3.55-4.92",
+        "version": "2.00",
+        "gameCode": "ISO",
+        "story": "في God of War III، يخوض بطلك كراتوس معركة خالدة ضد آلهة الأوليمبوس في معركة نهائية ملحمية، حيث يجمع بين الضراوة والتصميم السينمائي لتحقيق انتقامه وإنهاء حقبة الأساطير. اللعبة معروفة بحجمها الكبير على مستوى الإخراج والمعارك ضد الآلهة التي لا تُنسى.\"",
+        "developer": " SCE Santa Monica Studio",
+        "publisher": "Sony Computer Entertainment",
+        "releaseDate": "16 مارس 2010",
+        "rating": 9,
+        "password": "4GAMER",
+        "downloadUrl": "https:\/\/sto.romsfast.com\/PS3-DEC\/God%20of%20War%20III%20(USA)%20(v02.00).zip?token=cHRbalhpRlBGEW9wXzhQZ15TQxNwc152",
+        "hasUpdate": false,
+        "hasUpdate-fix": false,
+        "hasDLC": false,
+        "hasUpdateParts": false,
+        "hasDLCParts": false,
+        "hasDownloadParts": false,
+        "languages": [
+            {
+                "name": "الإنجليزية",
+                "code": "english",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": true
+                }
+            }
+        ]
+    },
+    {
+        "id": 53,
+        "title": "God of War Collection",
+        "platform": "ps3",
+        "genre": [
+            "action",
+            "adventure",
+            "hack-and-slash"
+        ],
+        "size": "21.77 GB",
+        "image": "https:\/\/i.postimg.cc\/3xJvQzrb\/God-of-War-Collection-PS3.jpg",
+        "sliderImage": "https:\/\/i.postimg.cc\/L861FG4W\/God-of-War-Collection.jpg",
+        "headerImage": "https:\/\/i.postimg.cc\/L861FG4W\/God-of-War-Collection.jpg",
+        "systemVersion": "3.55\/4.92",
+        "version": "1.01",
+        "gameCode": "ISO-Europe ",
+        "story": "في God of War، تبدأ رحلـة كراتوس، المحارب الإغريقي الذي يبيع نفسه للآلهة لينتقم من أرس (Ares)، إله الحرب، بعد أن وقع في فخ الخيانة. تنطلق في مغامرة أسطورية مستوحاة من الأساطير اليونانية، في صراع دموي ومليء بالوحوش والآلهة.\"\n \"في God of War II، يُغدر بكراتوس من قِبل زيوس، ويُسلب ألقابه الإلهية ثم يُنقذه تايتان غايا. تبدأ رحلة كراتوس لاستعادة قواه والانتقام من زيوس، في مغامرة أكبر وأعنف عبر الزمن والأساطير.\"",
+        "developer": "Bluepoint Games , SCE Santa Monica Studio",
+        "publisher": "Sony Interactive Entertainment",
+        "releaseDate": "17 نوفمبر 2009",
+        "rating": 8.8,
+        "password": "4GAMER",
+        "downloadUrl": "https:\/\/sto.romsfast.com\/PS3-DEC\/God%20of%20War%20Collection%20(Europe)%20(EnFrDeEsItRu).zip?token=cHRbalhpRlBGEW9wXzhQZ15TQxNydll2",
+        "hasUpdate": false,
+        "hasUpdate-fix": false,
+        "hasDLC": false,
+        "hasUpdateParts": false,
+        "hasDLCParts": false,
+        "hasDownloadParts": false,
+        "languages": [
+            {
+                "name": "الإنجليزية",
+                "code": "english",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": true
+                }
+            },
+            {
+                "name": "الفرنسية",
+                "code": "french",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": true
+                }
+            }
+        ]
+    },
+    {
+        "id": 54,
+        "title": "God of War Origins Collection",
+        "platform": "ps3",
+        "genre": [
+            "action",
+            "adventure",
+            "hack-and-slash"
+        ],
+        "size": "15.71 GB",
+        "image": "https:\/\/i.postimg.cc\/ZKJc0754\/God-of-War-Origins-Collection.jpg",
+        "sliderImage": "https:\/\/i.postimg.cc\/5NpmzB6r\/God-of-War-Origins-Collection-PS3.jpg",
+        "headerImage": "https:\/\/i.postimg.cc\/5NpmzB6r\/God-of-War-Origins-Collection-PS3.jpg",
+        "systemVersion": "3.55\/4.92",
+        "version": "1.01",
+        "gameCode": "ISO-USA",
+        "story": "في God of War: Chains of Olympus، يخدم كراتوس الآلهة في أولى مهامه بعد عقدٍ من الخدمة، وينطلق في مهمة لإنقاذ هيستيا من النوم الأبدي الذي حلّ بالآلهة، في مغامرة محمولة تُجسّد روح God of War على جهاز الـ PSP بدقة عالية.\"\n \"في God of War: Ghost of Sparta، يتابع كراتوس رحلته بعد أن أصبح إله الحرب، ويبحث عن أخيه دييموس في عالمٍ تحت الأرض مليء بالوحوش والآلهة القديمة، في تجربة محمولة غنية بالإثارة والمعارك الأسطورية.\"",
+        "developer": "Bluepoint Games , SCE Santa Monica Studio",
+        "publisher": "Sony Interactive Entertainment",
+        "releaseDate": "13 سبتمبر 2011",
+        "rating": 8,
+        "password": "4GAMER",
+        "downloadUrl": "https:\/\/sto.romsfast.com\/PS3-DEC\/God%20of%20War%20-%20Origins%20Collection%20(USA)%20(EnFrEs).zip?token=cHRbalhpRlBGEW9wXzhQZ15TQxN1dltw",
+        "hasUpdate": false,
+        "hasUpdate-fix": false,
+        "hasDLC": false,
+        "hasUpdateParts": false,
+        "hasDLCParts": false,
+        "hasDownloadParts": false,
+        "languages": [
+            {
+                "name": "الإنجليزية",
+                "code": "english",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": true
+                }
+            },
+            {
+                "name": "الفرنسية",
+                "code": "french",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": true
+                }
+            }
+        ]
+    },
+    {
+        "id": 55,
+        "title": "Red Dead Redemption",
+        "platform": "ps3",
+        "genre": [
+            "action",
+            "adventure",
+            "open-world",
+            "shooter"
+        ],
+        "size": "6.84GB",
+        "image": "https:\/\/i.postimg.cc\/RC7kjDDg\/red-dead-redemption-PS3.jpg",
+        "sliderImage": "https:\/\/i.postimg.cc\/HWwqfhhS\/red-dead-redemption.jpg",
+        "headerImage": "https:\/\/i.postimg.cc\/HWwqfhhS\/red-dead-redemption.jpg",
+        "systemVersion": "3.55\/4.92",
+        "version": "1.01",
+        "gameCode": "ISO-Europe ",
+        "story": "تدور أحداث اللعبة في نهاية عصر الغرب الأميركي، حيث يُجبر الخارج عن القانون جون مارستون (John Marston) على مطاردة عصابته السابقة لاستعادة حياته وعائلته. عِش تجربة فريدة في عالمٍ مفتوح شاسع مليء بالمخاطر، المكاسب، الانتقام، وخيار الحياة أو الموت.\"",
+        "developer": "Rockstar San Diego",
+        "publisher": "Rockstar Games",
+        "releaseDate": "18 مايو 2010",
+        "rating": 8.5,
+        "password": "4GAMER",
+        "downloadUrl": "https:\/\/sto.romsfast.com\/PS3-DEC\/Red%20Dead%20Redemption%20(Europe)%20(EnFrDeEsIt).zip?token=cHRbalhpRlBGEW9wXzhQZ15TQxN1fFl2",
+        "hasUpdate": false,
+        "hasUpdate-fix": false,
+        "hasDLC": false,
+        "hasUpdateParts": false,
+        "hasDLCParts": false,
+        "hasDownloadParts": false,
+        "languages": [
+            {
+                "name": "الإنجليزية",
+                "code": "english",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": true
+                }
+            },
+            {
+                "name": "الفرنسية",
+                "code": "french",
+                "support": {
+                    "menu": true,
+                    "subtitles": true,
+                    "dubbed": true
+                }
+            }
+        ]
+    }
+]

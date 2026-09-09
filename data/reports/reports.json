@@ -1,0 +1,135 @@
+[
+    {
+        "id": "693725767907f",
+        "game_id": 58,
+        "game_title": "\u063a\u064a\u0631 \u0645\u0639\u0631\u0648\u0641",
+        "reason": "corrupted_file",
+        "details": "cvbc",
+        "date": "2025-12-08 20:22:30",
+        "ip": "127.0.0.1",
+        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/143.0.0.0 Safari\/537.36"
+    },
+    {
+        "id": "69373263b408b",
+        "game_id": 58,
+        "game_title": "Little Nightmares III Deluxe Edition",
+        "reason": "broken_link",
+        "details": "ddddd",
+        "date": "2025-12-08 21:17:39",
+        "status": "pending",
+        "ip": "127.0.0.1",
+        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/143.0.0.0 Safari\/537.36"
+    },
+    {
+        "id": "69373310a42b0",
+        "game_id": 58,
+        "game_title": "\u063a\u064a\u0631 \u0645\u0639\u0631\u0648\u0641",
+        "reason": "broken_link",
+        "details": "zzzzzzzzzzzzzzzzzzzzzzz",
+        "date": "2025-12-08 21:20:32",
+        "ip": "127.0.0.1",
+        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/143.0.0.0 Safari\/537.36"
+    },
+    {
+        "id": "69373310a776f",
+        "game_id": 58,
+        "game_title": "Little Nightmares III Deluxe Edition",
+        "reason": "broken_link",
+        "details": "zzzzzzzzzzzzzzzzzzzzzzz",
+        "date": "2025-12-08 21:20:32",
+        "status": "pending",
+        "ip": "127.0.0.1",
+        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/143.0.0.0 Safari\/537.36"
+    },
+    {
+        "id": "6937333a9d5c5",
+        "game_id": 58,
+        "game_title": "\u063a\u064a\u0631 \u0645\u0639\u0631\u0648\u0641",
+        "reason": "broken_link",
+        "details": "zzzzzzzzzzzzzzzzzzzzz",
+        "date": "2025-12-08 21:21:14",
+        "ip": "127.0.0.1",
+        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/143.0.0.0 Safari\/537.36"
+    },
+    {
+        "id": "6937333aa26d7",
+        "game_id": 58,
+        "game_title": "Little Nightmares III Deluxe Edition",
+        "reason": "broken_link",
+        "details": "zzzzzzzzzzzzzzzzzzzzz",
+        "date": "2025-12-08 21:21:14",
+        "status": "pending",
+        "ip": "127.0.0.1",
+        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/143.0.0.0 Safari\/537.36"
+    },
+    {
+        "id": "69373932526f7",
+        "game_id": 58,
+        "game_title": "\u063a\u064a\u0631 \u0645\u0639\u0631\u0648\u0641",
+        "reason": "broken_link",
+        "details": "hhhhhhhhhhhhhhhhh",
+        "date": "2025-12-08 21:46:42",
+        "ip": "127.0.0.1",
+        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/143.0.0.0 Safari\/537.36"
+    },
+    {
+        "id": "693739766c570",
+        "game_id": 2,
+        "game_title": "\u063a\u064a\u0631 \u0645\u0639\u0631\u0648\u0641",
+        "reason": "broken_link",
+        "details": "hhhhhhhhhhhhhhhhhhhhhh",
+        "date": "2025-12-08 21:47:50",
+        "ip": "127.0.0.1",
+        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/143.0.0.0 Safari\/537.36"
+    },
+    {
+        "id": "69373bc0c6e16",
+        "game_id": 2,
+        "game_title": "\u063a\u064a\u0631 \u0645\u0639\u0631\u0648\u0641",
+        "reason": "broken_link",
+        "details": "rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr",
+        "date": "2025-12-08 21:57:36",
+        "ip": "127.0.0.1",
+        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/143.0.0.0 Safari\/537.36"
+    },
+    {
+        "id": "69374c800b74f",
+        "game_id": 122,
+        "game_title": "\u063a\u064a\u0631 \u0645\u0639\u0631\u0648\u0641",
+        "reason": "corrupted_file",
+        "details": "zzz",
+        "date": "2025-12-08 23:09:04",
+        "ip": "127.0.0.1",
+        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/143.0.0.0 Safari\/537.36"
+    },
+    {
+        "id": "69374d35962d1",
+        "game_id": 122,
+        "game_title": "\u063a\u064a\u0631 \u0645\u0639\u0631\u0648\u0641",
+        "reason": "other",
+        "details": "cc",
+        "date": "2025-12-08 23:12:05",
+        "ip": "127.0.0.1",
+        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/143.0.0.0 Safari\/537.36"
+    },
+    {
+        "id": "6a39aa399188c",
+        "game_id": 46,
+        "game_title": "\u063a\u064a\u0631 \u0645\u0639\u0631\u0648\u0641",
+        "reason": "broken_link",
+        "details": "fqsfqf",
+        "date": "2026-06-22 23:33:45",
+        "ip": "127.0.0.1",
+        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36"
+    },
+    {
+        "id": "6a41ddafacc81",
+        "game_id": 429,
+        "game_title": "\u063a\u064a\u0631 \u0645\u0639\u0631\u0648\u0641",
+        "reason": "broken_link",
+        "details": ";;b;;",
+        "date": "2026-06-29 04:51:27",
+        "ip": "127.0.0.1",
+        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/149.0.0.0 Safari\/537.36"
+    }
+]

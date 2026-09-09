@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Spider-Man Miles Morales PS5 Theme",
+    "images": [
+      "images/ps5/spiderman1.jpeg",
+      "images/ps5/spiderman2.jpeg"
+    ],
+    "link": "https://example.com/ps5/spiderman.pkg",
+    "size": "45.8 MB"
+  },
+  {
+    "title": "Demon's Souls PS5 Theme",
+    "images": [
+      "images/ps5/demons1.jpeg",
+      "images/ps5/demons2.jpeg"
+    ],
+    "link": "https://example.com/ps5/demons.pkg",
+    "size": "52.1 MB"
+  }
+]

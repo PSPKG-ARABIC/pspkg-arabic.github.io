@@ -1,0 +1,19 @@
+[
+    {
+        "id": "69373294e5312",
+        "game_id": 58,
+        "name": "ff",
+        "comment": "cccc",
+        "date": "2025-12-08 21:18:28",
+        "approved": false
+    },
+    {
+        "id": "69373294e7c90",
+        "game_id": 58,
+        "name": "ff",
+        "comment": "cccc",
+        "date": "2025-12-08 21:18:28",
+        "status": "pending",
+        "ip": "127.0.0.1"
+    }
+]
